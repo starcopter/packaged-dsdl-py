@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/kinematics/cartesian/PoseVarTs.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:13:22.631276 UTC
+# Generated at:  2025-09-11 16:20:11.458132 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.kinematics.cartesian.PoseVarTs
@@ -151,7 +151,7 @@ class PoseVarTs_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8BK5*(0{`us?~fbDdB=IYBX5sKop`^j^GTLhwjxoAj*+FvQPaAWqd-x*)|s_s`{E#CmgMMWDRP(DANRv(0J=Z|DOjKcyan{K'
+        'ABzY8yY|9p0{`us?~fbDdB=IYBX5sKop`^j^GTLhwjxoAj*+FvQPaAWqd-x*)|s_s`{E#CmgMMWDRP(DANRv(0J=Z|DOjKcyan{K'
         'Fa0O@C0`22%Ob7%u6@%uY4aj40;oWX^qJl7?2#j0Dmg~`h7`nSxIboQXXf*rXP%ww&HUZ(-pItC@a67)(`&XXHIKQL*|t71>upx4'
         'HJnb@@hqQ3;gNTJH)!~Q%Wm&?S@cPC?&IjkQ8~=jY_mh>FMJf#&Am#O?|W9mtK73})-ipNY?!XkJj=8zRmWrRo9=Bd3bon}b3Mzk'
         'Bc2Io-$(kB$jBH|KaD<)!ugu%`>s_F=-%iDRL~(+Os|T<+zpGhn+H`Z)S9Mm)_hT4o=pz&TzD!lcN$b1-|Dc+yZd&7yN+#r#G1G1'

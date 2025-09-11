@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/bridge/can/TimingConfig.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:13:22.494948 UTC
+# Generated at:  2025-09-11 16:20:11.397134 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.bridge.can.TimingConfig
@@ -138,7 +138,7 @@ class TimingConfig_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8BK5*(0{?YY-%lJj5WZ9Raa_`rh$KxSrMRlvQVF&sRUfK6QA#9qa9rU)eQ0HQ*S@orU3+DFFC0>&=An_0T=fTT|K5(ha2z4r'
+        'ABzY8yY|9p0{?YY-%lJj5WZ9Raa_`rh$KxSrMRlvQVF&sRUfK6QA#9qa9rU)eQ0HQ*S@orU3+DFFC0>&=An_0T=fTT|K5(ha2z4r'
         '>2zL?=kv^b^UeM?^Y6E<M*O(ta!d`)6Kt3kBo`+n%~^soRg}sI%e?#O!0IZqm1g~M$^4oB`mKNCSKKU?qyYQVlPV?0NvZ`MvLqui'
         '>5D?h;ii%UG4!s5M@$=`q~{Gce{{Y+^POg=@y@^X?lvaYYLQl!8UHIF-w@N}ly|c)1<UDWENx7QCD?`lZ*ng+gk{ADPAnZtBZiXE'
         'ZE4w%>8pv|#;LG4XL4w{?>qwVj2MdxMVaUK-NW7mP;g5&!L}PrkWu4zzwh0BY%GzKXgUpaTBUr}wZe`jA%_`ERR*zaO9Yz+l}sbU'

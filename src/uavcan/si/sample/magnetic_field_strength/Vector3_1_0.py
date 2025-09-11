@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/sample/magnetic_field_strength/Vector3.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:13:19.523657 UTC
+# Generated at:  2025-09-11 16:20:08.598036 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     uavcan.si.sample.magnetic_field_strength.Vector3
@@ -169,7 +169,7 @@ class Vector3_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8AN9g$0{@Ly-EJMX5k8XjFI$!@|HXD3I!$e<_1QRb<fv)W#!;X;rG0GJifgoJw%lFnkkS5?<VrdL0yGy5>|%i~;4R=s$Rp$t'
+        'ABzY8xc0(m0{@Ly-EJMX5k8XjFI$!@|HXD3I!$e<_1QRb<fv)W#!;X;rG0GJifgoJw%lFnkkS5?<VrdL0yGy5>|%i~;4R=s$Rp$t'
         '0`#gEMcp?D+6QRv+?ieOIY*8JRD$%)lH8f$%<voTAIJXs_qkT}lfRbs0v&{otGSXal%Fv#<c{knQJQFJc$pu2U{vOtO!3WL%FCza'
         '@)zaj<x)QG#w>#QYZ=?|S?p-(XcndLcEq|dH_~^vBo6~u8^z<U5za&In?zkN^C@?SD=m|_6s>&np_QMObcD9PEWar8S(h23q?Z}4'
         '%in>qL)`4ID)aFTG&XQ=#toQZu0fy0Xgw&#^GnuSBO~rS=*7NJNi09(!6po70~;vCq?m3z5l6wgn76Ml9_B}?WF(E;0Y4T$j<tmS'

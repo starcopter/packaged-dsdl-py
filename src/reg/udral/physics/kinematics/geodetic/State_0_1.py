@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/physics/kinematics/geodetic/State.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:13:20.566021 UTC
+# Generated at:  2025-09-11 16:20:09.512205 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.physics.kinematics.geodetic.State
@@ -151,7 +151,7 @@ class State_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8Aoap%0{`ut?{C}28OQa*l4)6X<R5WdCry|iO_an@(q?PZZe7zg%QCP@-6reOb{R=YXCD=b)JQ6^+I3KYZcADYBTx<qu)P{E'
+        'ABzY8x%R?n0{`ut?{C}28OQa*l4)6X<R5WdCry|iO_an@(q?PZZe7zg%QCP@-6reOb{R=YXCD=b)JQ6^+I3KYZcADYBTx<qu)P{E'
         'ps)9;FSU356T1JPC<b&t-eefC?T-AOq%gMObVawKbPzv}MDlod<mY=2?>V|R_Uru@Q{j)duidRX^=3tNh;8Ui<8{5-Bo(!0wc3_r'
         'xFqnVF1vQ8=5}myrQ0UKd%@ASf;WS*ms3r>#kL=}$y%jTxAkVFO}ma!b1K&jleBb~yKBU%6XsPeyE-pTQg0C3F)TBnDR2B``0oWu'
         'N=g4bcq{NGRo!)MquOza6I^5G*`$Vpy#g<H-XP8Tux16duDiPG^6Jt|^d-%C$F^6|70Y3VjnfHHC0b<Fpe2+uH&Wv9?Urbm?p8%^'

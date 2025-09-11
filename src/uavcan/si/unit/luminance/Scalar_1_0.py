@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/unit/luminance/Scalar.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:13:19.335033 UTC
+# Generated at:  2025-09-11 16:20:08.688402 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.unit.luminance.Scalar
@@ -115,7 +115,7 @@ class Scalar_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8AN9g$0{?|m&rcLF6kc@MMNol2)Widva6K@Bih9<B%L=YyxS6IiE!&39bnK6HS3@EPiI^su@ceu6b#`G9L!3EGJMZ;--}~Oz'
+        'ABzY8xc0(m0{?|m&rcLF6kc@MMNol2)Widva6K@Bih9<B%L=YyxS6IiE!&39bnK6HS3@EPiI^su@ceu6b#`G9L!3EGJMZ;--}~Oz'
         'ul3(w>b2?#OXYxBrV?VgkyOdgG*vtyna)dXrQ;B8?KtBz=M8^9C^?+K!$UZLR+uCO%`v{@X)mKiVrAkB=@R90S<oWm$xcQUH4vsq'
         'j~gp>0iqU~yQB39v?toNBRGUGL#T5`rrvQ2AK)rd=SdJIHzikWOlF!e>L_uM;Z?^=BXj9w4>N9TDox$r{mhV5I-+>dbpqPU2$@mq'
         'NUj+Nu^8@j&W^`p$t#R)#Spep`v&hIEE4Nz!Kh&ufxaV7PP-_KXR+{}p_#+>Ey}VvS|i4f`P#+j^z^jWo;X5SpNh$F5A|hSQBrb4'

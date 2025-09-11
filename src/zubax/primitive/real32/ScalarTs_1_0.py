@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/primitive/real32/ScalarTs.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:13:22.356527 UTC
+# Generated at:  2025-09-11 16:20:11.079821 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.primitive.real32.ScalarTs
@@ -151,7 +151,7 @@ class ScalarTs_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8BK5*(0{^8~S#KQ25nf6>my$@Dx~#M1I1-s?$2Mikj1woeX()19S_u~I5DDTz&rEZ>t+~?Ov*Zd05I@8ag8@8%CV+o}e}aF4'
+        'ABzY8yY|9p0{^8~S#KQ25nf6>my$@Dx~#M1I1-s?$2Mikj1woeX()19S_u~I5DDTz&rEZ>t+~?Ov*Zd05I@8ag8@8%CV+o}e}aF4'
         'fjkG6AM<7yIbQt`K&hJPSuS<>A)z3CHGNc7S5<%2{Nwmvj?T5JpZt6}2y_rSuI5UzP~Kx+$Q{>DqBPOc@G?Jq$EeIVnc^FRl$Q_6'
         '<&VohluP-98?y-J&)>^Dw&SEqM$*VWcNAygl@;fX&qAg)beT`PeXg`j;!?EosSm9Dprm88^-1}0na{e+7$v>Ta9#cmbU(wZ;i@v9'
         'xF&fR?0M6617?_O&_!{e9uyP#g^cxm7CS~p+_^J|eW8+A-s8ar3~0lmv=mcfrtw4^0_$SlZeM(sAH%bj`QrPrmc5t<@5YArxY{41'

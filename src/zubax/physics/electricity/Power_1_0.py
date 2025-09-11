@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/electricity/Power.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:13:22.565411 UTC
+# Generated at:  2025-09-11 16:20:11.524096 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.electricity.Power
@@ -151,7 +151,7 @@ class Power_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8BK5*(0{@LwZEqYk5WbWomt0GmD7;9#)$k!)M6+!LNDwHbO_hR<q)`H>s1)Pf_1&2G*2~&^$yF+%AE+8+1X5hVpGE0-_udk6'
+        'ABzY8yY|9p0{@LwZEqYk5WbWomt0GmD7;9#)$k!)M6+!LNDwHbO_hR<q)`H>s1)Pf_1&2G*2~&^$yF+%AE+8+1X5hVpGE0-_udk6'
         'w0An4?eUDCnR#aB*U2aU&Qywzy_j}m9m{}fo(U$!eHKa{&`7mYrG??nzPMwuJTiI4zwV~o9lE85?t!b@DVnf0$}ir}L$)8J(A6T+'
         '0hc^7nTUkx23u;6XU@*h4$rhuiGzx*e%o6gy2eDK^2j}O_AF%vb;8_m?e3xNF{lQ&oSj-1T*gB*H5xO+sPPctOnC@Xb}?t2h$Vp*'
         'L7oURKu4oI%Xngforp=6IjF*H9}b+m=U}d9VqqMXG!t!ML<h0Vu1m$t@#vhTp)gePq-DT02;z&FHngo`#P^1MWvj35)q*vYZFms|'

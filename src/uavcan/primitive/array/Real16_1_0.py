@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/primitive/array/Real16.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:13:19.771667 UTC
+# Generated at:  2025-09-11 16:20:08.317113 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.primitive.array.Real16
@@ -137,7 +137,7 @@ class Real16_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8AN9g$0{`t=OKcn073KUXe`(7f#g5~#V>@(g)3oE*jDJ-d#87d2T*7Hn6-6)_l4H%l6ge0UU8+C;Wzj$Z2Iv5u0s^wpQcEqh'
+        'ABzY8xc0(m0{`t=OKcn073KUXe`(7f#g5~#V>@(g)3oE*jDJ-d#87d2T*7Hn6-6)_l4H%l6ge0UU8+C;Wzj$Z2Iv5u0s^wpQcEqh'
         ')KW_=wX2p&KdHL&uDy?>EGx47myNcP1kJp6f9IX|IMmVQnEL1I$5QRD=%_zhX;i8?tKkHmUG@H8m#R+AD%VH+dczByB-;6T7&Oaa'
         'GjM)2>O0AU<n-6cS4lR~teQQ-_9IREe%Y?&{J<OWLhrtlvxC4M&E0YA>V?Zml(z0WLBp%p5;qkYUv%#uBqUMlo8;>x+HTol7<i>-'
         '=rocqlZ_xfa!MlYmgiI}t5CLC6+5)8P~eLWZxAj(CDFkzY@X$rUpTel(EX{HUAwNGmQ!^`oLbn;w*j0-%T1!5Th+Q9uFbODDtVz*'

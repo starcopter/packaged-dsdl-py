@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/primitive/scalar/Integer8.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:13:19.739564 UTC
+# Generated at:  2025-09-11 16:20:08.329586 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.primitive.scalar.Integer8
@@ -106,7 +106,7 @@ class Integer8_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8AN9g$0{?|mO>Yx15KTprhL(?3t>D0c!U2VkZd*>AK|-oRLqribWZCN>wz^rb{1FnQO7sAtk|mHj{9neKwkbswyNC7c*fa0F'
+        'ABzY8xc0(m0{?|mO>Yx15KTprhL(?3t>D0c!U2VkZd*>AK|-oRLqribWZCN>wz^rb{1FnQO7sAtk|mHj{9neKwkbswyNC7c*fa0F'
         'dH&k`z1?ioPrP4ErISU*99Yc@{e_DHGM1ZBWt{ea@#em_A@{+;`)LJuf{%~z5WBI(N<O0eM&RR|msw@?NP9ho%;mh`Hrp*d48gv@'
         '*kNO^PMZ={BQAb8U7uiYq1X71M;MnG_ugs|JUIM_SD`xJgt7HnLm}sAmYC$8GoK({b^IJ5#?^g2EJ2<^{F~S^6WX%^%Ar@->rm;O'
         'JI_W&0;=_RXK+>~9m`%(ZZD;XPU9QC!?@0z=cVLUUM%z@2-S+MF)sr3Z!&3ej13He$F&RWnV8OWJw&ykRvn>{P+7>i2Z_h=7W<?p'

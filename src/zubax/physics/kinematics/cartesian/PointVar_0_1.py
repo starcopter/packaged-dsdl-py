@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/kinematics/cartesian/PointVar.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:13:22.623823 UTC
+# Generated at:  2025-09-11 16:20:11.450886 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.kinematics.cartesian.PointVar
@@ -166,7 +166,7 @@ class PointVar_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8BK5*(0{`upPj4H?8OBLUq$r89s6Uof+fgV-ktx}t<-|$lHfh~BRTNC+3U)0EDBRs8Io7O9a*5rgDg`i5A6m%80$spUz#qY1'
+        'ABzY8yY|9p0{`upPj4H?8OBLUq$r89s6Uof+fgV-ktx}t<-|$lHfh~BRTNC+3U)0EDBRs8Io7O9a*5rgDg`i5A6m%80$spUz#qY1'
         'pr{=*f!n63+f#e<r9gmO{1JRh-&sCGDU?*i=%I&FhWR|ZJNwR`<?nrG`HSw~{(T}A{ROYqx659+QZPL3+E&H>$SPKN!6-S^y5reC'
         'm%+d_-))rqhRc7lUFY(?oVhFS$b67AYF3r5pZTa!w6+R$vF+I<uW;M0@v7x3Te4iAd$v_8tT=YfU$tBrq>WAPdbU%OA{O+l!rzxH'
         '#^S${cV*CTSibMt#RlCfZ&E*pjIh;82FXR6SIWC1>odxhZyCNCu1GXbie!-grUR9tNA&6eiOfwYvIsJ=C){Mi+APs6o?U3vY`;+9'
