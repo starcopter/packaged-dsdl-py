@@ -6,6 +6,7 @@ on:
       - submodules/*
       - scripts/compile.sh
       - pyproject.toml
+      - .github/workflows/build.yaml
 
 jobs:
   build:
@@ -35,10 +36,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: commit changes
+      - name: Commit and push changes
         run: |
           git add src
-          git commit -m "📦️ Update compiled DSDL"
+          git commit -m "📦️ Update compiled DSDL
+
+          Triggered in response to changes in ${{ github.event.head_commit.id }}.
+
+          Co-authored-by: ${{ github.event.head_commit.author.name || github.actor }} <${{ github.event.head_commit.author.email }}>"
           git push
 
       - name: Upload docs artifact
