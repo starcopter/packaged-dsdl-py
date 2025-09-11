@@ -1,0 +1,12 @@
+[submodule "submodules/public_regulated_data_types"]
+	path = submodules/public_regulated_data_types
+	url = git@github.com:OpenCyphal/public_regulated_data_types.git
+	branch = master
+[submodule "submodules/starcopter-dsdl"]
+	path = submodules/starcopter-dsdl
+	url = git@github.com:starcopter/starcopter-dsdl.git
+	branch = main
+[submodule "submodules/zubax_dsdl"]
+	path = submodules/zubax_dsdl
+	url = git@github.com:Zubax/zubax_dsdl.git
+	branch = master

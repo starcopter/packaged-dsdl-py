@@ -1,0 +1,30 @@
+[project]
+name = "sc-packaged-dsdl"
+version = "0.1.0"
+description = "Pre-compiled DSDL for use at starcopter."
+readme = "README.md"
+authors = [{ name = "Lasse Fröhner", email = "lasse@starcopter.com" }]
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=2.0",
+    "pydsdl>=1.21.0",
+]
+
+[dependency-groups]
+dev = [
+    "nunavut>=2.3.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.8.13,<0.9.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = [
+    "nunavut_support",
+    "reg",
+    "starcopter",
+    "uavcan",
+    "zubax",
+]
+namespace = true
