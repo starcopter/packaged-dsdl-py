@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/node/port/7510.List.1.0.dsdl
 #
-# Generated at:  2025-09-11 15:53:01.086856 UTC
+# Generated at:  2025-09-11 16:13:19.692484 UTC
 # Is deprecated: no
 # Fixed port ID: 7510
 # Full name:     uavcan.node.port.List
@@ -283,7 +283,7 @@ class List_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8UGTza0{^{P-ESOM6~Es2W9-<8KN2UTNqp1L)@kfbLX$QLEsf(e$gIC)J82L^)7hQty|bB}S?0s`Ruo)lLkxp3%J9Go5)ufB'
+        'ABzY8AN9g$0{^{P-ESOM6~Es2W9-<8KN2UTNqp1L)@kfbLX$QLEsf(e$gIC)J82L^)7hQty|bB}S?0s`Ruo)lLkxp3%J9Go5)ufB'
         'N8Ujo9uPu2@qZwYkl-zxbLZ^Wc-JmUOQOt~oqNumd+#~tcYbHG-TjmAOfdB)ny6Gw-?X#3FFebzt@n+*EwXySEmvIM3Pc<Ytp;9L'
         '2trS+RVyNX8ejM@{ve)=dUVGq!}#&g*eDoI)^Sadt+-y0owxiTjx>Ekc)sO2v1C!-eY$@d=elz2ar|K%9oCH?@T`0o2tR%ZGj>=@'
         'T`P`y?pne&8*3QQO(QV$02c;t8M-5Es|>3)TbJ6aTaF_<RO!Fxz%p8fWlwZ=&mLC8d`T37xjSkzvQPHc)-4BNt#X)b$D$WHtlIO8'

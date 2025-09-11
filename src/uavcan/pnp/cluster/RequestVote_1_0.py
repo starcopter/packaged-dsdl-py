@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/pnp/cluster/391.RequestVote.1.0.dsdl
 #
-# Generated at:  2025-09-11 15:53:01.031187 UTC
+# Generated at:  2025-09-11 16:13:19.634954 UTC
 # Is deprecated: no
 # Fixed port ID: 391
 # Full name:     uavcan.pnp.cluster.RequestVote
@@ -163,7 +163,7 @@ class RequestVote_1_0:
         # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
         # is not dependent on PyDSDL.
         _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-            'ABzY8UGTza0{@*=>u(!H5O>rxag(N`3QdbD(L+Em5;+=GfOz(i7Ew%saYK=)s%7tP;#uXqd+hFo7z9d+idtzUB4zo`pUUiA9?rvG'
+            'ABzY8AN9g$0{@*=>u(!H5O>rxag(N`3QdbD(L+Em5;+=GfOz(i7Ew%saYK=)s%7tP;#uXqd+hFo7z9d+idtzUB4zo`pUUiA9?rvG'
             'uw~uc&SPhO^PBPZ_&;OKM)h$wia}<wJZ1*8;JNsfCpp9{RsBL4VZpnZ`;d!1iP_qq0Kezo-SNNsmYZNgO3)q~Zsw8IWok<e$4$;N'
             '$@>&yq2!w>mvJGBIL%9ALC0PAxddY$D+>p*cTKhl+6W~>)XB&D@}6&xwHtr=9q*<Yw^oa!v|#*Gx?)8BhgRO5|58An9VIozGHyAu'
             'A=6Rrg$@;qO|qE#UK-JpkUf+ZdZ3S2IL#7aSq`#i(YGTCo^oSZUuEF&H8<Zm2o&7nWzww#6;;%D?z`T-%8cbQ<2oA-^rB2~%8e6D'
@@ -282,7 +282,7 @@ class RequestVote_1_0:
         # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
         # is not dependent on PyDSDL.
         _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-            'ABzY8UGTza0{@*<-)|d55VmO=r%6gvg{DQ7s4Gfp9(tq{2@2&`3YCzFu^gJJ60q94n|M|^?_PKJOpJuoK7bl&B_d^c=TBw!E=|rf'
+            'ABzY8AN9g$0{@*<-)|d55VmO=r%6gvg{DQ7s4Gfp9(tq{2@2&`3YCzFu^gJJ60q94n|M|^?_PKJOpJuoK7bl&B_d^c=TBw!E=|rf'
             'e!(Z}_GWg!o%!aQc|P~|8?8q9b2suyYSJuX2DIRr_>IRIL@ZIGTp3}(yNlmICPuVOf1KptkNo>D{O`Ww=9!QZw8w_KxNUWj*h0hf'
             'mh(*V5kcH8_&DJ*%4HrUSz#>bXaLU&Fm^{-ptZ@BG_-SpjX@isWPok$9Iuajx7ls{>0fxa#JIIu#DxXpf2KQTByh6JyYr6(Wa(*C'
             'i!9}qGaEvkbv)N0Wih55tB<7-Lka13(!vn*bc#zX7M5iohZcReP2dSPmW@;j9^ZCr{Z~NYSoDy5Tfs#cHU97e@7`j@a+z|S)`4CY'
@@ -304,7 +304,7 @@ class RequestVote_1_0:
 
     _FIXED_PORT_ID_ = 391
     _MODEL_: _pydsdl_.ServiceType = _restore_constant_(
-        'ABzY8UGTza0{_icTW=gS6y8<SWSdKysx(DJ4O4-_7Mi6k65=M&CTXE8Nmpr!gamRuGtM5jv-aTegaipG6>2WX5|Luwfd_s7LgJMN'
+        'ABzY8AN9g$0{_icTW=gS6y8<SWSdKysx(DJ4O4-_7Mi6k65=M&CTXE8Nmpr!gamRuGtM5jv-aTegaipG6>2WX5|Luwfd_s7LgJMN'
         ')Cc;+KjL_1v)N>KQ&M;!QD!{0&+$3m`M%?<^?m=#a3T9KFUG535=Ir0FvV%azoLG`DkPANSSDOEYliMHwaf!{cQs~q$6kDBzqVyF'
         'LKOQVWr-%*%|pSA%(93#&?MZyv!8Gwn98=?(JBpest!0iP6Tb>QIjcM4ydTaBCZ5cnrNmf3;8jNQnTH$H6^mlRKlfjUI!MN;~iTq'
         'RtxL)AqGvT){6V7W{LeAkLZzSYnL_0Z*mredqEA7kZPKz*ULOsE@QroJI;I}5?&W9yd^ZNGqpd%A>wmQA|~n@Y}G^O0Y&T@GDPeq'

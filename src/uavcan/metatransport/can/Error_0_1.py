@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/metatransport/can/Error.0.1.dsdl
 #
-# Generated at:  2025-09-11 15:53:00.647168 UTC
+# Generated at:  2025-09-11 16:13:19.820764 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.metatransport.can.Error
@@ -84,7 +84,7 @@ class Error_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8T=2qZ0{?|mU27CE6y4J8hgGZMgV2HwXzQwU)K}lMD8lMmtoBVpGIP5L%}j=Tth<6>UxY$Hq1XTG&1}D{7H1xElbhU}bMDEv'
+        'ABzY8AN9g$0{?|mU27CE6y4J8hgGZMgV2HwXzQwU)K}lMD8lMmtoBVpGIP5L%}j=Tth<6>UxY$Hq1XTG&1}D{7H1xElbhU}bMDEv'
         '?yt3Or~TrcW>UIR=gfgsT&pi!XvkS%s>V3w0przeZ$sgOg%6Vk@DLyD<5%p(Iac$E^0xyY6}-+X@Z4KoyT(|br<Ir18jEp}jleo('
         'YLuP0uyYh2V!zX$`HuS-FEj4FRU&wB_z5q<bg~KKl`USDsvf>lpvzN8ORVIcGoNtAm48<m8C4Rd9U9K^ArL}&rlB5siT%t8ITt$^'
         'yR0+?%9S8^ym<yE6O$?b_Gk%>g@Su1@gOd<T{VW1B^?-DHi$QvGr<->2@R~_bVFQ7gH{6Lr7co=yp>iDiNwrfx>cGa?Ys?j4J2Xr'

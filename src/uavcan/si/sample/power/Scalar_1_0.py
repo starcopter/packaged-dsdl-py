@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/sample/power/Scalar.1.0.dsdl
 #
-# Generated at:  2025-09-11 15:53:00.896263 UTC
+# Generated at:  2025-09-11 16:13:19.498883 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.sample.power.Scalar
@@ -151,7 +151,7 @@ class Scalar_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8T=2qZ0{?YaUvC}76~A`;-}z(X{3C%dp)|2+?g9n}mzEYVN<$~PiHHHKRawpMj_*vfyR)5{wSAE)m4~9ZT8WjimG}sJ1U>>%'
+        'ABzY8AN9g$0{?YaUvC}76~A`;-}z(X{3C%dp)|2+?g9n}mzEYVN<$~PiHHHKRawpMj_*vfyR)5{wSAE)m4~9ZT8WjimG}sJ1U>>%'
         'pR1-1yzqqj33yA-*`2+<4vsDRcXnp>oHOT~`JLInP5kq_6P@~}cp)1^CW<}Za4lIZKVw16JwH@Qri`?_Do)(9IuC8G`Q{+w)x&D#'
         '^XjkFaxv+rEP?swbG8$*)HBjEEXm;QOzm>*-3wXFbXCmwJ6s#7(n@rS>5rZKu%ctM^F{S}Rm}U$S}lXza#Q^YG(W|s;i{^bydilU'
         '9r!ZmN6a$cqJv_*85EPnW#^ie3HR;|(okrX%FlST2?NH0x0RR{v#lrMI9L}8?)9ao`H^XvNGo^1kEM@NBl{_jK1eO^bA32M^L`+$'

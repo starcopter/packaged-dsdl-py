@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/metatransport/udp/Endpoint.0.1.dsdl
 #
-# Generated at:  2025-09-11 15:53:00.670326 UTC
+# Generated at:  2025-09-11 16:13:19.784761 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     uavcan.metatransport.udp.Endpoint
@@ -230,7 +230,7 @@ class Endpoint_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8T=2qZ0{^X+TW{P%6vsEoW|M3#-CUZq>CG*@q=mQ+X-g@TCKM`FLrT=!8?x;6G~;yFw(N1pA|a)!S`}#|M(Xe(;He*>Ujy;L'
+        'ABzY8AN9g$0{^X+TW{P%6vsEoW|M3#-CUZq>CG*@q=mQ+X-g@TCKM`FLrT=!8?x;6G~;yFw(N1pA|a)!S`}#|M(Xe(;He*>Ujy;L'
         'JCEE7JaNwMNj94%@BoRD|M<+AGiS#B&76(mH{T5vnm_7T(g?DkX1f_rL$4No;rTUgyVba!#91i0QNwp+npb6>^1F?Mo9E{2BlD%1'
         'QN3>D)uI1*?yXh5$gXqg$<&LoBu=HB2Z{Z06eMvNNu&DRHJ)Z+92rqiefO#T+^_=cdTJgSHRyU$rlFrpo|(@e`W|_0c^TDvBjmN9'
         'oln^fJn6X-lT?TH7@nqH!>EZH;W`gK;n9i|i)iXx*|5uNyv`#@!S=`{NyB<5!!__2zZYfUO2mVkk>o2p?Tk0*`k{1d&FKv5hfJ$p'

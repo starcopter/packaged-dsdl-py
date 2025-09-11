@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/primitive/real16/Scalar.1.0.dsdl
 #
-# Generated at:  2025-09-11 15:53:03.628836 UTC
+# Generated at:  2025-09-11 16:13:22.441882 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.primitive.real16.Scalar
@@ -115,7 +115,7 @@ class Scalar_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8U+}_c0{?we&rcLF7+vD-f{V%$h@Om|a6K@xD(J<FCR|ovBgC6&I@7Xk=u9X5vF?(P$U!1W6HWO1|NKw%>+JGF49*;;ov(d;'
+        'ABzY8BK5*(0{?we&rcLF7+vD-f{V%$h@Om|a6K@xD(J<FCR|ovBgC6&I@7Xk=u9X5vF?(P$U!1W6HWO1|NKw%>+JGF49*;;ov(d;'
         '?|ZLb>ObGqYt<7Tm1Aa^N{Hn~QY8;*s(3;&otN55$06L^b;f7T8@@L#Ih?`MV>p6NXpn;DSbuovQ#wjYBXjBGkSB&y)!j&TGpeY8'
         'Fh_>mSg8vTwJ`f}IzEHmOs{qV#}MWTb<W7tJ8t0<+(hYO5roF3<ceKVX%R*pB`)&2Y5N5~2)8$trtWVw^CXpyC|(SlfL<FRGin{l'
         'HRB+b!~OpG_P8y1hqbL(LK(HM@BzXyv5ppu8g>=v8{*`2P)O%lJb2&G%%OaXZP}cT5o7Du@7~M_!uV7)LSsmk$JKShbOxb@e`#2{'

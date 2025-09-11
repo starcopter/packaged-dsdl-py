@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/metatransport/can/BaseArbitrationID.0.1.dsdl
 #
-# Generated at:  2025-09-11 15:53:00.639565 UTC
+# Generated at:  2025-09-11 16:13:19.811483 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.metatransport.can.BaseArbitrationID
@@ -109,7 +109,7 @@ class BaseArbitrationID_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8T=2qZ0{`um>uwWA6vu7HcCI9Z5Uy=G(3S?;7*cKl+R{Q*fws`7DF{`nM!Vi2v&G)s?j=nsRVp7^fizMrF_m}(9)U;TV?Xi;'
+        'ABzY8AN9g$0{`um>uwWA6vu7HcCI9Z5Uy=G(3S?;7*cKl+R{Q*fws`7DF{`nM!Vi2v&G)s?j=nsRVp7^fizMrF_m}(9)U;TV?Xi;'
         'JOUqk#{Lfp38*hXtmt=kZay<}e%?Ro|IANT`hWURx*q0XrzLWkMSdsx%?~=VCE7_hP4cLaM(<cIva(&2nfzfrmFA&2cF+87=5#~E'
         'ewX`?m;P$ok6T??_(kT&d75NJ%eGwhbNN*kMBG|LNqp^VqesN5%yND(s-lN)A%1AQidX&1+%tMy_(hRLL0QP${KQ}Lh6G=ZGP?0i'
         'Bs<|oVq+ro3ttpA+c!;5v#1*t(JGIaxf$otN-V=`aUoY^_UbOj1?Mk1GF~Z^@y2=awx1WGn}pJ+-FnZGTgXmpUE#j#wu^UE{nLDJ'

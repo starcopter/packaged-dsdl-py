@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/service/actuator/common/sp/Vector3.0.1.dsdl
 #
-# Generated at:  2025-09-11 15:53:01.737926 UTC
+# Generated at:  2025-09-11 16:13:20.635940 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.service.actuator.common.sp.Vector3
@@ -130,7 +130,7 @@ class Vector3_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8UGTza0{^8{TW=dh6n3solZLtk(gz;u2QC58C4i7XAS5V+%hsuJ+8_a8nB6(qGxF}vYIZi*NR{XVsF6mZQilJ>KY=s5b`!TT'
+        'ABzY8Aoap%0{^8{TW=dh6n3solZLtk(gz;u2QC58C4i7XAS5V+%hsuJ+8_a8nB6(qGxF}vYIZi*NR{XVsF6mZQilJ>KY=s5b`!TT'
         '62g|X<2`52<vZVZeqH|ai*~F2*qg;zlp+mS30m@0{=%aa0v4;RP^C2B?B-{X%8ZWU-namF=3am39=IL5%4D8{cG$9;2S!)1sWi;G'
         'tgxJC6yi+{Nl*#R(}2>P$QS}n?%XIHP^L`fL0JTc5Yvlyon2!mpi8N8AG>`xIiI<(6)ybl9y+_hxG`Erm4VV7xp_@IadLKLPeLlr'
         'D_duR8_tX`*S<98y4HN`><fEx1mX_liNR0&tJxkm8KjUwZYIIz)KX}Vp*$gvD|@NpW;V(Oi=<&`oy3J5sxRiHVVM%(@TT4FPp|uH'

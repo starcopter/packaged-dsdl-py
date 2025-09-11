@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/aeric/motherboard/Temperatures.0.1.dsdl
 #
-# Generated at:  2025-09-11 15:53:02.597032 UTC
+# Generated at:  2025-09-11 16:13:21.385955 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.aeric.motherboard.Temperatures
@@ -749,7 +749,7 @@ class Temperatures_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8Uhu+b0{`t9OLG>-@skjG^AG|d^Bf)l2}_Ig>46}`ktL!)771CBF}CBZ_A%0|w2zN{NcwP6B_EQ4)K+Dy*i`w*(LcdQj;_id'
+        'ABzY8A@#y&0{`t9OLG>-@skjG^AG|d^Bf)l2}_Ig>46}`ktL!)771CBF}CBZ_A%0|w2zN{NcwP6B_EQ4)K+Dy*i`w*(LcdQj;_id'
         'aHZlZZgFzSl^f~aon7ts5M@N=k^+~z=bP^7?&+TC?pbX&{q@n=Li{f{TPka=W(bl?9bGo`N3vp2K~inAWV^aYqu{_TYUm~mwWV^2'
         'Mo**uucALheL=INTNZU9RtOF(dXBGpzC$Zn_Dhy*f{1?ClO5GAdDIbP(4z{b?J?>ow(Mxa5;aTIk#V^j1+CHsbzI%HP;kqAK7JaB'
         '1+n2z(N|H>A<3TS=!)+F`xl^Pmn~#mQLukTr-rs;SG%Oio-BE2ENe+7S$lBKmp4?|5<K0c!eZG{nPXe}BiJ}hz!uC>#5&nQu|X`L'

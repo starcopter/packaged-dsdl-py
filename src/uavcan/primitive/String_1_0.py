@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/primitive/String.1.0.dsdl
 #
-# Generated at:  2025-09-11 15:53:00.961541 UTC
+# Generated at:  2025-09-11 16:13:19.728364 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.primitive.String
@@ -151,7 +151,7 @@ class String_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8T=2qZ0{`t=OKcn073KWtKmAv1C!RRALnjtZf5ZHh8VFR}9EY)!K$~JTB%d_{Q^Uc`(4`6lP!=teVt@|dDWIj6T574KmRf38'
+        'ABzY8AN9g$0{`t=OKcn073KWtKmAv1C!RRALnjtZf5ZHh8VFR}9EY)!K$~JTB%d_{Q^Uc`(4`6lP!=teVt@|dDWIj6T574KmRf38'
         'E!8GX)t#1F_C1oaq{#ALGMY$QaOT~6&%N*52a<<#N7cW7bvD!fi%<I_wXjw%SRo5syYBwUuGCq<sy2rGM(9Q?jrZM&f@U>p2JGt*'
         'pQR7d3*V>TrTJL1JbReik2mf6Rog50fjjI*?tNC^0j@Wc##!q=3qrTyrA{U`zU^K=NJ*m1U()Z>c#maA+_%z<SeX7H-K?00PHC)t'
         '?y`DqwTRtT&5mp<5|za#Hwg~{dxY2dt<6{Y$`{NVik#2H>iQk+vsj%CGcW4mZBov|ji&M8Z@kbQ@>uQnUc`o2upV!ZRdFM$-cFZN'

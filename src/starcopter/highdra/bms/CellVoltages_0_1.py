@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/highdra/bms/CellVoltages.0.1.dsdl
 #
-# Generated at:  2025-09-11 15:53:02.656556 UTC
+# Generated at:  2025-09-11 16:13:21.422633 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.highdra.bms.CellVoltages
@@ -290,7 +290,7 @@ class CellVoltages_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8Uhu+b0{_jH-ES2|6u@u4KcTJVOFrZ(ibZ8<`B1)TAVHF`rD>I50GHX_p=V|9?q+wk_L`8ug9gkbZo-)G$RmFOk315i(P%Un'
+        'ABzY8A@#y&0{_jH-ES2|6u@u4KcTJVOFrZ(ibZ8<`B1)TAVHF`rD>I50GHX_p=V|9?q+wk_L`8ug9gkbZo-)G$RmFOk315i(P%Un'
         'qtE;UCcNR9y=QydUMa8Mrum&Y=j@p?XJ*gr&Cc&G4^)bu+8Niq)C(*-6^YLS|4Z%!!m{0{7DuTsg;wk4WRkfuOT@?ZSm?WY&n<mJ'
         'kEt#@<TbSKN+nO+D3&6zz@G;%;g(ZNturDBE<}Ok^CH!%*Ip1w>PMl5it4#Q@?Fg;tnF)kORE8!OPTmiCei&0#(zO(OI})ao%KcF'
         'H8bkBJubN|O`6c&P(qj5k?{qWhgRxaS?Eh^p^=m|=kkCj8hW6QwXurH0tT;W7^WvjUz9?e_%&bp3z$OR*&yO_Wnl(v$Cq{>!g&dr'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/physics/acoustics/Note.0.1.dsdl
 #
-# Generated at:  2025-09-11 15:53:01.790852 UTC
+# Generated at:  2025-09-11 16:13:20.593716 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.physics.acoustics.Note
@@ -187,21 +187,21 @@ class Note_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8UGTza0{^{M-H#MS5Z{CQVnIG~ek5X`^#RW)14K;}MNc4TvT|Gi4F<8VXQp?nWp;Y#kGoxxGxDGT(?$|nee}sEUwJhC8z%lU'
-        'SlzRCyLYhMz36T>+f&tD{i~{9Rn51PKmXBe#E&~#^>dvU3DsN)R*2gyEqFpR*{!4&hI{wS6{Bostm0Su755MPYj^ybpLbKVWL?w~'
-        '#XE`36)Tbo`dVZ<VVShrgw>)9CT8ghS6ax@L&ME{K3G5Stww9&dw<8fy_6ZFL~0G!{stN!18ZZKcT*PxFY+OrCe4{))C7#Ms}{nP'
-        'J8IcV#>zyC#FoM&ZN+a{US|E|O2!JNJj}qJ)<mljaKOGB9u5x9&W!_6DbW>1tRRRz7YfPD=D6&osW7zQWygST5d@YoZD?2K2<#>I'
-        '{L=dIa4b28x{E;-qVb)-?A^0e8&>8_<)en~qMa`5pbIt+7q=D53`S97bT16nXyb=NjnU7eM~`BNFMFF}Fs6VjbKAQ~n#;_)21=Qm'
-        '8;Lzl`*l{=JS6a<MrU$fDV{OIbAQk6r)|;WIjy8JROEiq9im!Vm2p%QoK_5>x|#4-h!kNiA&GiRLHYngGjRg%1{qj0t!!Cxh0m)}'
-        '-SqBY#j=~M!}H@I<j1SNhcm9JZHjTT1+u~&u54O}j3V7^5%3HXj@s!u&))6Q0*!`T$0!Z5?cISo-^r=uWD>6MCIowq0@Dav@zR7e'
-        'uZWEMdvF3yx`QzibtROju8FzrJ<|hTarZ(D2Q`u^DNVGd(Mx2(JM-`^oQC({eK>>P58y*sh;SxpTA(w>)`>SH0D?1HpS|06R+vxY'
-        '^A&s?P|)qBvckF?XGHhAsl-U4_ZN9rBCP{?E>&DHBh`?|(=-EtB?e!(14}H=McH|56MPl4i?%?Q`&+eWVTBcz`=9)Li`>^KHiD`)'
-        '<Xf{gMR&WR3^jra)(eXn8uQJ<=_cj9ij}cfEZS73k;5ag4rxN!M!}Ah{gEwYpIa5Z+`j7J$YAwyi@+;z3|_qp^YHr93u{{QOqTfo'
-        '5rb1$Ki@!4!<+ZutwnhIi5Z8F;H;ZnN9N&tpa6Uv*$1DDCEM`CkZW*hET`Zyd=@=|YjAxdY0Dd{yjFJBa|9x!2EIn`Z{n|5!&C)b'
-        '<GzM+n1&JD<FjyhOBO1*%GH0Ag2`2EW1AB2JN&kT1WZLxJC6Qf`~MXB(TML~pQ?0#IJ(M%tMee?5c~oa{0YC>r}*r4WA{WS;<yft'
-        'x*pir!8S%V4*W2*u}hvB_Q@ERYeyy;jq_Y*N>m~9M79Yd9gb~WWTb1+5-UiFhlwbO;i{{{mXx7_)Hk92mSv^E`NwtAY+ePSN$B9D'
-        '%lahc#A==sBMDZMQL-R7T*^Gy6m2{mZ{;{W(YPi|Ym5D(Lkw^{s}14pHV!6Ih3?ir-4yMpiv2?4z#!P?u?fe+yqEEC73woqu~ZZh'
-        'Qve)fgG=71HxyC_^Y})j1-=51*wr-AAZ?Kc*bxfP6JIlDCsCe^uSR3&^Vd%3bA6-*KX*=+VMv!x?B#Ax-O6#wg(0?$wZH32{~5RQ'
-        '%P~BKAGr?F1(YrfrR$rwh#%IQmr=U>_~y;xPyxxm(@0HNwh90M'
+        'ABzY8Aoap%0{_KUZEsXX6y8GLSP*FNB@t6bKVXe=fvAb1Xa!PDR!URQU=XKs@15N<a`(<<UP_k)BOf%>jM1cnAN^qb2YxjE4HJJ2'
+        'o|(JtZVOBM#kftg_s*F)^PJ~A=bZg^{NZoSM*O%FRWH|hkx<Q*V1>BL(t;;6lif;cVYqkCTs6vO#wvcTS8>1LU%T(``8hX1OV&j@'
+        'QM{AbT(Kglpr=Kq6P8J<O?X<A!NoLP<w^@#dT6+*&->3CzSU@reedskcaSn;lt``N+TTRyBVcXq@@`^5@FE|;Y0{h-Moqv7`|3rQ'
+        'a3?HV%~+Xek=Rn0q^<aE%gd~nT+LX)l!qxe&>Cws0uDHI)5FpJ*<+(XR7!M(5vvH|z(OIJ+0M&BnhHY;UUm%l7C~Sc(}s3sj=)}W'
+        '&o6Br566;=XuBLtfsOC{vUkr?ZCIHzl@B|5fPT8HgCW>FT-;VHGsvPwb{G23=;Mc(#_;FSqeqeAWp7g?V*<D`cfA{@xy-z4;3{*+'
+        'hPbC`ug>Z{4+*@eF_@fJif7F5+^@UCv@O<nPAjPl6}ew@GgM2fGLD9V(~2QfHx<4Lks{0`6w%sJSlvKs#!lniAcJZql`TuI@coWd'
+        'x4b)AvFsM>@cdMu{8ZKRaNaewO_4WSpeo$)%BF?LD9X(i0nZ@eXq~L{?A<;s&}qnZWT~HR?~c^@PR=H0l5mALf$U=xm`2!&mnNin'
+        'Rb<?+!)Z9<jz%WxN+{7>3v<_dCi}YL?uAGPHIgbRP4uQQN>sr+bMP*lgZJQlIFElHz=tp&;f&L?z+g^p3U43)1ZQ@>dw1x9FrUWv'
+        'tN7ZNpxaMng>^Z~iSBh%iA-Yjmw8vBtb=&2R9rD5)j-ITGy{Pp24A=%ODxYt*?DXed=;#Vw!n~kJFVzpl@*rzpZr{l{H#-K1Xb<G'
+        'x2A21;dVtCY6KtHT6mbEG2bklZc@Hhu`>3GMVsn0YIun2kS1K)D%hd2pWRXRxm7XB-K!pE`%f>o2)qI(;nfE)2d_W9uqHLnWSRF7'
+        'F*u9$^9`(Ncyk@zT7<Wsm~r?BF1YDUWF9UB3BboueelUhu?<cPv<6p3Y6_O&vltOvhZ|c-TiJTbYh!0KM<7CK;A@Qj7XBA#D+lZk'
+        '!5vNh@g3w>@(x%35%c4BuzPLe{df3v54=xAP<tl5zx{t;{P5;5rG3OPR31W|0|_(m5Gwc+ez8x9+3m-si9y6E9r|-Ur?GKuO=_I;'
+        'VOC>vJUeKQk(cYUV~xfot}`X7ka;58gpm%%?kzIXwdjczq{PESl*Dk=)nQA@&_L>&(0<#p(%{(RI%zhqfzTv0Zqj8vl5%1-&xw%)'
+        'i^wQh5S%Gx9(;;6o{qP29Gd7{6Q;Grw$UL5IG)vp@OB&L5vf8`>z!+gb~ME{p>a+SZ1326<6*v*@o*K|Ggh%w6cJMZ9M<}myiso`'
+        'qz>-!hmaOH`AKYMnrM)=$OG&Mh3AQ{m9rO?$Kx-e5%T$KFY>uD)Onw~D9bRL%O|#QccAXzINZYQ+Qr-7^`-xe+WF-Oox+b?ht+vp'
+        'ogb`jZr-u{N4<FkS63e2ynQ)TK=LoKVhvrb3IG5'
     )
     assert isinstance(_MODEL_, _pydsdl_.StructureType)

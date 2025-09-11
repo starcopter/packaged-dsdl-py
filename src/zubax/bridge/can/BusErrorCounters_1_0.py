@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/bridge/can/BusErrorCounters.1.0.dsdl
 #
-# Generated at:  2025-09-11 15:53:03.909005 UTC
+# Generated at:  2025-09-11 16:13:22.456442 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.bridge.can.BusErrorCounters
@@ -217,7 +217,7 @@ class BusErrorCounters_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8U+}_c0{_ib-D(^+6t;<fV#i5sHcd$`8ihjZKs<3Nh4wObTPW+l*lq%WqH1PjOJr7>N}9Ddw9s6%U=Y+`^%)AKP3artk@5)r'
+        'ABzY8BK5*(0{_ib-D(^+6t;<fV#i5sHcd$`8ihjZKs<3Nh4wObTPW+l*lq%WqH1PjOJr7>N}9Ddw9s6%U=Y+`^%)AKP3artk@5)r'
         'G`nkWyld*q+SnuMob%~Bzxrw7w_;|j{_%IqPHyuep_UuT3i*Pi1y5+ETcx(r@!+rTI8$Y=GJLmF@^BLFzYITyML$UuYe9bRMU}F{'
         'BsDVM=Sjv?vQpVEjnQURSITi?gTG4K_)4vU81vIldh3(W9B+>O5?%&>jWXwqOe@E2_!j6F@H*8Be)22Hi~NkwEX|o?)J2jPnU_Yk'
         'q?2uEG`>+*?kk>u4UYTVyzSgIno36tuJ)Y>&1HaR%sSfAIS=BdzqQo|ie||wWb07`kH&ru+ri(Y)-jbclMezNRjHWt6MNdUf}fzd'

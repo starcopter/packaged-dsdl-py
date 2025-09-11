@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/aeric/motherboard/PSSKY1Status.0.1.dsdl
 #
-# Generated at:  2025-09-11 15:53:02.587215 UTC
+# Generated at:  2025-09-11 16:13:21.375095 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.aeric.motherboard.PSSKY1Status
@@ -162,7 +162,7 @@ class PSSKY1Status_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8Uhu+b0{^vGZEqb%6}~rd?CX~}cAYqGLX!!liA{aCNm?f+yfiN*xSGas?KGqySoURnXXCv)+nL#G-xMVJ0hCB9u~HVPANT?N'
+        'ABzY8A@#y&0{^vGZEqb%6}~rd?CX~}cAYqGLX!!liA{aCNm?f+yfiN*xSGas?KGqySoURnXXCv)+nL#G-xMVJ0hCB9u~HVPANT?N'
         '3H=F`_yZN965psQp?*MufP}<3yR-LRJ5B`>#EPG@^K#CabIzP|#=ji;?eC^*#lQ4)-1U_oTDD>`aKhk$<A%(#J<*PZ3N*{p!*8%K'
         'Xanir>BcO7oG*Nk|017HhwUJWn9O-CJ-nf1;^{=P-AfMHk<$hi3raiE6R~E}azKt}wT0$Py26pZwYITA-@UM*9i6B=ZP*<qRUjf{'
         'JaX62k8@h1^<U>7<mtHWXe|Rb(M;t(0V&ToLT^=`9=aK@(C_OtX8VqIY>mqDk#dlarDqbS<2jL~gEq4^x{=4Fh=K=ja2S9iwBwvl'

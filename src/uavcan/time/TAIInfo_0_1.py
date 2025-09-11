@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/time/TAIInfo.0.1.dsdl
 #
-# Generated at:  2025-09-11 15:53:00.710098 UTC
+# Generated at:  2025-09-11 16:13:19.722871 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.time.TAIInfo
@@ -109,7 +109,7 @@ class TAIInfo_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8T=2qZ0{@j)ZEqYk5Dw6nu)Gxo@hZR|Kt;W5E_ZE`E8;^*8wi(Pqb3C;ge>o_?`*nfuWWBFhd_c4AS$f{Qq7Oy7x6ck@!rd}'
+        'ABzY8AN9g$0{@j)ZEqYk5Dw6nu)Gxo@hZR|Kt;W5E_ZE`E8;^*8wi(Pqb3C;ge>o_?`*nfuWWBFhd_c4AS$f{Qq7Oy7x6ck@!rd}'
         'v>+}YZg0Gvc|4wZp2?4A{<!|!O88W77t_pUc}y)glI8L{mgGF9sU8>FO2>Wm+>tY7>Po|prv>--{f9sKAN<AYELCg_>uV)DNtueB'
         '9P{}2+Wx*8YG19=6K<^3%8Qli{1>z5`@X-@f8rPaldqnk%sC^I(sAp*0e_D{vUtl^XZIw}vn7IvX3R0_5Z2?i7e<bylP3uDj<Ry3'
         'c($(`A93^Gah{=xbTsE`<b>}>;5=p4(Xr0B7cW&WAI=@&ws;rTZsHQ2=x2Z1S1(cPn97*RnvU+3i8x!mn#tji8?I7L9g}n{RcUGI'

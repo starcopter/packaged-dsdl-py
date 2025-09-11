@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/bridge/can/FaultConfinementStatus.1.0.dsdl
 #
-# Generated at:  2025-09-11 15:53:03.920194 UTC
+# Generated at:  2025-09-11 16:13:22.468071 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.bridge.can.FaultConfinementStatus
@@ -227,7 +227,7 @@ class FaultConfinementStatus_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8U+}_c0{`V!TW=dh6i$=o=3Zz>32i0lf)Gul#BC*nD&T=MBvR!z4Y8XS1jFp^*fZ*SXEigM#D$jjfr?5afz;ulLP9(t@hkW@'
+        'ABzY8BK5*(0{`V!TW=dh6i$=o=3Zz>32i0lf)Gul#BC*nD&T=MBvR!z4Y8XS1jFp^*fZ*SXEigM#D$jjfr?5afz;ulLP9(t@hkW@'
         'Ja7?zfp2zW$FUO%5^v-p&zw2uJNI+^@c6fHog68C?8U4T>o}<r&6J>txJSc;RY@e<nbg8CXHV6Q$|I92*63u+J#`C@+<iB1$4N@t'
         'c)xTn59w|-R3dJ%YDClO8qE{4BGaZwS(~M%Zm7w%vr}Z7DJ^8`_=ug{+B-jWwPUrB$L^7{CkQo0i7+=zyN{vc2<v)W&W^7Mmc;v3'
         'RY*(?CB~b2lz65@TNtqoj@dh@7Oj-UH&Vk|OdWLb1PO&92}@gsyV@wgBdQH)%a}QS*3NBofxK9C1#h?f6FeIE(rr3>mS{uMn5wuR'

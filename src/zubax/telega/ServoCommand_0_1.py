@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/telega/ServoCommand.0.1.dsdl
 #
-# Generated at:  2025-09-11 15:53:03.890540 UTC
+# Generated at:  2025-09-11 16:13:22.511351 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     zubax.telega.ServoCommand
@@ -256,7 +256,7 @@ class ServoCommand_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8U+}_c0{^{N&yO5O6`pnM^?Ksq7!wddC<Q{%ZrE)bkT8J*!HyQpc-JdCgowy$S9jOUE4#a^sj8mcF$%&0M>cASfE$Tpu3Y#R'
+        'ABzY8BK5*(0{^{N&yO5O6`pnM^?Ksq7!wddC<Q{%ZrE)bkT8J*!HyQpc-JdCgowy$S9jOUE4#a^sj8mcF$%&0M>cASfE$Tpu3Y#R'
         '5Qj*)AR!@fL*&XCapGX!tLmQV-JMyB1X#<v-Bqt%y&vEA-s_(n|Ml<A_S{ePLNQ59k_Mp>TJluh<xwhvFjiTijI^Szp1EOl8QW5e'
         '*CvIiAJuF3>bL6E>O`3H4EH~Mw~Y8+U_~lMJh&nBSY1|G#`C1ER>HB+MykAqUUl;I=J`=Q=na<MuJ6^=(;>H3%c!)%)HhM<0(+)X'
         'b#-D>iZq$o(GL@Dd1%QvIOZ4OMD<y3Rsj<uV-qA3w3Z%TRhwT%)8HhWYOR3Ncr!fP96i@j^1^;4cVsRyZV#$i8uaF<S>#HgWhSj0'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/primitive/array/Natural8.1.0.dsdl
 #
-# Generated at:  2025-09-11 15:53:00.983787 UTC
+# Generated at:  2025-09-11 16:13:19.769447 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.primitive.array.Natural8
@@ -151,7 +151,7 @@ class Natural8_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8T=2qZ0{`t=No*U}8RqQtPVb8C#EiF$6Pu>jFl*HsC{+CY9M)+AU5e3=oahZqk%QsTr3wU44lNX5fIh%eKt~;Q)KNzrb=0lu'
+        'ABzY8AN9g$0{`t=No*U}8RqQtPVb8C#EiF$6Pu>jFl*HsC{+CY9M)+AU5e3=oahZqk%QsTr3wU44lNX5fIh%eKt~;Q)KNzrb=0lu'
         'O-++jz3Hf9-y^Aok>y=7nn*fu=Kb6EzW;&b$N9(fzkho^)&7gm2BVcmrJ8dZUg*13|Icoz>gAkreI%$i{K!k<1D{7>vm7-;@AspD'
         'mpn=?f1P}l*s<Z%+!0|v+jJk6-C8aP{SiO%A9^`A4BgS(Jy*oI)j|@dorhl7@awgNrDE%g?)9UD6iWRy`8tXBIc^k%eyJIGjpUEX'
         'R-o3LlGymQ?^P@7VD>r{H*%dwB8*RO5iVgR@yRb-u_{)6>(z!M_Di|iyR!q1SM^4`TGY+A1)Q}FC-Kog)EfS9&8z&T7J0*7*qd*k'
