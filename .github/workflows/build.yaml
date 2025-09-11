@@ -9,26 +9,44 @@ on:
       - scripts/compile.sh
       - pyproject.toml
       - .github/workflows/build.yaml
+  pull_request:
+    types: [opened, synchronize]
+    branches:
+      - main
+    paths:
+      - submodules/*
+      - pyproject.toml
+      - .github/workflows/build.yaml
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Dump GitHub context
         env:
           GITHUB_CONTEXT: ${{ toJson(github) }}
         run: echo "$GITHUB_CONTEXT"
 
-      - name: Checkout
+      - name: Checkout (branch)
+        if: github.event_name == 'push'
         uses: actions/checkout@v5
         with:
+          submodules: true
+
+      - name: Checkout (PR)
+        if: github.event_name == 'pull_request'
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ github.head_ref }}
           submodules: true
 
       - name: Install uv
         uses: astral-sh/setup-uv@v6
 
       - name: Compile DSDL
-        run: uv run --dev scripts/compile.sh
+        run: uv run --only-dev scripts/compile.sh
 
       - name: Build
         run: uv build
@@ -43,10 +61,13 @@ jobs:
           git add src
           git commit -m "📦️ Update compiled DSDL
 
-          Triggered in response to changes in ${{ github.event.head_commit.id }}.
+          Triggered in response to changes in ${{ github.event.after }}.
 
-          Co-authored-by: ${{ github.event.head_commit.author.name || github.actor }} <${{ github.event.head_commit.author.email }}>"
+          Co-authored-by: $CO_AUTHOR_NAME <$CO_AUTHOR_EMAIL>"
           git push
+        env:
+          CO_AUTHOR_NAME: ${{ github.event_name == 'push' && github.event.head_commit.author.name || github.actor }}
+          CO_AUTHOR_EMAIL: ${{ github.event_name == 'push' && github.event.head_commit.author.email || format('{0}@users.noreply.github.com', github.actor) }}
 
       - name: Upload docs artifact
         uses: actions/upload-artifact@v4
