@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/internet/udp/500.HandleIncomingPacket.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:20:08.409350 UTC
+# Generated at:  2025-09-12 07:48:14.401115 UTC
 # Is deprecated: yes
 # Fixed port ID: 500
 # Full name:     uavcan.internet.udp.HandleIncomingPacket
@@ -184,7 +184,7 @@ class HandleIncomingPacket_0_1:
         # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
         # is not dependent on PyDSDL.
         _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-            'ABzY8xc0(m0{`t>U2GdycGi%?nIY{Yik;X>yc<t8PL|n~8Ro}{lI&*XjT^|gIga3Xw*qzpYRI|LorIj3ogax@pn&$Fg&qd&0GR@M'
+            'ABzY8KG4Hx0{`t>U2GdycGi%?nIY{Yik;X>yc<t8PL|n~8Ro}{lI&*XjT^|gIga3Xw*qzpYRI|LorIj3ogax@pn&$Fg&qd&0GR@M'
             'TRrNb4|>$29`)##0)7-w6jg!#XxnaUw0-C~Gee5BBqxr4(spgbB02ZobI<wC&%MX|v?BlIU%xq){)x`JJ<~VawT90<%V=A_Hkxf-'
             'YqXq>>-bi{ljw;nylr*xt$Cy8^5o0p)!!t4l2jw5Vc9nK5-}D%@oC_NtswOH=#)~!HaaMx9vVw6!>(C&z&)D>wa|2HGlp%p`BfXY'
             'vh2lKqxA(2T<5<ExgR8v)>z`6Z#g!}SAU+r|1x1?O!~9rH%WA&VFZC^HN$}W$!ECPF_sKwB~j@ki?_`K^(qb12#iKRIv=;(^~iQ>'
@@ -294,7 +294,7 @@ class HandleIncomingPacket_0_1:
         # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
         # is not dependent on PyDSDL.
         _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-            'ABzY8xc0(m0{^8{-)|H*5WbWn2??~IK!Siap}%yrVjC(URRV#4N-e$SxQ4cG$n~zLH&*uSmF>OekRrhYC=ZrE%J6^j=k&4Ty`;K8'
+            'ABzY8KG4Hx0{^8{-)|H*5WbWn2??~IK!Siap}%yrVjC(URRV#4N-e$SxQ4cG$n~zLH&*uSmF>OekRrhYC=ZrE%J6^j=k&4Ty`;K8'
             '(wE*otbH^7X1;H}^|SVyw<lZ8FRoT&<yDyp4^GQcKb3h2nJDbAvR((Ec;<U3^^lk9*Kq~3N7tUy4t3(J(8hoxY{fH=gR6^BJ2;$j'
             'QW!a8h#R#W71Ctd1aJmIR;w!eQ5sdkL&K%C8T4hb#eq%ml{KEv%!?5?udPW1=6>H_?@_naoq0*mDJ}{bg41~&z|#|oOH+H1k0+&f'
             'Ql5g!K_Qs|?ZywqpL!dVsH_V@E9%8_!rR&vz=0A(B?D5NORrMr6i@Y8hwXm)caJH}d_%E~HnEy@bt6D*|7G14#j_Q2kONTHlcLwF'
@@ -314,7 +314,7 @@ class HandleIncomingPacket_0_1:
 
     _FIXED_PORT_ID_ = 500
     _MODEL_: _pydsdl_.ServiceType = _restore_constant_(
-        'ABzY8xc0(m0{`t>U2q%Mb;bgV-326Dv}8++72E4rabTN*A;+?5$4=-<b*Z^N3M(racBUP0fxYA|4eW0AhXgXy8RnrKwzFw=#@iV_'
+        'ABzY8KG4Hx0{`t>U2q%Mb;bgV-326Dv}8++72E4rabTN*A;+?5$4=-<b*Z^N3M(racBUP0fxYA|4eW0AhXgXy8RnrKwzFw=#@iV_'
         '@*xj==mQ`5$VWc%k&k@jblQ&ECMo+f)1I@t00I8!Uvk^X8iT;zd(S=RJ3sdx^23t&x7#1)lK;ZjoUZQat!mxluBo-mpKFa4uhyG('
         '+p#^<=W%%IOYSb1O@6!U@c8TatzX1{9#_KW>Ms9Tz&*e2({m#iK6jnB%r-93hi6K4)3UgmO!?AxgQg$2hlCaDme$6tYJs-U)U2v$'
         '`P{X*Uk!ApI;mNDi{G$NCDWRl(wbl4z^!!iI8^Ej-1SV`BKh)9v-e-eEXRbujDLaZ*EQdF%|_sJFa9&!>;#MZv*NJ$xyf7lfqLb-'

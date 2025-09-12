@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/telega/CompactFeedback.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:20:11.541190 UTC
+# Generated at:  2025-09-12 07:48:17.059207 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     zubax.telega.CompactFeedback
@@ -220,7 +220,7 @@ class CompactFeedback_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8yY|9p0{^{LTTdHD6b3aU=8_8{DQ(p@6Cp(;;Kin-0ab0)AW$j;v4G?Sq0#Kl;4@`+XS+LVaHLAj18owG)T){MmOk{N{<HMV'
+        'ABzY8LD0i!0{^{LTTdHD6b3aU=8_8{DQ(p@6Cp(;;Kin-0ab0)AW$j;v4G?Sq0#Kl;4@`+XS+LVaHLAj18owG)T){MmOk{N{<HMV'
         '8jP`_k6p|5?94gmJJ)Z1y!3W;c%XR9?WDys9(ptrsbryi&iqh#G*D5ZGO2|%SGRPU2Rcv1b}JF~jlK86{$Qug5RF-c=N~`MeRk++'
         '5sC)$mQj%fdQ}MSvtZwv5^ah!lPb0_V6HqnUca%mf!g3t_JuX0lxdwxKi49&yJ+|VmpW3`46RBL@>5qvC})~c?fkn)JxOIGwQQoq'
         '#M3yFjacw+V=WpYJsa03^`)kvh#MMgZ4`|MEYmbnTv)hi-mjk+a%$c(o~^qh7txX3wB{zwG>bV)dAFfgxer5Tga@>#Ld_cJ#wE&C'

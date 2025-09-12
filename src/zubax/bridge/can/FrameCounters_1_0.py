@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/bridge/can/FrameCounters.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:20:11.376593 UTC
+# Generated at:  2025-09-12 07:48:17.244017 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.bridge.can.FrameCounters
@@ -247,7 +247,7 @@ class FrameCounters_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8yY|9p0{`V!YinFZ7~ara+D$JhTO;;EJ0fT*^fXpP{Gg)2Kv|P6NsO0T$2n(acZQxlbC}C^w^B$E3xNRx8UIf~5Uu!M`V)NT'
+        'ABzY8LD0i!0{`V!YinFZ7~ara+D$JhTO;;EJ0fT*^fXpP{Gg)2Kv|P6NsO0T$2n(acZQxlbC}C^w^B$E3xNRx8UIf~5Uu!M`V)NT'
         '>}D_76O8@Z4VyDF?`59%nRlK&d$YfFtCiy8uID|fX&Pb8lpv{iMB<c1IFapKYGIgn7q*SEiLr|9^m678{f#I7v0rg>I3sPaUwdR@'
         '(v4yzXp2P&$)a@yhBaw3!<6>!EbhQl$jtMKTi6|p4}E>6UU}-Dc(;g&F-pYNFzxR{>JvZ>y}X-S7c8YCFjY*6A=m_jCxz!qw1p8J'
         '@Th&2Y0=6Uy#p9qOifm{h+|=J%CeT>zP<{{6QT`nOUgXI;+7jni9%Sk2DXi0f{H4?_$}|QU~Nc7iK63)_HE4PTvcRP+azHcn3=^?'

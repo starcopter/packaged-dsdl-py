@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/temp/motherboard/Servo.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:20:10.058828 UTC
+# Generated at:  2025-09-12 07:48:15.993641 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.temp.motherboard.Servo
@@ -251,7 +251,7 @@ class Servo_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8y7t0o0{`uo-ES2|6u|E-ZEwG5Z!KQ}LP0G><U$3MZz>qXtdxcd!2m9^yTd(O_U>+WXKQPMfd@@7leh_E!XuCT3H%9!Xf*ml'
+        'ABzY8KhVQy0{`uo-ES2|6u|E-ZEwG5Z!KQ}LP0G><U$3MZz>qXtdxcd!2m9^yTd(O_U>+WXKQPMfd@@7leh_E!XuCT3H%9!Xf*ml'
         ';*)PY`p6re*?YG4_O_+I8fnx1&Yqb$bLPy<nVCE7KRM+>_9M54b587d6*K0M%RKiRW_i3~+CeQ0Vpnh_*G`Eju|*Q`FXlq7?yKE*'
         ')onE@J4~O|uzW`>SY!vG;88{JT3D$C0(fKvEOIJSJemoV>@sI~6uW`1pdd?^NxrX)f>Hcl-Bq&JWI{x)l?WcI>u7xizZPmK*>Tq8'
         'p40HB$8?xrrqE78TU`kqa!bNyZ01*Dx03j-s4%~ZhNf)hu}DD)x{aby&^|!lbp>T=H?)!iVdU0a;m)7~-DkakiN!(bH7!?|9`~yP'

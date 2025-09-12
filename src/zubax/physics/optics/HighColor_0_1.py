@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/optics/HighColor.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:20:11.400220 UTC
+# Generated at:  2025-09-12 07:48:17.085315 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.optics.HighColor
@@ -164,7 +164,7 @@ class HighColor_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8yY|9p0{?|ojc*$@6i>CLO;Z>h9YY|odVnAm&4p>*Koe-9rQ1;2Qf2Gt_>kqhbMvfT&L`W~HbY2M0;EbtAk|2Gi2s%6%SY38'
+        'ABzY8LD0i!0{?|ojc*$@6i>CLO;Z>h9YY|odVnAm&4p>*Koe-9rQ1;2Qf2Gt_>kqhbMvfT&L`W~HbY2M0;EbtAk|2Gi2s%6%SY38'
         'VTq#n?Du|tAHVmzA1D8Kw^AxTb|LG=I!*$rxe_c9&sdo7fJU;DNi7U__T@)L<&nu1f85QuJ8_Fg?gv-1Wty@Mo?m~KhwL!OpsPis'
         '1DP5B_fWK9RVGq7TcP`0X(3YwB|H73zdmuzQgh-LcjW9WWyUBG=7wwc9YT)@YG~zb`M%&ud>TxZ#>_Bke1zlNGbK90h<&t}-%hn?'
         'r#${5HN4H$+015XC=5+_+BV>tWdx6yHnbyS?%=Auwlx6qZow*^ZTKUf(a)~s>{Y4_OJk<uQJ~{IgtEP)c<k&Xjb-F)$>H8y?^c+H'

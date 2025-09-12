@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/sample/acceleration/Vector3.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:20:08.511244 UTC
+# Generated at:  2025-09-12 07:48:14.128010 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.sample.acceleration.Vector3
@@ -166,7 +166,7 @@ class Vector3_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8xc0(m0{?wi>uw#l5td}#Wy_M~TP(++)5MlqpG_i1j+!=Y90jUV+Q){ixJHX+%iX088SSkkSJDX(p!w0jDi+8B-U5DvJVKtJ'
+        'ABzY8KG4Hx0{?wi>uw#l5td}#Wy_M~TP(++)5MlqpG_i1j+!=Y90jUV+Q){ixJHX+%iX088SSkkSJDX(p!w0jDi+8B-U5DvJVKtJ'
         '2+-d}-8Tr@2WbAeGrQb#jvT2Hq;Hnw&J1UU-*Epl`q#hB4pl$-D`_{-LFl-eE6GCn8S_H!xPB6)iI#?!`H2TcWxmN2-|VKmd{Qod'
         'QGQ-7<zsHlBA9<YV>>>J9W5Qrq7>d{zRyFhn2|~BJmkJf)b%o-ba%MYFjR`6eBz;%pOkc%4t-gEQRXu)Ge$`-GhCOy2Mb5|)>~EP'
         'V;ho(LEoooH(-Xj1|1b6^`IEbFIyLljJWfl8~Z{fvHXk&n=qgacwLGKG1Yh?j)QeEXJ219%8yjZNE*2Vek^<(YuSl;@KJ1dhpU5;'

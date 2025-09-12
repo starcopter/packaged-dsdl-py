@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/highdra/bms/PowerData.0.2.dsdl
 #
-# Generated at:  2025-09-11 16:13:21.435980 UTC
+# Generated at:  2025-09-12 07:48:15.930467 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.highdra.bms.PowerData
@@ -585,7 +585,7 @@ class PowerData_0_2:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8A@#y&0{`ur-ESP#6~NbP$KQ$bod69vAtiB&J%ED~LtC2I!3`R0LL5@)*DyPCy?55LGn@HXdy}FPArPsi>PVSZR8=LUzR>@G'
+        'ABzY8KhVQy0{`ur-ESP#6~NbP$KQ$bod69vAtiB&J%ED~LtC2I!3`R0LL5@)*DyPCy?55LGn@HXdy}FPArPsi>PVSZR8=LUzR>@G'
         '$2=nSA3&%`c`Nj#Ql(0$RYlL4IkVpmd8n#BBvJ0UJNMjk&;9zHduQ_2(62vvtdRbRj@BBcZ`z9H3(wMR>$+aDg`yd5wdVR(Ad+b3'
         '1z}rN%$ipkHIdv-PTfr2Os1n@&2k*!C9)9hTnoI=2trSEs_f7ly^1El4|LCPYk}|-X_ckv=}M{UE0^3&;a$)JJ&8uOy6}9<b;#bx'
         'RnFf|)Ph=kH@TTa6Pg|bo>dA1;U_;q<J)-N)Jmcq%a*XsmOJB`iEU{C`6x%ShjKhR7V33Fca*@Y3T3U~7}9ec>pJ!qAE4*eS|TUq'

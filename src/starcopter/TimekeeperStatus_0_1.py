@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/TimekeeperStatus.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:20:10.042020 UTC
+# Generated at:  2025-09-12 07:48:15.898389 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.TimekeeperStatus
@@ -225,7 +225,7 @@ class TimekeeperStatus_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8y7t0o0{_KWTW=ND6+Q-ojm^cx*cfQSrnF!hpGklK4s9APfq(`d9NVO{RXd%_KHl4&Gc%cs?L%6rd1!^DkvbAnDL)}Uf%m>3'
+        'ABzY8KhVQy0{_KWTW=ND6+Q-ojm^cx*cfQSrnF!hpGklK4s9APfq(`d9NVO{RXd%_KHl4&Gc%cs?L%6rd1!^DkvbAnDL)}Uf%m>3'
         '^$$c<RjE=HMNuEBJhVLYq2HR>b1uHLQdOx~_}gb+*828ZYp=DAe>wQux5sP6zw~s_b|S~sjEINQbmbG%a=B*Mek<@J8S^|n^d5I*'
         '3qxnA9q{~Fe&Lh+7x{F$-;kci!(7zTLyK{k*l`l_{w@0q&ul@&sVFu>+Ye$MYD==kS2+)OxEPyp66NWzvBtwl`W}fI`cRFZ<$6sY'
         '_;vnCo{k!39EZ|MVjkr`f!tk4cXs9JzPpmUPM67u;h3>$#6(XFm6Kv5J(HMgw&`gxNNJ00&laKY$tSofCP2Cs<l>+>tPkilVj_-0'

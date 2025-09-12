@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/highdra/bms/CanState.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:13:21.420756 UTC
+# Generated at:  2025-09-12 07:48:15.916957 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.highdra.bms.CanState
@@ -112,7 +112,7 @@ class CanState_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8A@#y&0{^8{T~8D-6a`se!B4UTqKSe=4U#Z^#Rp$Z76e09md);}Po{RJWpCr`bkcT^H8Dz}CL~QXq5fZQXTJnRqwYLx+uNR='
+        'ABzY8KhVQy0{^8{T~8D-6a`se!B4UTqKSe=4U#Z^#Rp$Z76e09md);}Po{RJWpCr`bkcT^H8Dz}CL~QXq5fZQXTJnRqwYLx+uNR='
         'dwb9MQ22I#VkH0Bg|x#oivyy$5;PWXX&Cc>M6#VqEev<|Y{RH5GMVDdPRiY(yS4A$xg|SJ657W2f;Ln|GBsQUAX>l_4Z^k#)@af&'
         ')FTwhE>~K}#KDN2eBK)$y2?mp^t0P{_B5f!C=q6cYxfedPhd6J<?Q%|;4vGrnI?=HN{pv?((zP@wlHEBca)wbTC@_*HWR~JTpdmA'
         'Gzo<vF;7|sT%~~E5!HsYCF2fe?Od%7<d0#Z+HCod&*+n@J3C9TCJCd8{RniBg)nZ%b+;%5!er#^h{M%$wzwt}f5r?*Kndo0ql=XS'

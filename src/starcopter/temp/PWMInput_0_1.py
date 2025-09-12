@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/temp/PWMInput.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:20:10.049767 UTC
+# Generated at:  2025-09-12 07:48:15.963140 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.temp.PWMInput
@@ -186,7 +186,7 @@ class PWMInput_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8y7t0o0{^X8UvCx16~F!izP2$o7#k-P7@8LB#CHia2A4Jsgp`6NzBq;i+N#~o?v6cU_U>+GXKi0dq~@U&NGo+Ewo*PqK0-c1'
+        'ABzY8KhVQy0{^X8UvCx16~F!izP2$o7#k-P7@8LB#CHia2A4Jsgp`6NzBq;i+N#~o?v6cU_U>+GXKi0dq~@U&NGo+Ewo*PqK0-c1'
         'q<(>@YNI?xRUfK8RB8Ltb9QI%y|%9_RViT3+4*zk{QaF7|9bfMr>AShpY&|h_F~Vs?3gRbeEFC;KDTT)Y(-%#HP6$Dx417`z<T%F'
         '5zn9J3m@el=JV-cTLuAFxu~TR_q0k}ohZJ0$ss#nEf6smYo^>V(p*`Zw<2rx!OEQ=N_3vq?Jcfi83rh4<UPYb&uNVg{5Jn6PseSh'
         'wUSPvd7S?OgdU)AXH}jax+S^qb=4TNJ*JthQ8zJC4vMk#T*9_o7Fb%gxOJ}`xI%@2d<=HN0BGEba&bf)r318vnuud?x|lKB=MK^%'
