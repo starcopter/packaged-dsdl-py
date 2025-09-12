@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/temp/motherboard/GearStatus.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:20:10.055159 UTC
+# Generated at:  2025-09-12 07:48:15.990080 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.temp.motherboard.GearStatus
@@ -260,7 +260,7 @@ class GearStatus_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8y7t0o0{`t=U2Gl26~1=-d!58~jFUhL9G5n6AYMoyi3=@%34v&_32}h5s4RPT$DX;_ySwa<?F&VMhgM0oQdeRt@kmuw;;GL_'
+        'ABzY8KhVQy0{`t=U2Gl26~1=-d!58~jFUhL9G5n6AYMoyi3=@%34v&_32}h5s4RPT$DX;_ySwa<?F&VMhgM0oQdeRt@kmuw;;GL_'
         'ty<bA)V}l)p(6TFskASBs47vZZF<h`+3Wk~BvompN=cMGb7#(;IWu$4cfPqdZw!6^$8(kZPjaW<v_sp`j8Fv1bkwV6%@LYmc@5tS'
         'RV1=x*J<IX1~%;rO<!bhWryF)UeD%}5ktAI2r^kocCAD~Y(;S(I#q@Z*KDAPgJEO_mgh$z&?3?BwT2f-5!5_0u(c<J8LUKR6o*+d'
         'W~_@KRGv##N1x~RTbW+b2fmZNnI#j38AXAr#gPcJZ{if&_}|jXlHoH-IQEuPRl_zT(}>7ZIa+keYBCp_>z3(ik!lESrRiES@LcsO'

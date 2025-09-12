@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/service/battery/Parameters.0.3.dsdl
 #
-# Generated at:  2025-09-11 16:20:09.353473 UTC
+# Generated at:  2025-09-12 07:48:15.290618 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.service.battery.Parameters
@@ -711,7 +711,7 @@ class Parameters_0_3:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8x%R?n0{`thU2Gi3d890f)al=}tT>9}scbW3O|E51NmUC-MNwp=@OY$kGA*dFS97~_H*?(Ex$F<glj~Ma5F;uUh){2XAP<2b'
+        'ABzY8KhVQy0{`thU2Gi3d890f)al=}tT>9}scbW3O|E51NmUC-MNwp=@OY$kGA*dFS97~_H*?(Ex$F<glj~Ma5F;uUh){2XAP<2b'
         '3OH$j!UYPn4{Z?SDGz=K3bZKDKDa2_hZZPWpbtSG>VDtM?%v+r9wjm`0u)Y=Psg2^@B8MP?|&xu_W$8ueQ8AfCwivcv3=VyOrLpz'
         'I^r&^Im|FE*=kE)1T2n@US*DG!B6{Ur_JJb<LS5Kx8kYjpebCJc`+Y}j#dLNw1UuMy;BaDE^Psd=RDRhLffN`0c19X#f%ya0_Js$'
         'HR{0>`02;dxVZ`c3h5%wvGwHlyYceK@?-DBZ^zML6IOYm76#0ZUk3t1xX)(A(Saqw9J|X>$+T%e%>elvw!H1(e#Iutn0VFoMZ;zG'

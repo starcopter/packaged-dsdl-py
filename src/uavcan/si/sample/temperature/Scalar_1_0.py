@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/sample/temperature/Scalar.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:20:08.572743 UTC
+# Generated at:  2025-09-12 07:48:14.161089 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.sample.temperature.Scalar
@@ -151,7 +151,7 @@ class Scalar_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8xc0(m0{?wi-ESSm6}KIKJ0A|t7YT$3(8O+Y7ce-uw6uUx8al~ML=3fBmDTL-_|DY3JKLGrYhR>F<)J99R$`@WCH@5d1pWl1'
+        'ABzY8KG4Hx0{?wi-ESSm6}KIKJ0A|t7YT$3(8O+Y7ce-uw6uUx8al~ML=3fBmDTL-_|DY3JKLGrYhR>F<)J99R$`@WCH@5d1pWl1'
         'K39a-KB2z#jkoli-P!Bw;MA7=J3BLb&Y5%0{LbuOC;#!^6JzyH@j^C;OcZ;*;aaj-e#(NFdw!^rOc`l;Rh+nQbspMW^UXoVtB2Lf'
         'XVqV-<zmWDSpxGf<*XmF)HBjEEXm+)%ae?2hOc<{Ll!e#6|;VyYa>-!iLqklV<$hX=r|qwy!xyv7JO!{mO*a0ss0H1pW@kYRaH#g'
         'lst|OJev0-W|?o%O)=37imBp?bI{5J{28R7&?=Rm@@NwVj0K-7F(c+$PsDMsE*9PEOHcD7(=w4(_Q8*(k5VIhDUUu#E$?xCI8F<G'

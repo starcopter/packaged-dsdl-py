@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/aeric/NavlightSetpoints.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:20:10.087256 UTC
+# Generated at:  2025-09-12 07:48:15.999662 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.aeric.NavlightSetpoints
@@ -144,7 +144,7 @@ class NavlightSetpoints_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8y7t0o0{^X7-D@0G6yK!z*lv?FF*enTcu}+|B-^wWd=YBXCT-Xz4V!+Ugz24`n?1Lgof+=j*<?k*qLoH(ZKPLx5d^`a6rTkD'
+        'ABzY8K+wZz0{^X7-D@0G6yK!z*lv?FF*enTcu}+|B-^wWd=YBXCT-Xz4V!+Ugz24`n?1Lgof+=j*<?k*qLoH(ZKPLx5d^`a6rTkD'
         '4IgX;{{x?V@KprQo!O7sW>Z@<AM9lAxxahPxxe!}Cm-~E@yBp3`BE>1bvJUoq7^a0smI@?w#SN=6I8<>;*x1Ke1>_vijVHaddT!$'
         'edLCIUr(w5i~Bwk8ggoQMT*#wv0$Ah{gzLw2=Q_xsc?c&GEt;>j#FHsHIG+7t}qz}+?SD7d8@`m!~@?T4qk3N-_@mDspn&TL#urj'
         'l~Qm!mMqe%dN<cwMq2gHbLP2ie+rgMCAFk+QoXRtb|Gk8t7qr=CUeg-zart3dDR)&u*E!9Wxh<oU@(0T1@-){v1%BCk!Cb7wu<Hl'

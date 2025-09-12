@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/sample/magnetic_flux_density/Vector3.1.0.dsdl
 #
-# Generated at:  2025-09-11 16:20:08.557590 UTC
+# Generated at:  2025-09-12 07:48:14.202080 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.sample.magnetic_flux_density.Vector3
@@ -166,7 +166,7 @@ class Vector3_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8xc0(m0{@Ly>uw#l5k8W2moJj#TWrUn)6|w)pG_i1j+!=Y90iI~+Q){ixJHX+%iX088SSkkSJDX(p!w0jDi-Jh-U5DvJVG8J'
+        'ABzY8KG4Hx0{@Ly>uw#l5k8W2moJj#TWrUn)6|w)pG_i1j+!=Y90iI~+Q){ixJHX+%iX088SSkkSJDX(p!w0jDi-Jh-U5DvJVG8J'
         'Kz<i>-yldIp!w&{>~haJawMP<q;Hnw&J1UU-*Epj_K$Cmx2m7~m9!V=Aaq>Km1Lp(jCmn<TtA7@L`%cV{MZAdGT&s1Z}d`LJ}H;J'
         'C_gV3^Kmz35zIRo+xA)PXz6GcrSNvdx-mD>cQ?aq*9~|Kih9mN?wdqiFY_sPn=37oxD>5?@}ZTVlyro)zAV2e^I4Y}qokJ^uFF4y'
         'sY9IXuPXELb;-kE;M|NGFvDDf9*fa>P>ko7t*=H#+<DN8eW8+Ae#V0h7|;gXFU6#oZafi3!Md2UuP+?tN2+8bjob!57Cwf}!tR5Q'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/highdra/bms/Error.0.2.dsdl
 #
-# Generated at:  2025-09-11 16:13:21.426146 UTC
+# Generated at:  2025-09-12 07:48:15.921905 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.highdra.bms.Error
@@ -236,7 +236,7 @@ class Error_0_2:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8A@#y&0{`vWU5^{p9mjF+|2*b_Jam%~Qc6P7!qSojQVO)t7J*tJZ9`K+)AXVm+3RV>#cNyR@sh2C1Q)G{G*TmFD)AC{3EUu6'
+        'ABzY8KhVQy0{`vWU5^{p9mjF+|2*b_Jam%~Qc6P7!qSojQVO)t7J*tJZ9`K+)AXVm+3RV>#cNyR@sh2C1Q)G{G*TmFD)AC{3EUu6'
         'eUNwwyaZkXmp!(>|HRp3BhuSCQS|$JXU>`Nne&-5@%lsi_ggQvW`F9_qn+-!+h5PddD(0Cdw*_s`uTdcIouiz$Gs|V>PIeD<z%y('
         'l=-_mqrAD*Jo8cWL9<r7Y|!3H+aDiS?Q(NCs`7HZ=v^ziWqZA|HD3QkSq{slj@fozj(fvFQ?%-Eh5A;r(b|x|HXk+hfvjCsWv?@-'
         '@^SNr)bSptbbGI+cE9Z9{qCJp*`IaWRXeMu=eJk$QQ6z-RlV)B$ALG7!+zc#-2HwIWSw4>_4C2Cs%SP=Qm32kag}WiyLnR_t500g'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/metatransport/can/Manifestation.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:20:08.390588 UTC
+# Generated at:  2025-09-12 07:48:14.511168 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     uavcan.metatransport.can.Manifestation
@@ -245,7 +245,7 @@ class Manifestation_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.UnionType = _restore_constant_(
-        'ABzY8xc0(m0{`t@TWlLwdM2qG<?%(nD|W`7IKCX;6xp$3IalYhffi?(^?H*)C=k#iY3v~*kt#`f<pKq~4_zoIfeHu<sD1LI9@97W'
+        'ABzY8KG4Hx0{`t@TWlLwdM2qG<?%(nD|W`7IKCX;6xp$3IalYhffi?(^?H*)C=k#iY3v~*kt#`f<pKq~4_zoIfeHu<sD1LI9@97W'
         'p@30r3jr<K6etQUx+nq^?P}jr^hFPS==sn2&)hhN98#og$FsrujL!9&!}%}gJ7@lR)c@zp-zWJ0swWp7&X#BA#<FFrlr!gYe`HS2'
         'S!3Cm;`~CfoU2&1>hNcUT(R)!!v(AMb?y8wYkyoL)q!lmoM&Zc7tIGVW?^jJs+g6MStu_QOO-Lm$(V)QJ*&*JS>swYoqb@H%5Z5X'
         'szaaS_186;pvhm=ep#z(S+i0p<)#-aR=M^C8$tohsa2~Ee4Ml9W?fLbva@Ez%vJy?8)eVWE2YJm%3{g#VYdgWCzPmvR4NrqHG9Y&'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/AccelerationFIFO.0.1.dsdl
 #
-# Generated at:  2025-09-11 16:20:09.923506 UTC
+# Generated at:  2025-09-12 07:48:15.780578 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.AccelerationFIFO
@@ -242,7 +242,7 @@ class AccelerationFIFO_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8y7t0o0{^ub?{5^x^$vXY`E0;oY)oiiXegM*w+U_lmo{w))CEm!z&NR)YL>m-@y#B4yPKI^+eaFy`OpZYmAVpJDStx#1U}|t'
+        'ABzY8KhVQy0{^ub?{5^x^$vXY`E0;oY)oiiXegM*w+U_lmo{w))CEm!z&NR)YL>m-@y#B4yPKI^+eaFy`OpZYmAVpJDStx#1U}|t'
         'r2Yd@)mByWp{RdAl}fGD_jYIR_ob0avDo)^=FNL=-tWC%kNvJRS4jUwr~H;BEl1NO6Sm>lkBpkbG~M)?z9;Q~CDDQF%(0t*TAMAO'
         'B~O#{A0;0qi_y4lyDk$6FGL6K1|l?rP_SN-lI|K!U~xhQhA=%pU_!fUn#^Is2yD+?y}5cTiOTv86B1sL)x^6Bf11z&Eq<JQltfdy'
         '5d^}ng#nYvFM;m}rQ1|VR9dx}V|6sC=#~)}dVuQjiENQqqSK+VV;Zg&*iEM0ZMh~Fo@+mXtHJ^(-SiVa%@5KdEubd+Fi7Wf>iEJa'
