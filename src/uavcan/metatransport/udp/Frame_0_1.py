@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/metatransport/udp/Frame.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.527771 UTC
+# Generated at:  2025-10-08 12:28:09.401748 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     uavcan.metatransport.udp.Frame
@@ -266,7 +266,7 @@ class Frame_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8KG4Hx0{`sWS&Z9wo+o(5%{a{nN7(dD-}Dh-`ljvf8P!xzt@;=9t=3c@tKG$}6}F?2QRQ@SBEnV5?p=VsX*+DwcG#wG`lfIC'
+        'ABzY8*;wXi0{`sWS&Z9wo+o(5%{a{nN7(dD-}Dh-`ljvf8P!xzt@;=9t=3c@tKG$}6}F?2QRQ@SBEnV5?p=VsX*+DwcG#wG`lfIC'
         'rkyW(6tFJ>77J(>7_1)VLAx)j#R3Bju)r*THs#EW%B<<?sqT5nDwO#Ni6W^#`TdfVR952!L8ue>Ka-2hul9`Z**mave0XeRXz$41'
         '4(-}IJg{^3=$Gc`_{hZY)MV$M4euTKGUA@U`pO)hIzP4Qz|{XVrA{{Q9ND*Tcx=iLCOiLfVr>8JiTz{4-<_pt=f0sYqeU#-KlGd3'
         'L;D849G)1O7#rF*ZjO#k4D8=y4*YEF;|$`?-wcn9kBsi)rM3J`?DJED!eHIesRL7!?K_7iCdNi~?VlJPpZf2kMgPEdf1Yb<vgv0d'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/unit/angle/WideScalar.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.268021 UTC
+# Generated at:  2025-10-08 12:28:09.110849 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.unit.angle.WideScalar
@@ -103,7 +103,7 @@ class WideScalar_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{_KSO-~d-5M6XxaPb2I(Srv(;d*cc74=9o;j)6O7(AIy&2+QfVRm}bAM36Oi5w(iI?;sk$N5jZY4t3)h{3Bphw1L>'
+        'ABzY8*;wXi0{_KSO-~d-5M6XxaPb2I(Srv(;d*cc74=9o;j)6O7(AIy&2+QfVRm}bAM36Oi5w(iI?;sk$N5jZY4t3)h{3Bphw1L>'
         'dR?#TRez{|`(CeABP^CfZh4+CD~y6%y@xax3Cnb^)K)ox;mVdXK6BoP*TYia5#HIyJ#2+ZRzQ#JiyrzJ6p2-dFO*B5=n}#k#l=<z'
         'IT#GntS^jJx<FYAQ`^V$BWzE!YX`WGVTOToMy1{fi*NC~pnf01FuATo&d0$t83zZ<#R$)HFOBLcr}}i_(t57J{mEyBrOL5f6kR8='
         'y+)83SjT#r3zQ4tdgsJFx+TxZwh>K4qxKPBVOU_+LBYZB(?FjHrw3h1jOX#<9Rryo`j*nNemp0P&-=CiHGcf8My)+@Ks0<RCqu&k'

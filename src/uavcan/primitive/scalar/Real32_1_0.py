@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/primitive/scalar/Real32.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.119093 UTC
+# Generated at:  2025-10-08 12:28:09.323885 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.primitive.scalar.Real32
@@ -115,7 +115,7 @@ class Real32_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{?|n&rcIU7%j0a2r3eY9!#_+tWj19(i)E%xm2(L^<v0mc4z2JnBCdTkJ_4$$U!1z5=|Hr|6BZKTWG})w};O3+waYL'
+        'ABzY8*;wXi0{?|n&rcIU7%j0a2r3eY9!#_+tWj19(i)E%xm2(L^<v0mc4z2JnBCdTkJ_4$$U!1z5=|Hr|6BZKTWG})w};O3+waYL'
         '?|aiP<zK(crQ&f9@&VCAL`YM`vEZL^ENFxhndVY+L%qAXYm`llRrK8;r~cGGI`W6U?kXt5Db(*<+)Hp4<%*}=@E(nHf(2I54#i@9'
         '&AS=Yqe^p`c~)}MA4cm_-=1ohj{T8$a|j!wcx(;Te$QXU>Eb2tDw~`NGUhUi2sRj*K=7*e3x3{R-xLy?zvaxKm>VQ$)-}wxYXF&G'
         'ZBQx+^=!%A>72KRw&)eqwn7PHl)m~M@0O4@I3rk*NuY0llj3g1jV0mWeT5SP@-^79Ia&k8_l45rb9Q!CYEK;ltc_X4ReD%h=q@87'

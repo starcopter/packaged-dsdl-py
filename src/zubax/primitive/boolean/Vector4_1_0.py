@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/primitive/boolean/Vector4.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:16.928895 UTC
+# Generated at:  2025-10-08 12:28:12.012524 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.primitive.boolean.Vector4
@@ -130,7 +130,7 @@ class Vector4_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8K+wZz0{?|nO>fgc5KSOy`az+k2qZX^69lB1R&a+FD2LECw56QTYHbhQRc)`eyADaEO7s9yrIo1E;eYXyn6=YSh;U@Z>zR4`'
+        'ABzY8+*syl0{?|nO>fgc5KSOy`az+k2qZX^69lB1R&a+FD2LECw56QTYHbhQRc)`eyADaEO7s9yrIo1E;eYXyn6=YSh;U@Z>zR4`'
         '-p(6;YyA4%sFjzS&j+!IlYkk}k|%PXhY18MQfaP?w194U%jzPsg@)}x4tRo34)FlnuE{c<Qha{D2zfuqwM?azJqSXj65v^|1Cdqw'
         '1-fz818t<rP}E#&XZU=AoqDJC0}s(nF>bAvVPV1GXB<W9ED2q6RYDS<lbK{Ox13qe&^;JYt~DQ^yR$0$5Wk0P*NSET>awh91_`8)'
         '*&)~nE@yIy{YoYHGR_nWrDaLE4Jjpt5jU2lDh3qy-QDgffG-PPQ*6zL=u~Roag%5=V|f;H9bW`GDnd6wNI8$B9bl*78Z1l<x<{up'

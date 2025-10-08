@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/physics/kinematics/translation/Velocity3Var.0.2.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.156419 UTC
+# Generated at:  2025-10-08 12:28:10.111328 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.physics.kinematics.translation.Velocity3Var
@@ -166,7 +166,7 @@ class Velocity3Var_0_2:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{`upTW=gi7RSdkzD_2|*p7oqvdJWvWD?@ejqGL#3uL3UA{9;|0#PIsIyKW3S35o3LwB|DAR)oSqGZ+5mXt!`BOoNS'
+        'ABzY8+F0gj0{`upTW=gi7RSdkzD_2|*p7oqvdJWvWD?@ejqGL#3uL3UA{9;|0#PIsIyKW3S35o3LwB|DAR)oSqGZ+5mXt!`BOoNS'
         '7cGc|UAFfvyzzn*i5DLE2)u=JW=_S<U<<)3<J<pqS9R5?>iL~>%5M+9cXd~x`<3l$cf7<495)fM&jbHW-Ux)_HltQMN_-_uw)KjN'
         ')22#e@p7jv%w2Q%9rKo{XCrRNThM+w7E4a*#XNA@vXl7D#JS~%qQw=OD&}DlfE|U-RS`r@Uv*Ah<*~`e-4zihaNo#6Hg=WlyM`55'
         '@m=$d$+oy$sn~C%N+jkw%(#iK4||zxWWg7Kx8`Hn^|<1$LdRvXcT<jJ`%=Er<e`)JP8#~kSs};3!={SjQ$~)-2{yzE=!dLaH?m64'

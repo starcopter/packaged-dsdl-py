@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/internet/udp/8174.OutgoingPacket.0.2.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.405570 UTC
+# Generated at:  2025-10-08 12:28:09.293319 UTC
 # Is deprecated: no
 # Fixed port ID: 8174
 # Full name:     uavcan.internet.udp.OutgoingPacket
@@ -327,7 +327,7 @@ class OutgoingPacket_0_2:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8KG4Hx0{`tiOKcoRb{tuj=$2$lmM!_OHf_tKmmE{nkK(SqraoS2OCvM-7)}<>Y)y9!yUG4-e@Kpj0Nz6ucF;g3aR=FBE&+1P'
+        'ABzY8*;wXi0{`tiOKcoRb{tuj=$2$lmM!_OHf_tKmmE{nkK(SqraoS2OCvM-7)}<>Y)y9!yUG4-e@Kpj0Nz6ucF;g3aR=FBE&+1P'
         'F-ISB%rVD3CRo7OU=d`2<dFAXRd-j<3?=J_Wa9`>bJ$h&>ec(ddT;po-oNrboT7jEiD+Oaw%6_^B6hjwe#U#AXm_p9kHW-FMUfx6'
         'EIikTkM`|BB#N(!xt|w*Qq1Q2x^57NxNxTOL$}g6v(hXU%_&cI1MUNenT&5)JZQT?D&jz-?aYqaA7$x!=mzU++}adrkxzHGM4Y%`'
         'fDre8tUiBLuqn3Z7sbzu{6LqdY3%m0R3ycx0Dc$Tt64?<<cF^C>>44XYx9(MQ^az&<xz~Mb+=%~(K|unt_Q-t28geVxOut*-JY9v'

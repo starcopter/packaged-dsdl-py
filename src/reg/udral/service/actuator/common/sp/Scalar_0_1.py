@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/service/actuator/common/sp/Scalar.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.264695 UTC
+# Generated at:  2025-10-08 12:28:10.201496 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.service.actuator.common.sp.Scalar
@@ -115,7 +115,7 @@ class Scalar_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8KhVQy0{^8{ZEqYk5Wci|YtquI0;v!ZJtTyJ+H7AWXesXv3PQ()Qv#KWs4VY#dSk_FuWWC~Aw{AeK#gRHNHPD9e*)vZ3%Rtp'
+        'ABzY8+F0gj0{^8{ZEqYk5Wci|YtquI0;v!ZJtTyJ+H7AWXesXv3PQ()Qv#KWs4VY#dSk_FuWWC~Aw{AeK#gRHNHPD9e*)vZ3%Rtp'
         '4~V-D>)o-RnR%XP{OjzWhx4uG7j9HT;e^VV11q_bzwlf^#tKtb#z_w`T=@!=ENLmeA65{L<NMF!L0k*-Oll1_Vk=zP@wP5}ZQ<;e'
         'Ii`6@5H~FhvRYWKGD@>23&=Qa=ib<iGL=SWuF7@_uDFe1k?nzX(&z-e@OZpFj@?#w=J)tKhGoXRw=%CixcD?q>*3!`G0bgBP~x<('
         'B__D%%%^In9j|QaTJF(~OPk7Yf3~+}mP^kR=z+)BZ4+d{ooA&H5b@2h+CMp-j%6DZ>!na?<F~jS!|Tj>t_8PZ66gitlzgD2uSH7y'

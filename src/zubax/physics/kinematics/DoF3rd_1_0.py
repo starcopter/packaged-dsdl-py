@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/kinematics/DoF3rd.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.111028 UTC
+# Generated at:  2025-10-08 12:28:12.120018 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.kinematics.DoF3rd
@@ -151,17 +151,17 @@ class DoF3rd_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{^X5QEwbI5WYZ?OVU6Zg%$}Ry6{kfs%~0%pejg|Bpje4X+!~4s)FlXJ2zH#?Un64?g~ZZfvTx25h>=k@bkiW_bzv#'
-        'xfTiTbh@!;=G*bi_j!Mt{`0S9qx!fjMV}d##l&zeXeJ)fB;zqjRbD6~EcfoUdsdgJEj9nHUvPiyKRED@{i>TGlIG~Y@~BK`FD{^O'
-        'L~7!FA$d-1FgI1}Bh9><BVDeIP|`!gHGde`$G$z)Zanb^-d!NnS}l^&a^rUqdqP#GQQpn81kc#0ngznBrNo93;gxz5W?o#}hmv_{'
-        '!u+rfSj1<;#X<7Qq$&z6a$!XmtC(+PirTY%xj+(ONycTzf^SDySxSv1xnfw^+wSttFg>Kj8|d2#E^J5RcmJ(-ZxCatWK^?ppr?qF'
-        '(~cCjWZ}Vknx+=pXt2GlfsGi?mK)=rlarH1d+G_omI-!au9|6xbkl^X)VoG-oSqoo8CdVOBX|$4!uwBQ6|TJmw97M<3fuRv1~<xt'
-        'yOptVlB8erB*4b-7JLjhOY9Njh2|->ocTldI@uFF&PbuOC4%{Fw@i#Gb;{9^aZ*t1fNO@oOeA>v9Xv;GC+r?$$EVitJfH#@XLTth'
-        '*SP*k>3#1m7Bt<b9nP+YNnS6o$W6Ck$^^$zX2>?TP%(rAH?pc)gh$ncLHCF<-YwOniEqX?;wr(0fvpgr25Zz@+CY`ANVz|RHMhQ{'
-        'x;)3-h-ON5A}S-=6DE3)bIbK^q;#Z}rC}fuO;l+|5t=eV<!+28sM=QxQX*C@ke3uXJ770=Z&uACRuQd~t*{LC1gZGhD%^q3VI4ML'
-        '6Te?T3%;z*Gfk2VF|H2TKVl)C&i-@l-Qv2i-&E^+xE$!fy-HN!T{H>A^z%ez0x7t%#dC$)3T?Psa80e!BQ?#E6a)$#h+EpBj0xF!'
-        'E(jRVQ;WDu8%hRd$#Wsye2s|H3Y{Fw+#ADK+Agz<>i%=tv!qM2lKVgWYCAeI30`hRT^3$vWrEGig$%Ms0|$gglT=)znBATWX^kU;'
-        'V&=Vq%IYHAMj3T0bm$LZxk=!c_8oYPzhB1^;UGl++@336;5SJn%;|(0J`m-9)c7JzQ=WxZRJVAobGQ{?4q+LN;8_W`58;z-`1D*}'
-        '!B_Bgr5=1AoK+8O{a;FfyZ=%c;hn_c`-uX8`|zM1$B*Z-W3-pmVQLbO!lb6oPO2W@`Qv_wK@Uek!zrKL4#SQA24b9K;KBz000'
+        'ABzY8+*syl0{^X5U2hyU6x~3QP0~Obg%1fKI`B|}s!m#X009yu2@7aQ8c{%%s^EIY&R#1s_Q>`uyM-e1K-E;1h!pe3_(S1(W|Q60'
+        'Y>EWCTCMHtd*=Gwb3DII|M^$DRe#)-a=;ABV`8`#G#3wOn)8@sswkBamV5Wo9jmL%R+@h|D7ioO?;ZGue$~woNehf$c~GUaAD1vN'
+        'A~W&6ki4Ka3^!Hh1I@gfBR#H-P|`!owSO3nk9{(gv>y2b?=BH)trlrzx$(P*J)x?zUEa-f1kc&1ngznBrNo93;e}=qW-c!7eaSqu'
+        'Vg9rZSj1<;<ze#5q$)}+3SmVLtC;WPirS}nxkOT7NzP^0f=?o>EThJfLNToDP50W)X?jSDH!!vpLP$sJcmJ(-uMlIYWK^?ppvQ<)'
+        '(5@7=V&TDinr0ShG)Qk}I7W;o%dPRx$;nA8nR<k<Rf=rP)jbV6-85k;^R5*FXD5cYhNHKW2;PCK@a|(+g=^0N?eSb?!VWyF!Hp{A'
+        'Ze^^UBpoz539vD|0UyH63OQoD)I6h>Gk@q_CVQgK87Y;vL@>YYmWff7&Nv2gPD+XlxOVu<MT)22!E^L?!s;<HKDCDD0TskJt1BtF'
+        '#`#Z5?|XN-q}e|0a&|p*@_LCyZn_0irPz)tN42?yS|KEaQC0OMJgN~4hDVa|ZmAJXd^5fg*9kT>Y=r<dSfl3B2C4K!#{D6zx%Dm8'
+        ';{~opG*_}4Q5n&`Fwwn&TdsE_r6a8@4GoECswz9$p(zto?#6h6n!d)660sVCJg3mvp}M(yy(W)XMYK}3#xlqWO7XK*xCNiXI&8ou'
+        'e!qYYd|97onxr{mTs>9)NQHPh`_H*|i|fLEQ_t_<bm#;3B2lGx(IgNvC{mRRl;Fx1FBEz!&~Urtnp&ktZki<-2sAnnx3ohU6SDiv'
+        'CSX9%M#R0kp=3~&JQvc<H;CA+z~orw-WbNxc9rK;51z@MB|Vx~-2dTMljz8#c)68LS$LgQDUw$R8ElUOY!D9Gq}Ce6>|`#awT=v$'
+        'nfFU7>x*z3ZPcsLVQ>n|O$xsxx8NcEejQ7MgRuMOWUjg(ZqnMA(<wE4Xv+WS@kN?tJP%aVw|L`o_$a^}!ZIAelL|gQgip5N({ptN'
+        'U%}V4d+>emw0mId|8ff4{+GrG?<5Z2Pc#7Bg?mjqemqwlqqV%*rY7kqbZY9NPEF|hecXNjg1%3PhrY*u0|IaxdEEy900'
     )
     assert isinstance(_MODEL_, _pydsdl_.StructureType)
