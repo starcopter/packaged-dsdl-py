@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/aeric/pssky2/SystemStatus.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:16.082786 UTC
+# Generated at:  2025-10-08 12:28:10.948132 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.aeric.pssky2.SystemStatus
@@ -365,7 +365,7 @@ class SystemStatus_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8K+wZz0{`uqTaO&Y6@X{fd!1e1SbV{b@i7;B9lQ-*V|(LVxR^Mg#>?V01QI1pPj~HB&-Qe;ySit0Orn?vA{@1nmgq=4^2kr%'
+        'ABzY8+F0gj0{`uqTaO&Y6@X{fd!1e1SbV{b@i7;B9lQ-*V|(LVxR^Mg#>?V01QI1pPj~HB&-Qe;ySit0Orn?vA{@1nmgq=4^2kr%'
         'kw>Kb0fd6YTS#6aB|<Sl$T_F`^jvoxD^hs!TCP)5mvc_lsrss>=EmqBM<1-@f639HZ7bW=3?)Lxbe-#F-4&W)`OUyrP9(Bq=X1h!'
         'nwYh(wgZv9o1J_s`*k*#j2n*Ui7=CuWamm0##R)EqQA+Q;h9ZT@ra7d(DH*wgqn$VEG<xKy}h8Vv{fXUE0Gz+DoZAfmI#&Od!%#X'
         'RnEVg=@q^D+w83@nKsNQ3Y~f!36=c<4Q%6mr&X4WU2=qLcU`I(wi%g5M1IPNqEOb7W3kz?OizoPra-SeONPGZT*onE0easIGC3o6'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/bridge/can/FrameTs.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.247102 UTC
+# Generated at:  2025-10-08 12:28:11.870199 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.bridge.can.FrameTs
@@ -151,7 +151,7 @@ class FrameTs_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{`t@OKcoRdY<8P$kv0BEK8QuQrVWJrYw#rS(53u{8&Zn+K~mV?A0dN9rw&M*-Z~;X1jYR(m(?5VFMZ%AOm;;=xF4`'
+        'ABzY8+gRpk0{`t@OKcoRdY<8P$kv0BEK8QuQrVWJrYw#rS(53u{8&Zn+K~mV?A0dN9rw&M*-Z~;X1jYR(m(?5VFMZ%AOm;;=xF4`'
         'Q?fvSgh4Jo5(p6NWf2C*VS!wPAcxH%3j(?1|GWR{>F((o4k=QW*0T>)vz}j9*Z=ibe^vE-IrP`h{e8;&PvcB&x#X0}*}P-emR`2L'
         '&<kZFn=e)uYE{Q_jaFm-k6pW7bnCWpce!S?zHUwavi0XJtudUh=nIg3{EK=)U&<D2t2Ae1i+Uw{!-j;rPOFj0FB-OERVyts)foMh'
         'uD@>a6i@$U>zA#DlGk0=whDFEa9TfuN+ocDT&>3N4a+E(+AzlRCEeBYE@CqW{77@S@qArhL@chgU}S&1Tq&A%wPJl?l<q==<LV2w'

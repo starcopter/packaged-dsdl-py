@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/XYZ12.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.901533 UTC
+# Generated at:  2025-10-08 12:28:10.843820 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.XYZ12
@@ -160,7 +160,7 @@ class XYZ12_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{@Lv>uVE15Kl1aGxkAheSEN0i$<`~im$4lEC_P;p)Ey4S@!PM%+ky4vAdTh1;Kt$C@fg$`u{q6mo%+y#0y7ecV>R`'
+        'ABzY8+F0gj0{@Lv>uVE15Kl1aGxkAheSEN0i$<`~im$4lEC_P;p)Ey4S@!PM%+ky4vAdTh1;Kt$C@fg$`u{q6mo%+y#0y7ecV>R`'
         '`ptbW{buDt_L#Y(6RI$(6U8K_5#OVJ#Ofpv%|s}!nKc(TwM+w@O19NWm_4$0_w6@ZGi4IfChDh@rZNzTX0ra_<EN#E){KxAlZuPj'
         'Lct7gcjY7N6};k4yKl`np;}Asr<y7I1;GZSacpHx`88)z*bhHOLaHgzE~i26iR4YLc?&J3H+dsw;hR{q29u{N87Ds1Bw}$xgY_y1'
         '9Z;o7Q-sXIjG5i&!8o`23hGv!%GLA3zPDzEU<=}q%J3x6LFz-<6x-I6NGJkp3Knms@|aMC*{*cetH3q54s%_Hj)fa=^S?~@x~9xj'

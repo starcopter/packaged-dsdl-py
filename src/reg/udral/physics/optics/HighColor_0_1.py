@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/physics/optics/HighColor.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.140344 UTC
+# Generated at:  2025-10-08 12:28:10.153051 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.physics.optics.HighColor
@@ -164,7 +164,7 @@ class HighColor_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{?|o`)?aX5Kh!M4+lz0N)aH)wn*TJ=1kQGr~*|aBrS3hBDX0m53Tm@CZ1K#x2N5`BnDNYLR6}>2&69kfrt24nLWpj'
+        'ABzY8+F0gj0{?|o`)?aX5Kh!M4+lz0N)aH)wn*TJ=1kQGr~*|aBrS3hBDX0m53Tm@CZ1K#x2N5`BnDNYLR6}>2&69kfrt24nLWpj'
         'n>LCq%X_;s-#qsF=6;^|b9H*G`nZLnmzp$-xB)FiCVv!h1`$tGw@^k}@b1;yR+ot_HQebH;Gg=%NB*I2xEjwzm(DL}=tO0zMHUs<'
         'GcqxeDs1?>B|EsHGNrwn=DVPcRJq47H+A=5{nWR{TH}xXBkyLpuvW{sv|#)X1b<9oLo4rUYZ9{bFrhk6g%#X}ERS<9wCqYNcgbRY'
         'J2$eEL;6*2p#%E)>SlQ?EzcnDSoEzLfhWRP-c>1hJnPPF4S<4Mv_fYa;V4w}t8aUEmK!VbROoaR=t&u4&7IPadN;vSm3TMiX>YC{'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/sample/angle/WideVector3.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.197334 UTC
+# Generated at:  2025-10-08 12:28:09.267146 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.sample.angle.WideVector3
@@ -166,7 +166,7 @@ class WideVector3_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{_KVTW=k=5k8W2moKvATWrUn-PD#^pG_i1j+!>D9R;dW+Q){iI7W+R!QG_}8SSkkSJDX(pnhmz6$@kmZ-M-T{DeIA'
+        'ABzY8*;wXi0{_KVTW=k=5k8W2moKvATWrUn-PD#^pG_i1j+!>D9R;dW+Q){iI7W+R!QG_}8SSkkSJDX(pnhmz6$@kmZ-M-T{DeIA'
         'F+iV#xc?w%e?axt&g^o}IdbIZ9>e-(N$$*WX7~;F&trc(d#qLc^4HQ{po7qHHCK{_@-yaz+;RORN)s&&FY_Z0jmmtJDZbuIdHJkd'
         'd{Ta1F685G%p#b-oUtvR#g3MaW>E@nv$zX?Kb8T1#C?;f>t#OWZgHh$5|^TtPd>8pvyzU`))(cIGM{ysF-m%w;kx`IsDFuL{Z(Z?'
         'z9xAX3>=zq17?_O&`U8|4~p^plJ(EXh&vB^u`g5-%g=bQ4g=bN%cYnU(~T$MFjyCJ_VxLf`H?CaNh7zwkNJ;cExR!fK8y|Ta<xB9'

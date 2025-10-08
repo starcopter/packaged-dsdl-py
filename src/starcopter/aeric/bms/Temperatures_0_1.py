@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/aeric/bms/Temperatures.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:16.037898 UTC
+# Generated at:  2025-10-08 12:28:11.016686 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.aeric.bms.Temperatures
@@ -434,7 +434,7 @@ class Temperatures_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8K+wZz0{`t;-ES4g6~89nFTP9w<B$Y~kbs@o8!-4IY1$A-DAC3a!A?qBwaeVy@trmMaoO3meMu{khelAX)RovudCX(}ggoXk'
+        'ABzY8+gRpk0{`t;-ES4g6~89nFTP9w<B$Y~kbs@o8!-4IY1$A-DAC3a!A?qBwaeVy@trmMaoO3meMu{khelAX)RovudCX(}ggoXk'
         'QvZRdY9!v8_NA}9rN6T~dws93jUuH|`%ok1%$+%N&Y3gk{N~Kw+x_QgtXBM`Cz~xtIi6uD5xLxR@AA4Q49gDvW~kg)<mvvmh3ER{'
         'I?Ju5$RFktpX9&K$J2hx4FVD6vX<^&ilfAilSp*4?6CswL&PZ+^T-aHv4{)~J+@Kzm9Z@RrieH#Q+YaQt%*pvVL$>0KGOY%xmh#&'
         'KFvSL)4djt<H)TiG1z|t={uO-=E~DOS6$&boAwM_4v)DNlaX?u9F)W9sf4fDJTPL{7sgU6uw@hm?p<sc12Elh=5n7rVD_0cvP2$&'

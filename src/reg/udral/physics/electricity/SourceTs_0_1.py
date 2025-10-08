@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/physics/electricity/SourceTs.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.246718 UTC
+# Generated at:  2025-10-08 12:28:10.182677 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.physics.electricity.SourceTs
@@ -151,7 +151,7 @@ class SourceTs_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{_KX%a0tz8Q-<NPa8k5&C`bB5ql@>j=^BFfe>trj7i&T3mb3}g{G#vW~#<L-9uOR?haBUI3&VJM`?+U#3{#!Kf$@='
+        'ABzY8+F0gj0{_KX%a0tz8Q-<NPa8k5&C`bB5ql@>j=^BFfe>trj7i&T3mb3}g{G#vW~#<L-9uOR?haBUI3&VJM`?+U#3{#!Kf$@='
         'jFd|*QOGIEjpP<7Qc#r0`F+*Zy)*kTi$sVm_g7Po?_J-c{NAo#{`tt5`I9}|ANbl2nywbH;(>aXw*t|0y{OlZv`R#g-E}pIQ!hzl'
         'ac$5S#fL@X{o+T(TsGl`yodE;vFJ2YKjuNRF9%wAx+wzTC9(2UGH70n(%2K%bdgQF%Och)3JW=wO}$~q9~RD-Gyap}{UY1#@&w0P'
         'X(Dv-Ly*{lxq4TTO`KOE@Yk4{b$y<2Hz7{tj&f2?WRIkL+2dg|Q9aSTItV=(N1=LG_}4I@6W;3=a!SrP<IWgyBKLs0+;5K`+=`EW'
