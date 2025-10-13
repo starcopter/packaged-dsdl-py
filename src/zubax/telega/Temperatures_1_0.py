@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/telega/Temperatures.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.072048 UTC
+# Generated at:  2025-10-13 13:53:06.025219 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.telega.Temperatures
@@ -187,7 +187,7 @@ class Temperatures_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8LD0i!0{@j&ZEqVz5O!!1yG{$KLQ*OudWaVVksd)p{e)0yA<$m!MoB<IP_6dv#-7D@x2L^5H?D+4g^1#^h)7xf9H00nFni96'
+        'ABzY8LImw-0{@j&ZEqVz5O!!1yG{$KLQ*OudWaVVksd)p{e)0yA<$m!MoB<IP_6dv#-7D@x2L^5H?D+4g^1#^h)7xf9H00nFni96'
         'o!AoCvTpZw=GmENo*Dl<|L0%zTJ<rv^Fdt1iO&j9f+ylR4-@cNB-30LLW4Eezko!fw2b!#IoM<S!3+D7T{nwNWEm)nHFJGet1{B1'
         'f=QDFmhqGzZaptUzVB;Dpv(O|NOMr!nHSbHSRYg&WafbC-=3_GZ7>(q4(tnSmKfJsiLlgU{*+K>gnVXY&BB&|BtDO$$zrZK(=NDK'
         '?zwVFiauFf-AW|alc_ARP-vDw*41c(WrB=&p;;<puz1U?ZJ)Y3H~#^hwcHWqQTx^ISo1n7G|ytL;&Gru!by2I6S|Du#T~^XP5C=s'

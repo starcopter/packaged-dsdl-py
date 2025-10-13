@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/service/common/Heartbeat.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.282920 UTC
+# Generated at:  2025-10-13 13:53:04.286433 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.service.common.Heartbeat
@@ -153,7 +153,7 @@ class Heartbeat_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{`t=Ns}DK6`s*DGitGDVKa*<7Q+mhsnG%$gRvP#0*zZ5DKrAf3l!N^*^@O?SGBXUx~B<YmaqvaqHGjFIf8#+F23^<'
+        'ABzY8Km_e*0{`t=Ns}DK6`s*DGitGDVKa*<7Q+mhsnG%$gRvP#0*zZ5DKrAf3l!N^*^@O?SGBXUx~B<YmaqvaqHGjFIf8#+F23^<'
         '_z7Hm=U~D<a<C)(y{uQg%_4O0$!^8;%dX1GeEF8|Eu|0l{rQu}ChRAFwA~BRAacD_>QF@Cd!i9Z*YlHBJ4r($i~P<tqch)RT3+t8'
         'W${@t_fheFF`MuAV$s6=$F*E{vp|c;#TuQ^moA=eC9!)}3T+xvm?EF?I#Q=$5*KPBpMI0apB43q`s63YM@4?n6UOMUkr|m5Z(;cz'
         '80*g}^8K%cG71I^)x1C$;Thsm?I|y+{k!mYNs1thWttXhS{<lZQFmZ_b%>uox)UR99kxOfcEHHdH{vv0k7ckD8@Vp^sGJUZjnH_J'

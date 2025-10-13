@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/pnp/cluster/Entry.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.333171 UTC
+# Generated at:  2025-10-13 13:53:03.540667 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.pnp.cluster.Entry
@@ -201,7 +201,7 @@ class Entry_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{`up-H+7P8HZ<fXJ%(-KRB?<vV6Y*LKhk)KuNMCZ4(+wK`vxPK9ow0EYHl@J%$;3YI|TeQY3QG3Mxyrge&FJR~71&'
+        'ABzY8KLqV)0{`up-H+7P8HZ<fXJ%(-KRB?<vV6Y*LKhk)KuNMCZ4(+wK`vxPK9ow0EYHl@J%$;3YI|TeQY3QG3Mxyrge&FJR~71&'
         ')r$(XmFP#>=A!CNZ;*PGyZi~c?0aT@C%d?8mG&ACdXLBU@$s>r=XcDV$}b)rC=LI_hx;3yu+weYp$uH7>we(0y0U4v{a)V>-AJbK'
         '%v(_~Xh(xUzP-_x>HYM?N9l*@Qe3q?r^ovj2hOdw<2CzUzuE2%!bk?q?|D(Mk;ZlVmJCAI_fl1gC*DQ-erlDi(ofTm(s;^tq9|}%'
         'gGh$y``qa^!};>4G_GE9Ww*0AjE3EDBFB#O*tR>pAGkd?a&PewbMJVeyXMKx6)%!&GI;WyrtFp**<I<aMJlz3J8wH-WcU1zOx1k6'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/kinematics/geodetic/PointVar.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.173769 UTC
+# Generated at:  2025-10-13 13:53:06.126165 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.kinematics.geodetic.PointVar
@@ -166,7 +166,7 @@ class PointVar_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{`vW?Qh%09S3kdSTZfkwk$i2YCA5Ix{mUsBwe?r-BY@>sSDPbmxtCs(UFvN_R*n8m84v|STUyEhIAk>0^zX!3H=lD'
+        'ABzY8LImw-0{`vW?Qh%09S3kdSTZfkwk$i2YCA5Ix{mUsBwe?r-BY@>sSDPbmxtCs(UFvN_R*n8m84v|STUyEhIAk>0^zX!3H=lD'
         'QhS#_p)ZGFz_RVd_A=O;?2i1N>@abV4g<EKc98sje9-ak#Lw}3j6d|--<`_DKf&|eownOH8>&kjLpP0&^`=Q0YRm3)ZP)Nf6pUT-'
         'oL<Z8Ipq3Imqd4>6StyIqIytJExp5zpZvJj)VCX5y5kxxw{g?3NJsa0x<TwVVOe9<HZ1R5-H8H8-6D=_*j7X{!SK7t??g&Q$^I(3'
         '6$PWJ?s<;U?0LkEK46#Gr-FmCqM&fuAZB~FVkNb$d%EiJ+R|LIlNN&G&sfih4$~1)A6jO0pcND{wO?(zj?pnZV~f>h<g#h&-lJVL'

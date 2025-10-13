@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/kinematics/DoF3rd.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.111028 UTC
+# Generated at:  2025-10-13 13:53:06.065062 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.kinematics.DoF3rd
@@ -151,7 +151,7 @@ class DoF3rd_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{^X5QEwbI5WYZ?OVU6Zg%$}Ry6{kfs%~0%pejg|Bpje4X+!~4s)FlXJ2zH#?Un64?g~ZZfvTx25h>=k@bkiW_bzv#'
+        'ABzY8LImw-0{^X5QEwbI5WYZ?OVU6Zg%$}Ry6{kfs%~0%pejg|Bpje4X+!~4s)FlXJ2zH#?Un64?g~ZZfvTx25h>=k@bkiW_bzv#'
         'xfTiTbh@!;=G*bi_j!Mt{`0S9qx!fjMV}d##l&zeXeJ)fB;zqjRbD6~EcfoUdsdgJEj9nHUvPiyKRED@{i>TGlIG~Y@~BK`FD{^O'
         'L~7!FA$d-1FgI1}Bh9><BVDeIP|`!gHGde`$G$z)Zanb^-d!NnS}l^&a^rUqdqP#GQQpn81kc#0ngznBrNo93;gxz5W?o#}hmv_{'
         '!u+rfSj1<;#X<7Qq$&z6a$!XmtC(+PirTY%xj+(ONycTzf^SDySxSv1xnfw^+wSttFg>Kj8|d2#E^J5RcmJ(-ZxCatWK^?ppr?qF'

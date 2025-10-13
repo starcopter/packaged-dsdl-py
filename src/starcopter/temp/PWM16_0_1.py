@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/temp/PWM16.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.961442 UTC
+# Generated at:  2025-10-13 13:53:05.139236 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.temp.PWM16
@@ -133,7 +133,7 @@ class PWM16_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{?YX>u(e{5Kq)xUOaN>fC@f@MMyLtu^}x`J`<@DI&wWVJU$`IyB=;#cI}lPAy=tV`A`IsB`U@Izl?YDYLo0~bz{%W'
+        'ABzY8K?Ln+0{?YX>u(e{5Kq)xUOaN>fC@f@MMyLtu^}x`J`<@DI&wWVJU$`IyB=;#cI}lPAy=tV`A`IsB`U@Izl?YDYLo0~bz{%W'
         '&oe*&X8)f1cE2~%KH*j~6;@O^vtT5z<e$8#AZMkn8*Qb77%pu)<4flayqq==_v5{f@vpcRdQ9<}{MW4GrqqoClRK!JeEeo><4FvQ'
         'Y!{4`T1A`*3$G9C{WzQ%&VGs?W4OS$b4C{4fsJno@tj(YqGIU%CZQ6?H7qm19cL~Tc3yg8WG$WCrHH{RW#vSHc&;2w!2GwN3#^ci'
         'RiGvg<FHTQCAW^%T0q3B;rjRxD5d3_<l9QF)X_ijj~K2pVnPXS#7UsfzQA6%B)prla#~ivyp3Uw30=mpN?c{hm9?%+s;ri!(H2Ur'

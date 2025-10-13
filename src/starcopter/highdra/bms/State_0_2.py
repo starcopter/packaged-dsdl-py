@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/highdra/bms/State.0.2.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.942695 UTC
+# Generated at:  2025-10-13 13:53:05.120761 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.highdra.bms.State
@@ -426,7 +426,7 @@ class State_0_2:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8KhVQy0{`t=TWlOx8TR_RzQl=}*m2V~Ic*?usJ*$gPTlmnUaw;__Im4eE`Z8pcIVh<*0VFyx!B%b5UtdzK_eKcgQ$4ovEq>j'
+        'ABzY8K?Ln+0{`t=TWlOx8TR_RzQl=}*m2V~Ic*?usJ*$gPTlmnUaw;__Im4eE`Z8pcIVh<*0VFyx!B%b5UtdzK_eKcgQ$4ovEq>j'
         'DB^_&kcui^ct91R5^q$MP!R~JP>J&YGiUa0H|w+!LNx0CpE>70-}%ou|7~Xd?e6dYe4-=x&plz3WlL5QqD4(bQkCbWyh;;dK`$A)'
         'rP$PW56n?jDM3?SD;v~*!$0$~|B^r9_KJ$8QPXD~?tz?bItAM?X}w5~s7WP&xYx2Jv!EL`H4{wPV6rJC@+B*gvn5<1E^blNQgjWm'
         '`mXZ!8@|vXbiU@l?7M@aWZR~acWi3;&jRo+T34iew`X3Vs$5lNK$In05^dCv^@W{mz`fs*whEG#u$2-`<jPusnYyMt4||0U(7I&!'

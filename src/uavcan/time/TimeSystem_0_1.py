@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/time/TimeSystem.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.313549 UTC
+# Generated at:  2025-10-13 13:53:03.662956 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.time.TimeSystem
@@ -110,7 +110,7 @@ class TimeSystem_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{@j&+in{-5S0<zag;U}*htYE!UDaxEwr{DinM8893d_Q#gY&ym!>EP?(Rq=yi0CLu5A@4&^)w202VD^_Lury9q#Jl'
+        'ABzY8KLqV)0{@j&+in{-5S0<zag;U}*htYE!UDaxEwr{DinM8893d_Q#gY&ym!>EP?(Rq=yi0CLu5A@4&^)w202VD^_Lury9q#Jl'
         'IPgOy!RB%}vuDoC9R9ZY&$Eq2^>KHLX=>6eq6V~JnfQgp8ALQud7+H3;N9CptINce8b;Fs{F(p!rT^7$yEQ6Vj`lkxJ5HF4tjHl6'
         ';h*8uSjfHGpvRz%P}1{;yZUstKJ(p1cjXWN(!1-FS*t}{S}^`640#Ed#VPOB4g_TB5=4`x%ra^Nvdi2HEplPSF`n3bB8`|xNITNP'
         '1oZ0}U8k|IGy^%Y+;>+oc*2aOxk|zFEq7-y4;0*@Hrft@2{T&x-9PqjiyF&h%5-`@(5o`$Yi{kBWhEk5rKw81Yk1tf;WpYz1|Pcs'
