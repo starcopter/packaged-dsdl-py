@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/node/port/ServiceID.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.473565 UTC
+# Generated at:  2025-10-13 13:53:03.501102 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.node.port.ServiceID
@@ -108,7 +108,7 @@ class ServiceID_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{?ZD`)?FC5XbMxJrf8CmxdAw*-)TK+APo~ZFz+tB(x1ggjW5bmF3-a&K7&SE8Ba`RjO2eC{iR#T`BHA+h5x8-XzCE'
+        'ABzY8KLqV)0{?ZD`)?FC5XbMxJrf8CmxdAw*-)TK+APo~ZFz+tB(x1ggjW5bmF3-a&K7&SE8Ba`RjO2eC{iR#T`BHA+h5x8-XzCE'
         'x%=T`dpvV9<F9>xHvajyRjWQ`IUmI;PJE)66f_aP(=cH^iLybSDWRD)XLhwLB3(%KVw5v`XxCoZKkTY$l9Ud>zEsd*L{mS_V&><W'
         ')c!7$LlLnjkF4pCA(KjEspU1({t3s2HmC=+*Y=e)GlXg_MObL2?5_~^goKWFS<`$hSQ1YXnI<vSlxUaTN$$B61EIwbcJzKsmFTA|'
         'ev)d|XY%c;W=JSBNm$y~+y-3;9#N&q0E)AG!7T0^1#)iw7TC6(2`Z}nWuIHKK$NCwOlACLpo1dhP179Gq<{<>B+ephY8F;!O=l}h'

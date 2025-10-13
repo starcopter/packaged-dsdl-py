@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/bridge/can/PhysicalConfig.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.252472 UTC
+# Generated at:  2025-10-13 13:53:06.194625 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.bridge.can.PhysicalConfig
@@ -184,7 +184,7 @@ class PhysicalConfig_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8LD0i!0{`t<U2GKB72f$@%uh@lz$5`C36Lc*iy<U&LYkUjB3p-JRt6%gYBZkR8T(Gz-Pz8}8XGB+qo%1*N9t7BR`iXBJ~*i&'
+        'ABzY8LImw-0{`t<U2GKB72f$@%uh@lz$5`C36Lc*iy<U&LYkUjB3p-JRt6%gYBZkR8T(Gz-Pz8}8XGB+qo%1*N9t7BR`iXBJ~*i&'
         '`O%813iZhkeQ@(o@lwf;Jo=Hxo;$O<-t`av5TyYN&CI>$oO^!0dw%R0`A_okRQxYIP?@%TtC%%>+jGpKbJffj?W|F7OBL650=pJ&'
         'AFzu~iC(RX(-ph+Rqe><wa;pqP&J%#+4gEI6>h%}c-2Bs_3U;M#VDI45^>;aHE&L3^PXc(*x7<v&gR&(?-b198Mi#{Ow_`(F=>0g'
         '<CeKN?UVZZS2YkI^=0kzTDa9PgTQn0)xh>^pOWlN6mL@1Lgiz}E?TSFbQqQym`1==+>E{AaZ{a1qUgF*_MM5cZ4H$Jd&2hGP1|bZ'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/low_level_io/Data.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.047392 UTC
+# Generated at:  2025-10-13 13:53:06.001281 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.low_level_io.Data
@@ -242,7 +242,7 @@ class Data_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.UnionType = _restore_constant_(
-        'ABzY8LD0i!0{`uuO>7(25rDb>EC14VY%8%-GqK~)jxEc-QQ|mJlb}^Q9anIgz-<w%R?@~xg(3<5IC6lX%%KGXEYL->1#}6ZqmBl8'
+        'ABzY8LImw-0{`uuO>7(25rDb>EC14VY%8%-GqK~)jxEc-QQ|mJlb}^Q9anIgz-<w%R?@~xg(3<5IC6lX%%KGXEYL->1#}6ZqmBl8'
         '@sYi>x>ZN@rv9K6&_DGLaC_>TT`u>L67^$Ib{%g5NaVivX6DU%OTU?KR;<cDoxh#%|8tHN?u?hlvwcR%DrU@V=3{d-YxNmp`N=}Q'
         'lqp-D)AMdFlh1wUPQmg%_fCE4ed47Z#mJeHtnKi}l~Hr5FPs0!$Xd6ptdYt0y=|6F&(V$BR<XnedUnFm-fO)6+yem;Kk`2HoSlYQ'
         'E*CSSm9kax-e)p9Skmm}Im*{ER(3qHVuvx#bQxtbjcM8aPPteaD_4qEi?O!i9IKeO$IM(`p_rM>lry)jKC@Uf@AO?aS#L8t;Mtnp'

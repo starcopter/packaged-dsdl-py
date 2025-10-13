@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/GearState.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.884213 UTC
+# Generated at:  2025-10-13 13:53:04.974302 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.GearState
@@ -112,7 +112,7 @@ class GearState_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{@*=ZHpX55WX{e?|PTGA)=reMdfnj#uvy3zXX!Y<_K#x%kC<Ek)~(5cB{FW>7l#law`N9LE)f5;adNN|IzB%x7+9;'
+        'ABzY8Km_e*0{@*=ZHpX55WX{e?|PTGA)=reMdfnj#uvy3zXX!Y<_K#x%kC<Ek)~(5cB{FW>7l#law`N9LE)f5;adNN|IzB%x7+9;'
         'ap%MKbX7fF^>o!UFB^aSwZ2mS-0gBKjL2eUKuey<pLmi%%u<z?%18^|z0<e4N^PZKFfPGg_&cxs3%~EySiy6$-!zu%RFxKVd<<Oo'
         'Ee~Ov>=d+-s_?ktHol*(FMNBYz51(v<=qbB)@qql7L5Oq0Ix`8?&aOuV+om9q_E8dx18CK*Hz)AmbtX@lsuZ>6-JH<5KjsVBhbtB'
         '?65>ymO(MH=-UkfPr0!yR{}iVbho-Qpb!=xk?m<Pg^GUhJ>r285ryDdTn0L?5?pg@W<pAX36*-c;%Rr+Z62v2#MpTf*u-1Y)%)!R'

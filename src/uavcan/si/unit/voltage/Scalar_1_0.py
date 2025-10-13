@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/unit/voltage/Scalar.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.293574 UTC
+# Generated at:  2025-10-13 13:53:03.149620 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.unit.voltage.Scalar
@@ -115,7 +115,7 @@ class Scalar_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{?|m&rcLF7+rK(5L6%#Js2Y=Tn~((qMkM3vVyA^Zl-CcW!uo1PWoeIO-SS*5z|ByKL1|)I=i@tA<i78ov(d;-+QlL'
+        'ABzY8KLqV)0{?|m&rcLF7+rK(5L6%#Js2Y=Tn~((qMkM3vVyA^Zl-CcW!uo1PWoeIO-SS*5z|ByKL1|)I=i@tA<i78ov(d;-+QlL'
         'n!jkXQ9toPHQ<ixj5uKx)#@{4T4W?QMP;1w0^+S5Z$s{b6(0tbfKzyM1c%U$lcb~t*6#<}&uN)Cm4#CItZ%fZJ(2C?R8tFan)HQr'
         '%9J1*acXxoK84Oir*RBN5N8SX-YOQnaPSeXqV#7G#K}!1G#^u$A)I<jeByW2_R6Y4dDX`iH#W7Q{_k#P2~(bEQTDuq&N4#g)Ok`E'
         'E<i5DJKgi`X<POhYg?&=Z8W~Zdx%TKd0KL6`9+{_h*QuW$`W`wc+b+@WBU$e*&K}#<NHG6;&XO(*62(eBWz%DGB%T<5SxUX9AX21'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/service/Readiness.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.269171 UTC
+# Generated at:  2025-10-13 13:53:05.969603 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.service.Readiness
@@ -110,7 +110,7 @@ class Readiness_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{^vG-EtJi6_&)0#A0JG7;MLcar_fuNed*wA+htrKhy%D5Ez_PGS#!wtL`u}y`Jt_X(^>DzKF}NnkrMpq{@%ro80>m'
+        'ABzY8K?Ln+0{^vG-EtJi6_&)0#A0JG7;MLcar_fuNed*wA+htrKhy%D5Ez_PGS#!wtL`u}y`Jt_X(^>DzKF}NnkrMpq{@%ro80>m'
         '{0M#oKY}mwot`tR-4!C{B1@sKx2NZv)90M;^y&TQ?tj1k%8dV%C;G$K#z{N0GS?!}k3^KncGxv(-&pNrRld0D@}ldCT;3h_W%Z;w'
         '`Dyi!YO&lCW+KJ&V~>hRY_#$IKzC*Pjuf%Zq_tJK5DsK+waF?qQ_g?H<0n;Twlnit^=Vb^4~28NjtVDj^;gK;!J5&ks@!u$%Ou{i'
         'q7}x%iO`X0JH6h|b*h~nV8!8knbm8VjIU=-uE~6IOZ&q}yD*X2np0J04#K;_x-d1dtkjY6=<P-jz1F^nXE*5)?dV_CovJ(%S|_qt'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/sample/angle/NarrowVector3.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.187127 UTC
+# Generated at:  2025-10-13 13:53:03.238755 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.sample.angle.NarrowVector3
@@ -166,7 +166,7 @@ class NarrowVector3_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{?Ya-EQ5+5td~A%d%z5f3Y2Bow~Nv`Y?_hIcnN8aTKUd*E%+A#Wh+q#FAW{-H3<F?k**r00Ekd1{Oe|1k3`t>UAC='
+        'ABzY8KLqV)0{?Ya-EQ5+5td~A%d%z5f3Y2Bow~Nv`Y?_hIcnN8aTKUd*E%+A#Wh+q#FAW{-H3<F?k**r00Ekd1{Oe|1k3`t>UAC='
         'j}V~OMcunz2JHhhckK+hJV$aQ3DP&*UCzwT?0mEQ<LF=hdSa;h$zMx*k%?l@H(W~=%g<O4bI%V|H&sSjUgoopt<FN5X}-}*dHK9t'
         '{G$B4T*$}#gmq#5TE@0RmUu>bhILbTn<X9i-)35?ohLlBO5ZN?Nq?JbBUMt0p?u<rlb@G#m=1keeo^K#KC@QKAhX<*zXt<HxYl1)'
         '=3{G;$I-y0X+L6?`4;^YBlVyd%da{Qt?Y8|aW4slR*C$KM;kC;EI3_?2{F}pB94P~G3Q>NKgy3(%dWI?8~m96I5D!5@aUt&@($Mr'

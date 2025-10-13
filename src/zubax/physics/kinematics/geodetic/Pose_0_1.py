@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/kinematics/geodetic/Pose.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.176407 UTC
+# Generated at:  2025-10-13 13:53:06.128704 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.kinematics.geodetic.Pose
@@ -151,7 +151,7 @@ class Pose_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{`urTW{RP6~|Y5kyfjfteb7c@`ZL?S$6ET-CG>@=G3X<Vl3CUB#w)Kon4MKl)2=Z7fEY02;HQGT@WY%GeCfRfqaBK'
+        'ABzY8LImw-0{`urTW{RP6~|Y5kyfjfteb7c@`ZL?S$6ET-CG>@=G3X<Vl3CUB#w)Kon4MKl)2=Z7fEY02;HQGT@WY%GeCfRfqaBK'
         'vTykad2LXjZu`(a8hvSJ$p7fFl3W)k&=y%4_Bq2D4$mC&cjjo0!}3Sh=L*?Rbg0ucJi}_}9&=4<nGa~wVhz3Jv^$Px`Yee?Z~AV~'
         '@&lLM>ULQ2Bsu;tc`uodD!NVEqJQo|(4?!44)1zq%WK>-ZPuo~R2P|JFrhWBIi46;)t8y;nU0<CLNxRi^d|`^kbz$(50hv_r@rr+'
         '&A?|~@~(Kq4#usGN}|dolUc^PQ8nG5KGl6`DKF+1c_ljbA~u?~pYS0*tnA@+VFMq>BvU(C({atV>6^>Kn&C^9L;cNe8qu4kuUpJs'

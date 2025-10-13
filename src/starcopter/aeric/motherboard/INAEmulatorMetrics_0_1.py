@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/aeric/motherboard/INAEmulatorMetrics.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:16.048400 UTC
+# Generated at:  2025-10-13 13:53:04.999416 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.aeric.motherboard.INAEmulatorMetrics
@@ -543,7 +543,7 @@ class INAEmulatorMetrics_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8K+wZz0{`up-)j_C6vsDhG(Y^2wW(1X)U9c43TBNFw9rCLV*=@R<FZMF7TW8botr%qXJ>|)J4sfsL`sX|1p{6m`lQgll(t}h'
+        'ABzY8K?Ln+0{`up-)j_C6vsDhG(Y^2wW(1X)U9c43TBNFw9rCLV*=@R<FZMF7TW8botr%qXJ>|)J4sfsL`sX|1p{6m`lQgll(t}h'
         '*q_k)R45c03eu;7e}a!b_S~8LTz9TETi;9`=I)(yKKIwT_k8cnH(&d7XDa#=`@O0en0A%~%(tj*ouh`$vZUlzJU6g7lVaORW?L03'
         'niExz$*c0^3-Y||6`P6WILw!j65GbPAC`FNv-KvMh(jxgI2>^5mt2oCKTENlQnuo9V7}o}-^`AV4GvdAn{wCBGmdWqDO$-4^8?Fu'
         '6u#y3Qu(UPrE*Ol$qQ0!A(W%75povDcd@O6fvi|bv1!C&wz=B7c4AUa30GZCa`${SbZZ7JIwzgLDm%;^bvP?CfBjIm5X0icW=@%d'

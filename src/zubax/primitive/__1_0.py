@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/primitive/_.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:16.915649 UTC
+# Generated at:  2025-10-13 13:53:06.212524 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.primitive._
@@ -81,7 +81,7 @@ class __1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8K+wZz0{?|o{cjXE5IxjD;D8oH0jXbcKh$1IZuyWZXp#Cup{mk@G)ibyfufan*LSwEYcIAp$st85KeQ^+N=3r`fBR;4b6g-%'
+        'ABzY8LImw-0{?|o{cjXE5IxjD;D8oH0jXbcKh$1IZuyWZXp#Cup{mk@G)ibyfufan*LSwEYcIAp$st85KeQ^+N=3r`fBR;4b6g-%'
         'FS?v}$9{e@^JeCcg@4Cqdd;U^DyNyt@+fw~DxRxnJjq2Ar=}>4Q(lDn{C$zD0?X{tv=rf0SbiS%!=OGDE3JhMvR9wq^tMWUWyRqw'
         'Cu7YEKwNxQC44U`E#asg;D`Ejyd$hrMiao|Z{7M;7@ZjP{tC}SeKzLaTa{E^xUd!KOLNb0GHs#vX<sHvD^d=I;YIy!JXU)mi%VmD'
         'tg^6HUyPlpY${;LMO<<(L%m2pxk^HPW*vU+t<&3ApnT$bs28Lm)~9UMI9M<28oM3p3nfpt`9x$xirBE62Dw!CU6m9jt8$R6`;DJ5'

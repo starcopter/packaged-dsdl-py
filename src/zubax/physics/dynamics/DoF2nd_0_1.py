@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/dynamics/DoF2nd.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.193388 UTC
+# Generated at:  2025-10-13 13:53:06.152081 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     zubax.physics.dynamics.DoF2nd
@@ -154,7 +154,7 @@ class DoF2nd_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{^8|U2hvj6ty9VowSff;X|r`E<BU~?Iz^~1W1%57^Ed>)B-|8VLH1z@f~G%W;HwO+Jz$W07|Nnh?L=P@)yFLU4OQA'
+        'ABzY8LImw-0{^8|U2hvj6ty9VowSff;X|r`E<BU~?Iz^~1W1%57^Ed>)B-|8VLH1z@f~G%W;HwO+Jz$W07|Nnh?L=P@)yFLU4OQA'
         '^MEbOGjs1fd*<GA>_6uI`L|IkU*<;Ei}N_~NzN3f34ct(g!v?rX(n^7nKiFG(5i@Zq1gAmjM;Ph!LfZ}*UUT-G{yMakBg9Y{S10J'
         'k8(fm;jvq6%htytwx&rsOyyh(3pLaDvA;gIK`p5NWsj}7La5e?hlOUjJwW6coQ7G}%(pm8;t`i65>riyb_C(2>JaA5jY(=pT(Fet'
         'F>=s=#h@P491pmP&xULL;?-F!GR0G_c?Vf6wh~G8WLK_`kZY1K(bixC51B<Y*CdrOGJDIsu{S7pW&Re%c3jA{<4=3vn%79KsfekH'
