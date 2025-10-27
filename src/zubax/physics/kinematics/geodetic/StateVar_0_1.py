@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/kinematics/geodetic/StateVar.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.184150 UTC
+# Generated at:  2025-10-27 13:51:02.822514 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.kinematics.geodetic.StateVar
@@ -151,7 +151,7 @@ class StateVar_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{`uuUu+vke#iMoq*fFyQL<z+^1rp?vnj`>9lO0#bG?gm$>m&Z>@snhD9+``B{|kCLvh*Nr7al^O5@stQY;W&y#);P'
+        'ABzY8#(4i|0{`uuUu+vke#iMoq*fFyQL<z+^1rp?vnj`>9lO0#bG?gm$>m&Z>@snhD9+``B{|kCLvh*Nr7al^O5@stQY;W&y#);P'
         'C69hT;NVC0p@4%vw7|XirNBM<p?zpj;N12ho!R})k{XFNoeR<iSsLPR_TTL6lArJV<~KjCyAyx+Su^Ip+#~JHx?OJ;%QmqLy=mOi'
         't4&fY*Ua^{X&Vml+&xzvt5b727I}NKO}sna@@?-Uui&Q2Eq$GBKXt29)i;W5x@j9VyZE8eBI~-ti)+NJ6ILo-b##Zkqg$S<ly4Br'
         'Hq4esWA5ZTDBtn4m=^zqciVHP%ev!OMz!M*+xvi>W<&$Sy*xMdx<Q)tLBlfTy6)&@hqsm{f|WGoE<e4UCDZnsNhj%)Xc5h_R?r-('

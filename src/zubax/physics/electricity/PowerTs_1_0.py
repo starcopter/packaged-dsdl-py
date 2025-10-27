@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/electricity/PowerTs.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.092608 UTC
+# Generated at:  2025-10-27 13:51:02.871712 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.electricity.PowerTs
@@ -151,7 +151,7 @@ class PowerTs_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{_KW-ES4g6~8wAHXnA3f$%w`DcC7@lQ<Y$+O!Z;0$nf&oD{WcR<pa~J9F8)v)P%w_C>1HJT!u8rL4qO%Ab(Gpvs>R'
+        'ABzY8#(4i|0{_KW-ES4g6~8wAHXnA3f$%w`DcC7@lQ<Y$+O!Z;0$nf&oD{WcR<pa~J9F8)v)P%w_C>1HJT!u8rL4qO%Ab(Gpvs>R'
         'sn1d9W8c!MQl+X@^G46voxS(k*qDb(1#y3~^KriC%sKpa=nsFKsTF_HQ&GoPeqcF@#exRnA$0?0Ii74qQVGrSbl*K4C!S7Xw%UnU'
         '{v@COB>zo5mkv82ZNd8Khlxu!tcZ7%@RY>@=IK~?LU*h?a-GGiDo@9pHj9;zVa{vm=!a(fB)13b+Nb#^c{=G(4X4~hGnM}usP7<G'
         'cUPVcUlT0wd-6;;KGoFGC?p>&C;4!CI-zZkhL#pBX5H(A9*<=x9x{IwCX}YFDCeVmypn|P1@3&x9G}@qjwlu_p+y_ynE4=7q7gFx'

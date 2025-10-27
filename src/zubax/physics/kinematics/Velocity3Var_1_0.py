@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/kinematics/Velocity3Var.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.124307 UTC
+# Generated at:  2025-10-27 13:51:02.799080 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.kinematics.Velocity3Var
@@ -181,7 +181,7 @@ class Velocity3Var_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{?|oZEqVz5O!$Zn!b<_TEvUg`#>v4BG*C@C_+L&gps%;jarC6RoL#`O*|{#-5$Gpu3f1T{Xo^Am8g_O;^*|I@FVyh'
+        'ABzY8#(4i|0{?|oZEqVz5O!$Zn!b<_TEvUg`#>v4BG*C@C_+L&gps%;jarC6RoL#`O*|{#-5$Gpu3f1T{Xo^Am8g_O;^*|I@FVyh'
         'X78NZZWCe4y1CuinP;AzdHmb#U;oax>W{rv4pW_GA=97)&%`4hXArVP=B3oafU}qG8C4~wQt-pD1b5`tp18-ZZRc3QbK1ZDsEYX@'
         'EODqsqQjmjAm_%LdyvUQnBna`uAE(DeNbA+!ePrU?2YUr7tKVir|yZf7Z^82iMTSL-9BYF1KUe4XXiQsvUH4TiKX0dW;{^){u#%W'
         ';zMWO?uY@TTTpZje(jg0tGmP?gB%Jo3U&sTQi)s`(I=1dolJ5w9pwUxg<)Bp#6<z&OSm>Hmnk@W&tBa<Iqr{zo3yv>w}_P1@9r*v'

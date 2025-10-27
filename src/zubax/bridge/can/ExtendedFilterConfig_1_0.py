@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/bridge/can/ExtendedFilterConfig.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.235935 UTC
+# Generated at:  2025-10-27 13:51:02.691722 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.bridge.can.ExtendedFilterConfig
@@ -139,7 +139,7 @@ class ExtendedFilterConfig_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{`vT+iu*(83*v?ihI=R<dtPhw(QSt4ssiBoTP`O%_Nh!4N|a9jiwE9k(MBrV-4XIx!^&S0u*R2QrInv5-<zo5%LIm'
+        'ABzY8#(4i|0{`vT+iu*(83*v?ihI=R<dtPhw(QSt4ssiBoTP`O%_Nh!4N|a9jiwE9k(MBrV-4XIx!^&S0u*R2QrInv5-<zo5%LIm'
         'gginXAwXXsmmTi@KU-PLz3Hti82{NNIXj&Be#_av+W&rSr!o6iT%8^VX)qbNsY*g`5`OCW6E$+j@xe4s!%S7h%7<B!kFz{czdxR;'
         '>QQy$v+6I^UeR(R@4y^?{?pv|jz)eG2K#C>_M*|RjxrSmDtIrPWGcBGNB6@0s_43hDoMjQs&u31e1!I+%CVfr->T25V%hbwED8NQ'
         'Q)%@_^9j!w+vBsUqV-;=Cc%?2_1(bBJU6Qc`mD>RNq7)u;h{NW_=hMB_ahbjI?B|(O1^)C%dQ`0?nFiVnXa5&)A`s-Gxs14RHZkI'

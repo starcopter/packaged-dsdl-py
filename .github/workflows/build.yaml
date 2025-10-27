@@ -70,7 +70,7 @@ jobs:
           CO_AUTHOR_EMAIL: ${{ github.event_name == 'push' && github.event.head_commit.author.email || format('{0}@users.noreply.github.com', github.actor) }}
 
       - name: Upload docs artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: dist
           path: dist

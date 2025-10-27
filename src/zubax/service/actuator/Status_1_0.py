@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/service/actuator/Status.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.277909 UTC
+# Generated at:  2025-10-27 13:51:02.915897 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.service.actuator.Status
@@ -213,7 +213,7 @@ class Status_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8LD0i!0{`t;%a0sK8K1THF`l(!TPB+TLa9i|tcABXR_qAEBVND4YP@U9>jZ=_?V9eIsq*%8b-Jp@JBy5xNJMdHgoQhZ0~`<s'
+        'ABzY8#(4i|0{`t;%a0sK8K1THF`l(!TPB+TLa9i|tcABXR_qAEBVND4YP@U9>jZ=_?V9eIsq*%8b-Jp@JBy5xNJMdHgoQhZ0~`<s'
         '!~t<Y91w@xIUw=)3%DWi2XHgLuX<iPGaDQdg$uh{ZTDB-`(6F|?7QzRRoqYhOwtWa7<s-Csp65^<&8*qexTclHp+@3KXOS#s*T6+'
         'W;YSV!{XE%#l2!VpZ8T9i?ooH{K%F~v%qGl*o!jf$Gi;|pV`eCe8+=`jtYdwfy%8;y)DaaW{SM(cSLHGj)~dAtG(xkMSZ4Td8>G%'
         '$QONXZK@iX6{ffa&ikl6z$)^&D@sJ+P?wq?a?5>73d)5NC~Nt%8Sex<_KfnfSXs}Cb|O+vws>0sk2nlGET8CWB9GrH<dZ$>r}tAM'

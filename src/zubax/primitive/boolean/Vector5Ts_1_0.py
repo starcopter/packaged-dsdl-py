@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/primitive/boolean/Vector5Ts.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:16.933888 UTC
+# Generated at:  2025-10-27 13:51:02.613247 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.primitive.boolean.Vector5Ts
@@ -151,7 +151,7 @@ class Vector5Ts_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8K+wZz0{^8~OK%*<5#FWvTuKxr>SalmT8<-;iFRz$rp!1G>tQHzT3QJbtq2L?LC;K+-Q?`_q`QaY3NR2KVwk`H89)=jKfyo2'
+        'ABzY8#(4i|0{^8~OK%*<5#FWvTuKxr>SalmT8<-;iFRz$rp!1G>tQHzT3QJbtq2L?LC;K+-Q?`_q`QaY3NR2KVwk`H89)=jKfyo2'
         'hx`BoIR{aWxfwa-=tGdCYPM&&l*j}~M2KHaKdP#$s=sRfX7u-eINGTG<rmXlWTM#f4cC&z@+k{q?)jnWrpidm%lybAtFzE%ny>Uy'
         'UOp=qJ}o~f=kqZ?VO^NN^fU|DwwG$zl~!(YFHkDxEb$)m&?>#OV#<8d-{jgzm6W29Pds+=vywJx<FoS9GN1ODwOR(5<)-`<Xg|QO'
         '!KyMJyDfPf?fTR5BW9Uz(Md7V9~5KxrHpNc;Ek1C?mg-yq0lOkPkFQg1IDs$T8arVReK^1gLN_Mw$B~p$KbSOKKD^#<XXa`4-?DR'

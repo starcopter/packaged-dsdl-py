@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/primitive/scalar/Natural16.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.112556 UTC
+# Generated at:  2025-10-27 13:51:00.018688 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.primitive.scalar.Natural16
@@ -106,7 +106,7 @@ class Natural16_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{?|m+invv5KTpr-ngW+f(IUGc|hUPZHojS01{Fa8X^k3A<JHy*y^sm@+BllmFNSAN|r$C@V|^VZBsxMyANyc@ywhv'
+        'ABzY8#CZQ`0{?|m+invv5KTpr-ngW+f(IUGc|hUPZHojS01{Fa8X^k3A<JHy*y^sm@+BllmFNSAN|r$C@V|^VZBsxMyANyc@ywhv'
         'bNr?G>uIx5Kk;rg;f@y>al$HEsLzxYA|tseE8~<G5U=ff8*(44csr>CoWO%4ID~F&5lu_PHv%2yRA-e{rSfVdGMCeW+N@78h!#7~'
         'ATE%Ruud5bvJvOspRP}!H`i-?gCmH`gnDlk3tl+*0GH7^KLoM$Qi+1k=qwRVJtaPIye#~jBE;2q+Nq%yd{=uh6!uST%Y-RU3ZaKy'
         'La&3#bLu=P4HqES;;q41q7;_BKx{8TD5&uj-auR<&Qr~)<rfou4@|aVYeb8H44Q<S9AX0kqjB|ue!?cx)*gafmn#n0a8X&2Q!h9i'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/unit/angular_velocity/Scalar.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.279925 UTC
+# Generated at:  2025-10-27 13:51:00.262849 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.unit.angular_velocity.Scalar
@@ -115,7 +115,7 @@ class Scalar_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{@Lu&rcLF7+rMvA*ir{=)r@Wa6K@Bih9<B%L=YyxS6J%)@{Q~JL!*g*Mvk45;09Q;q&jsud|Db7!qd=)6UnvzW2V@'
+        'ABzY8#CZQ`0{@Lu&rcLF7+rMvA*ir{=)r@Wa6K@Bih9<B%L=YyxS6J%)@{Q~JL!*g*Mvk45;09Q;q&jsud|Db7!qd=)6UnvzW2V@'
         'FU?;k%|`vi`_+&;USz}xt7xG<Q&xzK<fg2QQ(i#4wdZZfeX!#Fuo7?z50Bsw+Hsm_T4H@I(0)#J=2RB6@)^~=P*6+yqA<Dg!)!07'
         'IEOfgzpPV6gKWgv{qgt|I#Zp-F&sf$Ak=%SSn$HZ2e^vcpG6R-x0NXPgws6X)KlUU(W|ysR+Y-DKCZa2T^Q>BmbE~b@}v;D=OuJj'
         '5i+OFlhSYjawXpBo^MavvR7E!NhOrg_zLeJt`O&`=G5|wK;ICjq&@T}@O1D;OLLF%9on)z9wWy0R^#Gxc6Qe2OdTU^U~)RPEai%7'
