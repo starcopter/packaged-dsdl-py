@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/telega/DQ.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.063810 UTC
+# Generated at:  2025-10-27 13:51:02.734341 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     zubax.telega.DQ
@@ -184,7 +184,7 @@ class DQ_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{?YX-D?yv5Wm*e)@to(wc-cZ2bBtTRTQNNQmvj3+b>%Ye2|dcjW@B`&6-WlyF$S}R1^XVjsKtjgwHzJy?WQLJC2*o'
+        'ABzY8#(4i|0{?YX-D?yv5Wm*e)@to(wc-cZ2bBtTRTQNNQmvj3+b>%Ye2|dcjW@B`&6-WlyF$S}R1^XVjsKtjgwHzJy?WQLJC2*o'
         'OlE#F`OSP8`t@hHR(|aDypt4(2uQ&cr-E<NNU(s!GR<YdHFI`+T`Lo7qu85H&fKoMz3sN#j2$K!P0>EFX(HMVG!v{zgBP!z9VIQM'
         '3NAATH9PXQEAP6n77l!M+s>XQRBOc}qgmnJW2|FP{P%KpxWSo7dfCTFLNz7YL$X(oxvmuLID4VN+bmgRSyRI^ui9V7I6>qo%XBx`'
         'F<5fNQ?7XnJx(=*q<Vjp(<I`Wh%$)_>xeI=g(j&?n1d^JYIX0rzZNW@ZONOkDFZuh4MCDZ(=4GX=@0Y`<D|5iacvTx_=BRc#%31S'

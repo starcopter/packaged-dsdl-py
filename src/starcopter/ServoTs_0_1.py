@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/ServoTs.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.892802 UTC
+# Generated at:  2025-10-27 13:51:01.646021 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.ServoTs
@@ -151,7 +151,7 @@ class ServoTs_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{`us+m9R79ml<1uh;8!b~l^bk{c%>B)gC`NgyFj3pIpN=#V8M0issL9*@uNna$W^=CT*6O6H+eQjJtgOeJ3W)(8Fs'
+        'ABzY8#d!Z{0{`us+m9R79ml<1uh;8!b~l^bk{c%>B)gC`NgyFj3pIpN=#V8M0issL9*@uNna$W^=CT*6O6H+eQjJtgOeJ3W)(8Fs'
         '{sg2xqteH|(W(^^DuO;#^!J<j9<SHQ!m0vZaH9Ae&*hvm=gjAGZcZonhticy@+W$*z1i>^PPyt!&o&+VEwk>(a@BI1ZP&L08Ap3='
         '1YT$bp(k%{wq^WIyzqAX>v%pItG3K0ouBms)3e-mAieSp>8-gp{WvOA*QDp$ZYx%qX#6$A--(TkG4k8^?KqmOnnB>%^)Qfr{7Xu1'
         'hl2F3iledTZRs?&3Q(*z%)qP$Tq>1K52~@~L};#AW~&_7O<BIN*|L=9w(PfL<0c)TvNqeX8dnp>h>_uvs1oI_W^ntyoyyVn?4}*q'

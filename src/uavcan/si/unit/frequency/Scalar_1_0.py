@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/unit/frequency/Scalar.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.271235 UTC
+# Generated at:  2025-10-27 13:51:00.257633 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.unit.frequency.Scalar
@@ -115,7 +115,7 @@ class Scalar_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{?|m&rcLF7+rLKAgDkfdhh@zTn~((qMkM3vVyA^Zl-CcW!o?_9s6V5B_WZ6L`)M+`22hE>+IqphB$MWcE0xYz4yI-'
+        'ABzY8#CZQ`0{?|m&rcLF7+rLKAgDkfdhh@zTn~((qMkM3vVyA^Zl-CcW!o?_9s6V5B_WZ6L`)M+`22hE>+IqphB$MWcE0xYz4yI-'
         'ssEDoTJ?nGa>y;u5@Ll>G*gF^Wg;P|&P#2T6A<p~I^$F4jrcGu1)Ra7V>p6#Xpn;DSYP(EpVA_+D)EJK$-WVvyeQIPvYXP38VJ**'
         'FN{^X09gyIz47=AI#Zq62^>S1CDb{in0La$N4SpEpG6QFTS{bnLS}|=>L_uM;dR?fqjKd`A6MMk$~1L<>zO4?Ig*K@=OlDi5Hh9K'
         'kz8{Daw**FUTlxslGj+<jwO^)`wH(NED`Hy!KvYwfxaP5PJ3vK=kefuLsN(HE!wg*9wWy0h1%uk{QSJunL0sO&txMsq%iIfLY;7('

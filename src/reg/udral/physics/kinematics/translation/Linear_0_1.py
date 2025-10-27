@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/physics/kinematics/translation/Linear.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.146774 UTC
+# Generated at:  2025-10-27 13:51:01.052310 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.physics.kinematics.translation.Linear
@@ -187,7 +187,7 @@ class Linear_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{_KUTW=dh6n5Igxirv30V>g|m_C$LsGCNB#H|oo6p-AcQ39x_l*#Pw)Mv=-&T3}X*hoe60o0&DAZ5xUPy7QO5&r{;'
+        'ABzY8#d!Z{0{_KUTW=dh6n5Igxirv30V>g|m_C$LsGCNB#H|oo6p-AcQ39x_l*#Pw)Mv=-&T3}X*hoe60o0&DAZ5xUPy7QO5&r{;'
         'pTQ3ZXLjw_al2`Rgm4sPe9m0H^L^)%Z^j?~JzXn4_Jyn)>sSOtGsUUkU(ryofJ8FMq~?Y>`_z_Ed1P|MKI&%7?YT?$-95KxCrC;Y'
         '^e-va3i4P{5oFNSJkr4qPgz2ZUm8VIEpRQ<;0Btha(0TenbK%+P_vVt^wxW>S!<4c=k7auicn(|4|Bt`yMu34pgh>+?8GW(A|9Zd'
         'Au%<S7!Mgvlt!4a=W^PPXc}l9<S93SU}?)huoY2($Y2ttn`6zI2LZEp9L)6&E>t1N6i>L}ZA37=DkL?BIXXo`Zb<ovYc>#7M71G_'

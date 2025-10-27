@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/node/435.ExecuteCommand.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.432642 UTC
+# Generated at:  2025-10-27 13:50:59.892614 UTC
 # Is deprecated: yes
 # Fixed port ID: 435
 # Full name:     uavcan.node.ExecuteCommand
@@ -191,7 +191,7 @@ class ExecuteCommand_1_0:
         # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
         # is not dependent on PyDSDL.
         _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-            'ABzY8KG4Hx0{`t>O>EpomKNFmk!d@Y<JeZllepqIPHWQYD6t(Y@g%V<OR-T?k{~IGXC?v7ZdQww*(8TQ`U$Xr=dc4E2rRMT0=X<E'
+            'ABzY8!+8H_0{`t>O>EpomKNFmk!d@Y<JeZllepqIPHWQYD6t(Y@g%V<OR-T?k{~IGXC?v7ZdQww*(8TQ`U$Xr=dc4E2rRMT0=X<E'
             'mj!an-f|4EmmGsV<rrXqnE-p(90r(Res=b~Dw5qTwPMS$9n6dknCdRRdi8$3_v*c7@z$<?`;Q9);$L#oUpGV3sp}yRY{RkNGa3%B'
             '>rJoid!ZfiEID|EJ9ZmBnv3f`&)&~QewqDKR!#Qkw(IgBvj&ob3sDd^qd4HbB)fIjXakE=v9Z!L+`8+Tygs$Yn{mV^y>{Dh&H6n5'
             'Ma;t}O9u579)z~%BFDXN<)7crs6q#RmHjeH_UlFz1$F}_huOQpejC|Ksw~+(ZF9%$2&Czz5gB@fQf@ch4^Ufs1t^ZZ>4x@_%gt+U'
@@ -338,7 +338,7 @@ class ExecuteCommand_1_0:
         # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
         # is not dependent on PyDSDL.
         _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-            'ABzY8KG4Hx0{@*>TW=dh6i#TGxaozK^a51SMTM%ZR1;K?kor)$jsuY!C$b%+B2}Z=-HFdA>z(aflDMeQ(hHFoM5PQ!NFY$3`T~f5'
+            'ABzY8!+8H_0{@*>TW=dh6i#TGxaozK^a51SMTM%ZR1;K?kor)$jsuY!C$b%+B2}Z=-HFdA>z(aflDMeQ(hHFoM5PQ!NFY$3`T~f5'
             '$eCRyaZDmLBoCh5nK|>F?|k!}eK_{hlgW|%&tAxSv5J#2QA~20@cT4OSeZnkn+e4=bN2WQOL!NDal4l>x9P4tau3{PJ5G3-GU;H%'
             '9&c%BB5fqwz2q=SX%|CWG;}qhX*m@!E7#UpWHhUaZkMKUxye)}QiZEZWR*$9Me0LNe9<3oy838+<e7Wq>`_9smORAW%H75I`+(nG'
             '<?P{E&XRZs(IknfrbK&~`)$vpPnWOaim9bk@lML(xm2?ble^P9N<ywl!qScgS1)1kh$>CGn5Bca?AgVwKz>`figWXR3Nspc>YC1;'
@@ -364,7 +364,7 @@ class ExecuteCommand_1_0:
 
     _FIXED_PORT_ID_ = 435
     _MODEL_: _pydsdl_.ServiceType = _restore_constant_(
-        'ABzY8KG4Hx0{`thOKcoRcI+968jWO$vVL4?W!FktduWkk+OjQK@<$Xu5>qac8B(^qNYLt;u3`76r@Oa5{1^zJJ!GK-jbspa7Dj*o'
+        'ABzY8!+8H_0{`thOKcoRcI+968jWO$vVL4?W!FktduWkk+OjQK@<$Xu5>qac8B(^qNYLt;u3`76r@Oa5{1^zJJ!GK-jbspa7Dj*o'
         'I{0AhA#ji!d|DXE#fKaW9|GUvqk-Ln4*}vNn{3{z>hAe)D2e(R&PsraJ>9RW-v3jd8{7W+#KeI37d`E+>%MN4RiAsNW|{A4Rg0I^'
         'n$vV0-wb#h?ONpCido}J>n@Mqk4JtM|4Cemo=`ph(~$dt8sK|lAbMhoTV@lw=-rTms%hKY6CjI$7uJH%>ltjjYHLlH>UgNF)HJ(n'
         'J322<ukl(K@JXlH)NH+6k<-OdL0#dVZ#p)PxZ~~Q`TdwGbl~Ul&j4Xn3j)uqLT5kzV;FuD8Z)Rk+CF1)OK&4oRCO)TBx##<cRi%m'

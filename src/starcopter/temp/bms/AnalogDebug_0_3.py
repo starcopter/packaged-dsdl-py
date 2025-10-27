@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/temp/bms/AnalogDebug.0.3.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.968538 UTC
+# Generated at:  2025-10-27 13:51:01.755744 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.temp.bms.AnalogDebug
@@ -360,7 +360,7 @@ class AnalogDebug_0_3:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8KhVQy0{`t--ES2|6u%crTUts%zENcH16zSB%7>^RpCyvDrJ)7U1ee*};hvSfyX)@kr8P0Z2Mw4>+=MaVkw^aoA9>`>7-Q5J'
+        'ABzY8#d!Z{0{`t--ES2|6u%crTUts%zENcH16zSB%7>^RpCyvDrJ)7U1ee*};hvSfyX)@kr8P0Z2Mw4>+=MaVkw^aoA9>`>7-Q5J'
         'BgPmt#Kf-$-|)=t+1uNDshSwyY}5YEo;h>o%sFSynYrBaz8J3LKXP+4>n5&Wvl1SA%=g}4w$E#p6E>nS@dQ_L=ot6C29oadY{b<y'
         'HTsr%Q;o=8%L@V?E2zk!DG{fRNMk-<WQi592CCSc2o^hGBzRmCyb;yxMp8Q*Fh8sx<91qCvfpa*IPt<jtLr;M^fhHx%*F4hx0D>T'
         'm=LjNr-CQy9O_=c@RpR4OOAWocjv4buv{jXCA5jqS1@5fZc16xVL>hNYH8q!S~K(otMl5F!+eI@TL#O`s#(!iz{+z9*3iuL3z-nb'

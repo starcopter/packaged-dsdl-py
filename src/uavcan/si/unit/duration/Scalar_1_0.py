@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/unit/duration/Scalar.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.252501 UTC
+# Generated at:  2025-10-27 13:51:00.227746 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.unit.duration.Scalar
@@ -115,7 +115,7 @@ class Scalar_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{?|m&rcLF7+rK(5L6%#J(wsbTn~((qMkM3vVyA^Zl-CcW!uo1PWoeIO-SS*5z|ByKL1|)I=i@tA<iDQ?bp7(@4eSA'
+        'ABzY8#CZQ`0{?|m&rcLF7+rK(5L6%#J(wsbTn~((qMkM3vVyA^Zl-CcW!uo1PWoeIO-SS*5z|ByKL1|)I=i@tA<iDQ?bp7(@4eSA'
         '&0l-XM*YPH)qp#$Gvb6*RIAUFX_1lK6qRwx3y8ONybZYzR(u##0#4!45gbB0PLh%qSic`=Kc{8pR2E9*GafAU%9PnoPBpa<r%7K}'
         'hbtf(acXxoK84Oir*RBN5N8SX-YOQnaPSeX;`C<|#K}!1G#_)BA)I<jd?I+&@ye<~dDX`qH#W7Q{_l2X2~(bEQTDuq&N4#g)Ok`E'
         'E<i5DJKgi+=~(s}Yg?&=Z8W~Zdx%TKd0KL6`9+{_h*QuW>JoUmc+b*2iQ`a~&CwV!zArQ`erIQAjn2d|!UiTMW6O!$lpJD{aFau9'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/service/actuator/Feedback.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.275273 UTC
+# Generated at:  2025-10-27 13:51:02.913367 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.service.actuator.Feedback
@@ -142,7 +142,7 @@ class Feedback_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8LD0i!0{`t=*>fDnc?T$x07n-oN)&y_8pju40t14QXj@7wgNGypBuE34#n|Oc_3rd;H#j>pp6S^IR7@pKm1VLrDbuBqrMJBK'
+        'ABzY8#(4i|0{`t=*>fDnc?T$x07n-oN)&y_8pju40t14QXj@7wgNGypBuE34#n|Oc_3rd;H#j>pp6S^IR7@pKm1VLrDbuBqrMJBK'
         'c*tWaeo0kQl?VR`{tHt63tY;Ze_tPaFGMExQ?e}1*O=+)<2!!e(ermlKlt#gbNW}km>on#6bE6!bID@)E^EX*2%BjqOAD!ZT|Ie)'
         '$FhTFbn77F_51bm59`0Fm#X8TOcI{gVy=2}SLJ0>l{p{nax6?(2SdF0ZrNb_0jB86CJz|8GL`1R8=OZC*1S_!i(!}Ng-jC~Zs9w&'
         '{eHbQzcu$>{lmI?JY-7cvQa8t)ZfS0GZx<ORaeK}kUWkCtMS5!DHbYPqF69Dg;za4y12JE%T<FjRf{LYQ*M573Ui9*>`P~7zrMp+'
