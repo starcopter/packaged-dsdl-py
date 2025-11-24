@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/bridge/can/ConfigResult.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.229506 UTC
+# Generated at:  2025-11-24 13:46:56.836581 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.bridge.can.ConfigResult
@@ -111,7 +111,7 @@ class ConfigResult_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{@j&Yi}Dx6m@7Gt^<WCp**D0LE@39%>n}P0ltu?sW5JA%W)6_%5--3+B52UW;HXL#6d{y2P!I!1X2d^^Y|%nXY9mD'
+        'ABzY8&|xHL0{@j&Yi}Dx6m@7Gt^<WCp**D0LE@39%>n}P0ltu?sW5JA%W)6_%5--3+B52UW;HXL#6d{y2P!I!1X2d^^Y|%nXY9mD'
         'P=snr_U_(0cg{KY?wKd^fBwBxiywEZ9Oou45^6vTR)`~(7Ld?PjY?&N1@B(jwYth|rJ+AA!5{ner~Vhe<`$@ABaGiXs#12Cq*~-d'
         'NHQjqEhPtH*aK4)*1J002W^Csp4Z&cx6|um-<oUHp82QVEmLN#7HMU{_=i~e5=^IA-Ywi0P~<Z#4Vp8{s0{!wTV8505?1VE#>$>F'
         'VkjYRN()2K=ZP)TR9ISo99r&Mbu6ASW9dlc;Q6Y%(LE^?mL*#l+X*3LRQuKUyj!KlGMO`-pDpxTmGT9*u+NGL5zNzEW!}|1KE3AZ'

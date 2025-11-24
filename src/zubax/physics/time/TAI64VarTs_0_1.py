@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/time/TAI64VarTs.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.215269 UTC
+# Generated at:  2025-11-24 13:46:56.529874 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.time.TAI64VarTs
@@ -151,7 +151,7 @@ class TAI64VarTs_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{^X8TXP)66<*oaZEcK&Fc@s0Ap}c7JC<ZymQ6@(OdLC7%MKRA1%-#6nbvm8bECUQ(o#iLct{GTrYcj#B;}vLPv9p|'
+        'ABzY8&|xHL0{^X8TXP)66<*oaZEcK&Fc@s0Ap}c7JC<ZymQ6@(OdLC7%MKRA1%-#6nbvm8bECUQ(o#iLct{GTrYcj#B;}vLPv9p|'
         'mFHBP$Gnleq$<e+Z{(bwp52vXB_W9{>-6^J-20rb_vZ(G^WbR9{1h)_y-<ab<0&Qujl@UPkC@{HX`H1>XjT=E-PSS>bS~LyFJskb'
         ')$AwL$JI<R>LoOW_2)jyeY)jjyr)E<94%tztX{gdbmko@S5;L^cpFSAktP*y731&N@n@CWaz}nyeNq(%J*u@7ey*9S-UrTm=+xg;'
         '6{A-Ki^72}Z7-yndKwkv`|3$PTD+LkjesV#PPcnWz-5|<k65@06H3!KtN1vdbVuA4YQhhJbbiDhpWaK4Oo~`&u>pEaznv)2O;~s>'

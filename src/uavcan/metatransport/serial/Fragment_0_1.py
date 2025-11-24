@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/metatransport/serial/Fragment.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.521917 UTC
+# Generated at:  2025-11-24 13:46:53.890769 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     uavcan.metatransport.serial.Fragment
@@ -192,7 +192,7 @@ class Fragment_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{`t=O>7+3k)Hk^Qa>J9mPK2#-L_?E=!j!V7Ui*HXDKV|(0MMJkQ9eWuo?BtJn^+PGd<hg!yf|+FdJl-1{&A~+zari'
+        'ABzY8&0!>I0{`t=O>7+3k)Hk^Qa>J9mPK2#-L_?E=!j!V7Ui*HXDKV|(0MMJkQ9eWuo?BtJn^+PGd<hg!yf|+FdJl-1{&A~+zari'
         'Bab@rs3U<~bP1Mw(~$`RL`NP|)%|9MBax0|OEO|hgjjFhPgT9DdSAWbyk-4=M@zZ%U-U|QsUFlDrAokk*J-$4IMoI(Rcc<d?FDYg'
         'ljy+Z(C^g3j?b?wwR!SYGWxsZKayf(R9a3G$4_*e`I^%zHF@ZSzS9cYo*$MncBPMeXRgUxVG`vl^V|<yua$^gWPK*vUnMNZl>bV8'
         'mqhz2P8j-bwG;9n`8O1>hibi9No0KF@<zR{(r~5jgia+SJ%yTe3L|<|Y8bjrUb?*0stMm~xnJ=573>H?r`b+~C5D*7a-@makJ3d!'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/service/common/Readiness.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.285474 UTC
+# Generated at:  2025-11-24 13:46:54.738486 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.service.common.Readiness
@@ -110,7 +110,7 @@ class Readiness_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{^vG+io1k5hbY$sg*5DmMq_+_BE7Aj-@0{l-RjQvTj(55k%RN6C{J4onH1tv(uaDo?WiM0P#Zt3m6~*Gy(hxe#yH('
+        'ABzY8&S4~J0{^vG+io1k5hbY$sg*5DmMq_+_BE7Aj-@0{l-RjQvTj(55k%RN6C{J4onH1tv(uaDo?WiM0P#Zt3m6~*Gy(hxe#yH('
         '!Jpuly!#XUm{UD9%iX0YTMt=5JiR?VRozu}s;c+z`~Q9BxjFwSPxVK!jng2sDo<pZ+>=qNg0N$HePa`+s`BX#mlqvZ<m%R_ud0XD'
         '>CdXaRm<gpFq1tze?3>5K@sON4IpEXbX0)1dnOBRDj6r4vbHLh!hy<dVzNrlm5ZP7_+izaYtR3)`m8Dshtjz`i3+D|^(TnmV`Jl0'
         'Re9iYqSAP0L#;5DPKJ(lx!3FcJn1Da8DPcnk29NWW-7jxIkl<s>C+t!qr`=&$~K*@+6xfgk=BJh6RS#}C{NyK1kr23MLfGsk8q;-'

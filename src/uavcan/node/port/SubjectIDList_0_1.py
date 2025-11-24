@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/node/port/SubjectIDList.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.482777 UTC
+# Generated at:  2025-11-24 13:46:53.802024 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     uavcan.node.port.SubjectIDList
@@ -241,7 +241,7 @@ class SubjectIDList_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8KG4Hx0{^X;`)}OF5y$szJx-Ek%Tg>mNn>r>JY+|Aj*}*J+(#-u1gOlpf~*8Cik4U&SGSaSBug$&y0mWPwhk<GfnMQlf&P^L'
+        'ABzY8&0!>I0{^X;`)}OF5y$szJx-Ek%Tg>mNn>r>JY+|Aj*}*J+(#-u1gOlpf~*8Cik4U&SGSaSBug$&y0mWPwhk<GfnMQlf&P^L'
         'E<k|-?Qae8i#xlV(>-$Mpg<((zC7-OyE`+V8R}@_Z;uy={ZT7P+t2*4>SjC*SQvc5ypUJjdfZInERbBQ`8zxensDjwv=gqM>MM`*'
         'L%ph|+#rg0ss&LqA4NeN4K`1@5o^Nm%Q<V+SyYW;pI4JOmDT&Xx5w*p^UjAsCbcTNEuLmD-pn-pF<w8_4slAK>PK45xlGD5@N&sB'
         '{Y#j7%$iSnX*IbK@X+rqX4dtYWUe$TR4<Pio~Ep=)e9TJA@@JzQA3J#b8B#0^DYm0lSdLK8?%-qHAfb-pvT;;I1V`*I-WV#3#1#`'

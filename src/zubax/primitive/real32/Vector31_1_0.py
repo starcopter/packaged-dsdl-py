@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/primitive/real32/Vector31.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:16.975855 UTC
+# Generated at:  2025-11-24 13:46:56.743331 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.primitive.real32.Vector31
@@ -130,7 +130,7 @@ class Vector31_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8K+wZz0{?wf-%r#)5bg=bPf<>cCi(zR=6s-n7>$o=JQK^|1r!w}n{B(?ZfLvBc6;8DkjR5X%qEgB{(t@_INKg@px8^UyPchH'
+        'ABzY8&|xHL0{?wf-%r#)5bg=bPf<>cCi(zR=6s-n7>$o=JQK^|1r!w}n{B(?ZfLvBc6;8DkjR5X%qEgB{(t@_INKg@px8^UyPchH'
         '=9`&szYhPZRh{B7vuQ8P!pJ2VQ-Vffhx!q7Ng(4?W<oPCQ)^n~fzB0s+e;Z7!Tmkhg}SMdgvMx}-N}90byFo`p+$$eiqUB4p}Wok'
         'E!EN@m@(2}DibmR?wHZ_{`v^Kis$UZ9+*i&wN}E<HOpWVE=%h45SVI1uqZrBW`cxNQ=)B#=I$l#O3@yen+?%r;WA6wnm@Cj&eNJA'
         'EMhTBbRX=JTu$kN8E-_A>hma*#21=GMG)}jFu#Cin#3|>!0(t_trK_a=Dt8%)0(g*&No=aBuS=e5>gco0)0oEn6?w4^Uwy~QZ&$5'

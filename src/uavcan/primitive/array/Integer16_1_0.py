@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/primitive/array/Integer16.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.083459 UTC
+# Generated at:  2025-11-24 13:46:54.121106 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.primitive.array.Integer16
@@ -137,7 +137,7 @@ class Integer16_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{`t=OKcn073KWtKW*8TVka@<*bbf8G?n<nIG?HsTBx`^E^D`eHpOU2PV@$*$iZ;vQUwAiixvtnKp)^Sprw{tYN@4`'
+        'ABzY8&S4~J0{`t=OKcn073KWtKW*8TVka@<*bbf8G?n<nIG?HsTBx`^E^D`eHpOU2PV@$*$iZ;vQUwAiixvtnKp)^Sprw{tYN@4`'
         'T574b8v*^P?V?(G**hd9S+V86Y_yd~Xy(29JMZ2%k2<`X)bIT}o9g^Tr~HX(vs%mBO*inIn)e&0Tyyhwr7`X|nqKI}(SciG(5i&3'
         '!2QL9@5XoI^WVnb#JR|@>&`gKvn}UN#i{50z#I2M?~a>yg20)`|D+zeV{R~bHICBu9XDutje0Cnk@Z#Y{%%YPrG6KG8%O(WCkz9x'
         '+zQ=h{Hu67R2xchWc=83Yt>COd+n+dI(C>qj81N2p5Th3{;wRK<(Z$l^|4U=Fqz%Dv;($VbI09!*z>myoQ)O7(cxR(SlzAm*1Xl*'

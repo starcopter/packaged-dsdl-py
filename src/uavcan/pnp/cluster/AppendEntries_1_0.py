@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/pnp/cluster/390.AppendEntries.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.322679 UTC
+# Generated at:  2025-11-24 13:46:53.812605 UTC
 # Is deprecated: no
 # Fixed port ID: 390
 # Full name:     uavcan.pnp.cluster.AppendEntries
@@ -264,7 +264,7 @@ class AppendEntries_1_0:
         # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
         # is not dependent on PyDSDL.
         _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-            'ABzY8KG4Hx0{`t>ON<=HdG1~AW7y=bnj%FmB}yz&6gex;j!5cZin3xcd_;7M4^X5`Kv70L)3sB*?CBo&V;=&H$N^$V#sC>W6Trtg'
+            'ABzY8&0!>I0{`t>ON<=HdG1~AW7y=bnj%FmB}yz&6gex;j!5cZin3xcd_;7M4^X5`Kv70L)3sB*?CBo&V;=&H$N^$V#sC>W6Trtg'
             '`j$EBma8vDkehQzkOWAg*bWc`KG;AI<o~Pws_E(3l^7ug0z?+fs_pK2{q=v}_t#@Sn)~zj-n8WZdMCR(e(HzyM#_`G3xf~6X2|P}'
             'R@~{vX^`<jZ|N!zgAQc<dplh|_;j%PgTeO))!srQh$5a0gw<PmCrk2HmM47jlleyEb)brB?rpZbsNRjb^;Vdt8Bgk$yImgn*P<*5'
             'cv`>9znAkg8}urTO`fDd9AUkS?^6ELfji?`KOFpE&^yrZGAPr`GoB9Kheq}of%$6Co4+3L&>wfpZunm2H8Sk$Ud6i!jyc$bFAm?2'
@@ -443,7 +443,7 @@ class AppendEntries_1_0:
         # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
         # is not dependent on PyDSDL.
         _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-            'ABzY8KG4Hx0{@*<-)|d55Vln(PLqbF3Qd7Z)D<OlA9@6e1cmaWDXoM|g5{J}NWg0EZsJ+xynF2K85;?yeE>DmN<_-?&Y#NcUFz6v'
+            'ABzY8&0!>I0{@*<-)|d55Vln(PLqbF3Qd7Z)D<OlA9@6e1cmaWDXoM|g5{J}NWg0EZsJ+xynF2K85;?yeE>DmN<_-?&Y#NcUFz6v'
             '{DM!`?d|M*JM+yq^Q`gDLbF!>+_ik1nly`;0WEkYe&=xp5lhq{S4LRyZuJ|;#DJFR<8coD*x!2Y|L|?M$b^)jJ=Wanp4CNS3k|bJ'
             '7MSD%g1A-iVZvpU%REZ5!dTGJ{X7SmK9p7qFi{UouB4%}OKb?*2qgn>^U2Bj*mvrk+F$;;cPorra*7KJ#{W#W%t>K#%DaU}0<!cp'
             'u4R^T%b5+q&U4RoNLmc(#QG1?h`xmMTWO&WdN#=w77NQVkbR53(<1PM8_NbN1&?pLjqXdJ;1)d~+fFc1MzueE&$~C7v0SEHr_(?$'
@@ -465,7 +465,7 @@ class AppendEntries_1_0:
 
     _FIXED_PORT_ID_ = 390
     _MODEL_: _pydsdl_.ServiceType = _restore_constant_(
-        'ABzY8KG4Hx0{`t?TdW($d0rl!3$?nfELoCuvB$D3^T<53B;RB^ZmdXht*&*cBww1spqJb^oIP6ZGJ82k$AAF`Z5=rvS^{Q)Jn}Jb'
+        'ABzY8&0!>I0{`t?TdW($d0rl!3$?nfELoCuvB$D3^T<53B;RB^ZmdXht*&*cBww1spqJb^oIP6ZGJ82k$AAF`Z5=rvS^{Q)Jn}Jb'
         '<)h#Fn&+S>j27)fi?%`AG)aM?$xG1xpZRA<E_ozbXo5W0hR+Ol=RW`Ueg9n6pUnT|$CoVmPxpz=rl0y@t)B8E@WS9DuMzTEy&1PV'
         'aT;X2-`#POC+k6z-`ec({^$MW@Ag0LSGv3E3I9&c)2yE1b76INUF2cVhAjSM%EfvRMLdy7Ze~f|%<`mA*g`$>+E7&`_tu+URO>{Y'
         'S~JYkj3>48oeq!uOHq~tJgwbOmG-;k`Z`b2AdaxyrFSX*dEYI$)~EgNLbK~$26-BJ#?$@>P{|fOHL3dDg*O8p`lDvqb>GW8)xoW@'

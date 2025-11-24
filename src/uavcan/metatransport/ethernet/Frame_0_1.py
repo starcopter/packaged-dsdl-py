@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/metatransport/ethernet/Frame.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.544688 UTC
+# Generated at:  2025-11-24 13:46:53.885034 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.metatransport.ethernet.Frame
@@ -305,7 +305,7 @@ class Frame_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{^{MTW=dh6n5GsancKJQ(AFTM^M@n(QQHj6{L!$#c5MF#yFu80yG_a$3EMvcULpBZd?h}f+$oP(Mp*@xji7BcmRo~'
+        'ABzY8&0!>I0{^{MTW=dh6n5GsancKJQ(AFTM^M@n(QQHj6{L!$#c5MF#yFu80yG_a$3EMvcULpBZd?h}f+$oP(Mp*@xji7BcmRo~'
         'O7IVmkoW^U@;^AUyN=@|4($uEqMe;NbLN~m-}jxpvEyE4S1$R}hoX)vUEiUS3y=BUbyoAaL+fEH3Z<vG(YqIvi0djAe6bU8vto|j'
         'G#{EtJxl}E!u983)~>U_X>rArV1bN6p&YJ&i-0R<RwPz=+U7!fVPGJqM=xjN6;sNUhHjagM(?CdDdE*(#ijWG{SSz2)ynAMS&#c}'
         'FQRekGR3H}Vd|#_Y!`xcjNU)%Epzu051I;Q>{NelyD9g1iw7!mHXxQrcr8zPZM2wpCy-t<;O<<Yc$15Me>-W-Q`Aq6Go?I6T4z$x'

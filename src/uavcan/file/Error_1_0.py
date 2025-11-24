@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/file/Error.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.340868 UTC
+# Generated at:  2025-11-24 13:46:53.488682 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.file.Error
@@ -117,7 +117,7 @@ class Error_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{@j&U2oh(6irGt*`!TKloCV>)J0IG5pe(sAznb~W>c-4*sJ|0>O(ae+mpScdOc=5-exNys1OyEMrt8b_!YeH2g@CA'
+        'ABzY8&0!>I0{@j&U2oh(6irGt*`!TKloCV>)J0IG5pe(sAznb~W>c-4*sJ|0>O(ae+mpScdOc=5-exNys1OyEMrt8b_!YeH2g@CA'
         'zMBZ`K6uA-XU?2+edpX?re5EuPLw}=D;vgnoVX-slGB7grD4Kc5{Z5$a;})s^KB)INEMQGh8Z&l=I%4|lUdajlF~lLmkK(FXzK29'
         '+*p@VNTaJ{z+}!vYG6XoJUAR57;n;>cy68<eU(t9Bo7P4a`On$F5z*!%IL~AXGwf={v3&^qC{Czmu=4^?{mcmxMI1R=De4(xREN>'
         'WAdz+t0d%#BrNSIFy119M>JQYFJflkx?X7>0oiSC4P(1Dgo-A9GcBX9lU&g>rZPSa^m`FPMOOwiDUiVwiA7}egu&SbU9E}K?or1i'

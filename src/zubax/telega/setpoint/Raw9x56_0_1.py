@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/telega/setpoint/Raw9x56.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.080665 UTC
+# Generated at:  2025-11-24 13:46:56.827006 UTC
 # Is deprecated: yes
 # Fixed port ID: None
 # Full name:     zubax.telega.setpoint.Raw9x56
@@ -138,7 +138,7 @@ class Raw9x56_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{?wgZEqDt6mIGJD}93^1zQo}f^=y`u=oaOLSn|&rl{Y{WcKcOXVSg9o7vg+UJ??C0VSD)(GL2<{4;#?oV}+O(Ap1u'
+        'ABzY8&|xHL0{?wgZEqDt6mIGJD}93^1zQo}f^=y`u=oaOLSn|&rl{Y{WcKcOXVSg9o7vg+UJ??C0VSD)(GL2<{4;#?oV}+O(Ap1u'
         '_RKlwIp@sFbAK9q@z-!){pXg8Zc-*`#7k+kNcBSzr!wNryj|p_wlcV>2i8<gTN(Lnw~*l=TzMQGg@zmAnP`Lm{KG01oyf{mwnS7)'
         'TjV;k(T>=^-MM)yxKX|*O{w!Ns6IFHJ$)Yp*2nsvhR4B8aAB>{ab;y0ehA04^iNQ5L-(~zlcQF~c_OUf7W;Ec$D|u0y1^~n*BzOB'
         'Ewh$Y_i*X;p{6*D(UzGdvSWHFjBabI_aI{ayR6i$OeSAtR<@*hoo|B2+VZq67uXnd+7zYb?L3h|opq<T4~Z}>`VxGb=)&E35_X_n'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/kinematics/cartesian/StateVar.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.149191 UTC
+# Generated at:  2025-11-24 13:46:56.582215 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.kinematics.cartesian.StateVar
@@ -150,7 +150,7 @@ class StateVar_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{`utO>7&-6~`%3q*fFyQL<z!vLmlQVpFn3J9e8YY1$}FVyM{2Wo*ZhlP2VfTxph}NMd(sQ$YhThZah(MHcWD^`VCp'
+        'ABzY8&|xHL0{`utO>7&-6~`%3q*fFyQL<z!vLmlQVpFn3J9e8YY1$}FVyM{2Wo*ZhlP2VfTxph}NMd(sQ$YhThZah(MHcWD^`VCp'
         '=)s2qEl{8^dI|~zwS%-klQwlf4(ZK@1}M-&eM@JS|5;Ka%91~jw#ZTt-*7)>XG#A4^WNLHY;^zNnOw+w*n6rg1+!2}XHCt})sp_2'
         'x=_;6*?eWWS}}D?bM0+sETfjUYKC@prK-7?+=(~b*WHvI&6d?=y8iHMwFR}Fu96i~&ztF2^|H3CTCAB@4NEh1wVXa<sg`z5HC$WD'
         'UeF9vuasR9vU|><eaTfqO4s+?H(a|ft6G+!FVyI+?#uKz8;sE3%C(~>b*)rrjVzumsFs?w*l<a>xsXKd$t?^tQ!%}9k{;5_heQ%|'

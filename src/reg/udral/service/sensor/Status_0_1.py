@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/service/sensor/Status.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.279907 UTC
+# Generated at:  2025-11-24 13:46:54.794159 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.service.sensor.Status
@@ -180,7 +180,7 @@ class Status_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8KhVQy0{^X7NpBoQ7_~`oj7=aR5F#N+AtZ1FZW0j?AeK0>6Il~GmSYxyLZ`aBJYOk2T}^ehmxu^Bumlw%Qi=l-R}LIFvq}60'
+        'ABzY8&S4~J0{^X7NpBoQ7_~`oj7=aR5F#N+AtZ1FZW0j?AeK0>6Il~GmSYxyLZ`aBJYOk2T}^ehmxu^Bumlw%Qi=l-R}LIFvq}60'
         'B>n<Ff?If1?eWZb!60GF>h9XU?Y;MvKidB_9UKZj_ISCTRaqXzmC%ys@;Xm)5yh$Ml&X?OID2qf<g$a;Y-zm|?zTJevAf|W>_{w&'
         'LTE=r_TXis>(ta*3@*7lE_eq=9M_^9)tTmb1T!l#6?hhv($QtZO<g%V8m|alNmcmc4!pVXe%rN%TEm~ZkDVQlxiMNMwGoxOg0pvV'
         'd~=nvcb}Ic&wAdB#Thp|Hr_=#&<xU;eXQmyDKDZ*Ms*=gl+~IWSdT8JJm-k-Ub?R}+#2$3(BUhN9@^M?Y&RcD?eis9;KM!VbH&YI'

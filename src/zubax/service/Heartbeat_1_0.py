@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/service/Heartbeat.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.266615 UTC
+# Generated at:  2025-11-24 13:46:56.788777 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.service.Heartbeat
@@ -153,7 +153,7 @@ class Heartbeat_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{`tA+j1PmRkE=qFE?KR6E0!61SBktEE^L7AwkFnD{IRx%f`+HhMt+;?H02$o9>=nt#J~lN+>&-s<?_t6@L(3QhDVQ'
+        'ABzY8&|xHL0{`tA+j1PmRkE=qFE?KR6E0!61SBktEE^L7AwkFnD{IRx%f`+HhMt+;?H02$o9>=nt#J~lN+>&-s<?_t6@L(3QhDVQ'
         '_yj%yDtXKUc}P{x={dbuN#IK5DOs2H^!9Z3IeqTuj6b;RPk()K%6^I`+PzrEi63aLBunIV7AD*eqO8@<v^2ad?%gmdk4&!k<zAbY'
         'AD8nVmcJ_JihV)KTJZen^*m%-KJ4$vi2G+bQzqohl*Me&;Y!OaEyYwZ^A?RiF6-0vsgKGJ%i`{U8KY#F8?MW@;mjSV>8~n_eQ!vf'
         '!~-g7LCg#b43Z}HRFh)gI8m24i)G5SF2#&E;P8uk0H-)en~v;+y{%+R8rcEtN3Nt=Hd7w2rG_`T8s*5{K`2d-@U&?}S>FS+MNFHZ'
