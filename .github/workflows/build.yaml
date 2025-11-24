@@ -31,13 +31,13 @@ jobs:
 
       - name: Checkout (branch)
         if: github.event_name == 'push'
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           submodules: true
 
       - name: Checkout (PR)
         if: github.event_name == 'pull_request'
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           ref: ${{ github.head_ref }}
           submodules: true
