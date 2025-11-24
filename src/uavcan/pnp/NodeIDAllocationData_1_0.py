@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/pnp/8166.NodeIDAllocationData.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.319149 UTC
+# Generated at:  2025-11-24 13:46:53.809036 UTC
 # Is deprecated: no
 # Fixed port ID: 8166
 # Full name:     uavcan.pnp.NodeIDAllocationData
@@ -178,7 +178,7 @@ class NodeIDAllocationData_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{^X9-H#l_5%2Tod2Ni14K`nPV?KNbcZ<&$+t?;>zO!R%v9XLXC=%Js?(|+yn4KP`XYOv1kitVEERB?tm`MBw;ZNW#'
+        'ABzY8&0!>I0{^X9-H#l_5%2Tod2Ni14K`nPV?KNbcZ<&$+t?;>zO!R%v9XLXC=%Js?(|+yn4KP`XYOv1kitVEERB?tm`MBw;ZNW#'
         'ue|XX6e+I}e*%xG>aMAsy^jP%aTKa<rl-5Q>Q}$6>ixr>zx?%-aR18F=_s^e-0oVHML`^W9`s_>?)J?vH8#psRX+AXo)!JP$kc;T'
         's;aN6*)OXvs+n?cHwlLD{&W$n_JgFICTaVw3Dxc8#W*(oAdgJ49OOY&PIp&TX5r6Di*o-%(!Z`cQyuZA>dUG;*bVYLi+V+_Z1oAu'
         'y@OResw(&1j8q(st!Z^bSgV_(i93CsX3;Rpqg5Dj?8C%HD~SqkC%IZt+2qy^c6(9Yja9Oe>#B1OChrF}?+#&il|EiRb+4WXKWi_+'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/sample/angular_acceleration/Vector3.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.206826 UTC
+# Generated at:  2025-11-24 13:46:54.067091 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.sample.angular_acceleration.Vector3
@@ -166,7 +166,7 @@ class Vector3_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{@Ly-EJMX5k8XjFI$!@|HXD3I!$e<_1PqH<fv)W#&MuJrG0GJifgoJw%lFnkkS5?<VrdL0yGy5tYU#K;4R=s$Rp$t'
+        'ABzY8&S4~J0{@Ly-EJMX5k8XjFI$!@|HXD3I!$e<_1PqH<fv)W#&MuJrG0GJifgoJw%lFnkkS5?<VrdL0yGy5tYU#K;4R=s$Rp$t'
         '0`$75bCuhmeSqf9o!RA{bL2=sB}m^a$(<R_48P(2dF=1s&b6wa{FSs9=pb}l&6Q-K{FHeicU(V-(nL$c%ly~_qcY!Qif{B%UOp+8'
         'KQBKkm-2BpW)aM{Gq&xs*wNC_EK1>R7I(9dDVO;^54mDSCb9F7`zBG>%6!V*=1Rj*DO&mDLn}Wi=?HCoQGQ<Lvo146NiQ>8mwy0D'
         'hxpiERp#UCl83>-w;4BJhPehE7Nhl`7|$<RSB;Fg^Pm^|LM5^Mlm{CypbdCmib*lucp{F1bun*WUp&l@RLMvhxeb0SeiUojjd}24'

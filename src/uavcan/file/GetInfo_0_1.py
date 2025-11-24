@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/file/405.GetInfo.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.348334 UTC
+# Generated at:  2025-11-24 13:46:53.598777 UTC
 # Is deprecated: yes
 # Fixed port ID: 405
 # Full name:     uavcan.file.GetInfo
@@ -121,7 +121,7 @@ class GetInfo_0_1:
         # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
         # is not dependent on PyDSDL.
         _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-            'ABzY8KG4Hx0{^X6S#KOg5VjR3wl_B+2~vd8<N?-_JxLHq0U;6R1U5F7<DfhchMt+)t(IqJhVCBQi$F>QK@M~vC>`;_3lb7SNc={s'
+            'ABzY8&0!>I0{^X6S#KOg5VjR3wl_B+2~vd8<N?-_JxLHq0U;6R1U5F7<DfhchMt+)t(IqJhVCBQi$F>QK@M~vC>`;_3lb7SNc={s'
             'W@dfFHity=;MqRDs`{$x>$*SoZ0XQQ_0OFx28l`1AT*$rOx5QyN+Ag2ykF!-S@7=gHAq#TK9i+E0sg6<df>nGZFeA4Sq9qUh&z1S'
             '>N2*ahV4i8hnegX#F<jA#4-!Iim-2jeLw5w!6JNCg0bFBge#zp$}@%<|ET$X>N_Ky(Qo_%?+%92TCJkeg7NqKUOsOe@^1eP1!=PB'
             'NGnXFm7!(taJ*i`mOHl9uLWt*;~_lK8SRX)T|9n|PMvH{zvRyBVODE7@b2_Sl2&Qu7Gyn(v%I>Ujl&_N(1*;{e(V)Sp_y&9LMKk#'
@@ -379,7 +379,7 @@ class GetInfo_0_1:
         # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
         # is not dependent on PyDSDL.
         _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-            'ABzY8KG4Hx0{`t;Uu+yl8TS=CzSvH1l-h~fqHa_vI3ii62uM{Ps>C^0r%Ue4`5X#THJ#m^yKmyXoz={&?TZ9zg@8mFiAdQBkoeOU'
+            'ABzY8&0!>I0{`t;Uu+yl8TS=CzSvH1l-h~fqHa_vI3ii62uM{Ps>C^0r%Ue4`5X#THJ#m^yKmyXoz={&?TZ9zg@8mFiAdQBkoeOU'
             'ctE@$At8Z^5Dz@iB7t}T^#LIvp*~bRpg!<`RKD50JD<<%(i1$A#JSy>@B8NWee=!lH|H0pUw-G*RQAU_9`^zjgf3A`avJhG)C-wQ'
             'e9?`C;+m!A#B~<(E<OgWUd+-5>4lflFQhBx7~xUGWC~N}#HN;suM^1*n#_=hb}__b3ElB&<hD7+ewOKK)D~`&saQk`r^{rANySBE'
             'W6j>`KR-xoQ?=4p(w9;*PpH<Cdx>T$eI5fJfqH0_nwfRZ!eAfD90{nVL|c3?n-9XAIW>x`BBj857T{#9RGYFZ!zo-1mip#rk6JgD'
@@ -412,7 +412,7 @@ class GetInfo_0_1:
 
     _FIXED_PORT_ID_ = 405
     _MODEL_: _pydsdl_.ServiceType = _restore_constant_(
-        'ABzY8KG4Hx0{`t<-)|Gi9giUpCj<!Pfa?M69IdX78a8m^4tl5d<VzfIo!B|Yq4XrQjCaSLan`%;?rahxA;C#Kg=%|8VY!D>AKI5n'
+        'ABzY8&0!>I0{`t<-)|Gi9giUpCj<!Pfa?M69IdX78a8m^4tl5d<VzfIo!B|Yq4XrQjCaSLan`%;?rahxA;C#Kg=%|8VY!D>AKI5n'
         'l}=Tq{vGYV(TD0D`_Ml0`u*;#?X|OkMAtr4Du}P`+4=sM@6XRH567QRUKor11mEs-P0zG6-D9qxmbg#r7SnXYX?Gk?NEQai)|k5~'
         '3|8xQSokcQeH1<jbHQ=lWk2(oCv}PId@MM=$SlzY7IS##QC-+JbE7S5()A7LyCcGm=r(PGs`EbGG^njL1lVws$)eqGw5rk*23dWR'
         'xt?%r6g6=>{{Ad1jg>MVhmXKgol5D7x-Xd*-VOIUTYpm+99a^~G6#lC=_ZvlKGL*W<R^ofq+P32@{ph6r%RdA80zI`@4~Lv;@ua6'

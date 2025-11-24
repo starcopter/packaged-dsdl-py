@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/highdra/bms/ButtonState.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.915184 UTC
+# Generated at:  2025-11-24 13:46:55.515854 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.highdra.bms.ButtonState
@@ -111,7 +111,7 @@ class ButtonState_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{@j%ZBG<25C%Em00qerjV8VkH9*4plK8<dCW2_l;d#09U9stI%T2@HcGGrGPGce;G$CoC3H6`&1D)=@A&Q3E4>#>h'
+        'ABzY8&tW8K0{@j%ZBG<25C%Em00qerjV8VkH9*4plK8<dCW2_l;d#09U9stI%T2@HcGGrGPGce;G$CoC3H6`&1D)=@A&Q3E4>#>h'
         'pUzC5XFeBx{2U$1fA&(^W}3wT(Od}{iw`u6c|aoBOr;ivJA0~bR2G>`@u%&SyM4E~>pr;!J4zDTME|@tR7Em1Tm>K+z!VL_rVdsz'
         'V`Ne{)PodBiz_W;;$X;*KkwT6t~^v8{_1v}og&m2CBn>b?KTnqh{XC)&W=75JZ6K0CJCd4663Qx>UgR|Qy9_0h|;q}i$=oPdSZBk'
         'tKX}eBB3xO=1IeVD;E$vqS}zAWZc1=JyY!g`D4K<`W}0iujq@bIXg$NEeWHF9R%9TLKwAUVcr^N3xvtY*&&D9)3&%O6Mx9`vw#wu'

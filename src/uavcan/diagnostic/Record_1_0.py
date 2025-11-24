@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/diagnostic/8184.Record.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.068571 UTC
+# Generated at:  2025-11-24 13:46:53.727610 UTC
 # Is deprecated: yes
 # Fixed port ID: 8184
 # Full name:     uavcan.diagnostic.Record
@@ -227,7 +227,7 @@ class Record_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.DelimitedType = _restore_constant_(
-        'ABzY8KG4Hx0{`t>O>7)TcAoB`#OCP7l=Vkjw$=WVhHG+6X(gHdkt11_O{H8Emy&mt1j(pprpRilr@Oa*NRE{Sw1+Hcpn(kFUO>0_'
+        'ABzY8&0!>I0{`t>O>7)TcAoB`#OCP7l=Vkjw$=WVhHG+6X(gHdkt11_O{H8Emy&mt1j(pprpRilr@Oa*NRE{Sw1+Hcpn(kFUO>0_'
         '5<oyM1{PT8=%avKd=wTz;8P$ha_}h-a>{$vuZJ^3QW9lRi_OZ0`qk9md-dwod+)1m-Wd3;`EEh|mmKz6jj-WVs-XyM%dx+(YL2K>'
         '>t56MLOT*^vg>2v*i9%lF1LJ<ewB{?I{j5zPPSKV*A+o33(2laQ4rUoI1s&EwpCrL2~&*3)?(dqD-GM4cfByO>y=qi_ku>67}Z4)'
         'gtq76JcB={@>eO-Sm8J6uhV2l)rz9PuEmiE)4zvFH;}l~D^0e2Vhg9SDn_Z=up+A(p=@$6tCXeWRgx;Qo1${5<<@23x%L;ZPN)bY'

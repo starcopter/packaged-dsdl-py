@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/starcopter-dsdl/starcopter/highdra/bms/Location.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.928955 UTC
+# Generated at:  2025-11-24 13:46:55.529630 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     starcopter.highdra.bms.Location
@@ -111,7 +111,7 @@ class Location_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{@j%ZBG<25C%Em02Rm)jV6j3H9*4plK8<dCW4^k@VK1#4mRCwxoOzjZrbk2X-wpUCL~QXq5cPdrqjJQUqIvShnse$'
+        'ABzY8&tW8K0{@j%ZBG<25C%Em02Rm)jV6j3H9*4plK8<dCW4^k@VK1#4mRCwxoOzjZrbk2X-wpUCL~QXq5cPdrqjJQUqIvShnse$'
         '&pgx4Gan1zz7G%NKRcVYm}YT6G*^Pg;vEfR9*{^jQmKXE&YpT=R2G>`@y%As-JzS`cOTrG9VQ8Fpnp~ysv?;ht^yEsV2TD|LkH_J'
         'qDIKX*&=CjrM(FQcJx`tK6K@Q^5AE;@9YGj#wZbHhHJNt*vGKyML9dXDtOHLY{m(rh7#i`9(O!dq9KfEVnpd_qD4L7Y%MXo&egA_'
         'O^{F+67!^Pz?BOK9#L&bLo)7Q#-6Emf&8&x8GVnv%UATt)tsFncqa*?iv0|9kcBX8i*fH>3WUkX*#U=+)3&%Q6MxL~ct8oxbgXmb'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/service/actuator/common/FaultFlags.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.253556 UTC
+# Generated at:  2025-11-24 13:46:54.764794 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.service.actuator.common.FaultFlags
@@ -302,7 +302,7 @@ class FaultFlags_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{`t+ZEIXb6i&>0`jV8?iWTexr6$naRjPtkkhEBlZPI9J@q;qXy>~V<X7<kQ%-l^@5bOtq!jy`=ei8g-{tiKWL7%z1'
+        'ABzY8&S4~J0{`t+ZEIXb6i&>0`jV8?iWTexr6$naRjPtkkhEBlZPI9J@q;qXy>~V<X7<kQ%-l^@5bOtq!jy`=ei8g-{tiKWL7%z1'
         '+1>1JAyx2`2_g5MIp;ZN&OGOt`}On>KcAVXe*C4po!V4I)N&)4l3%h|@rWk6nQJQ@Fa4QaXNtrXhTm!DynI})-!H!^*Zd64SQG14'
         '4Bv~2)G!qRqa_m_F}O3QO$3;x&Z3*FQ0}H;d$#oRw8f2;IxEG5pS#<Aeq7ck>XYA=_e+0@GUtqp3&(Bw84^9A#GY5_XKqTa(tc@+'
         'G-Zxa7wUadcy44<I@yB9sq0!R&a&hCJ4IvZsN&h46J>o8pb4{%Hg(ENao%6pIRXe_(G9F^g{82QZ_1BKf1X;$vXq&05a>Y>iy1$!'

@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/kinematics/cartesian/TwistVar.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.157707 UTC
+# Generated at:  2025-11-24 13:46:56.590680 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.kinematics.cartesian.TwistVar
@@ -166,7 +166,7 @@ class TwistVar_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{`ur-)|Gy6~`xb;y8{8P9RwqC=5RqoIspFcDL+yw`Bp*tS+Gu?9%K?-C=AGxnpdPH8T#*sz|#JtwJ?YM`9}R(1$+q'
+        'ABzY8&|xHL0{`ur-)|Gy6~`xb;y8{8P9RwqC=5RqoIspFcDL+yw`Bp*tS+Gu?9%K?-C=AGxnpdPH8T#*sz|#JtwJ?YM`9}R(1$+q'
         '4^*W;<^I~TTUBb`cxa`S`of>U8$EaYy>^&&fK+{3PsDtWXXgHx>wL~V=a7#FfBLh$5+2@x`g+MJRq~o+*rr}FKhg^oBd-;$YTa^7'
         '*9g2FS6sVMbQ`wu?t0w_?gZ1H1h;~mH>B0{D&0T+QKO(Y^L4)Nm_;Xl!>k!q-4$k0w_U?A^;-Vjo2KJl)$PDbYHNn=m{u*|iZ^@}'
         '_MLz!Y~V-1CxJJr>8@*=g$6YZzE9(9F~iPNfj4x)G%BU;%u-rOcXiDb)8(=DMLy)^UUZ@XALb)+LOe~A;2HF?Yg2y*8v0t1+Bjyu'

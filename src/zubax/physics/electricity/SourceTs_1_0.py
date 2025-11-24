@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/physics/electricity/SourceTs.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.099966 UTC
+# Generated at:  2025-11-24 13:46:56.635090 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.physics.electricity.SourceTs
@@ -151,7 +151,7 @@ class SourceTs_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{_KXTaO&Y72dVIx3TeswYl23xWwKGyJIleYzP;dMaHD<#bOt*5{0IwyLPI^J>5-Tc6X4Xz(WX5T1rcFB&57Y{DR0&'
+        'ABzY8&|xHL0{_KXTaO&Y72dVIx3TeswYl23xWwKGyJIleYzP;dMaHD<#bOt*5{0IwyLPI^J>5-Tc6X4Xz(WX5T1rcFB&57Y{DR0&'
         'd5n<ql9wptF>fSqks<{}iJb3LSNG2B#WoTNwmhf0F6Vwuol|~)&o6&>bVUEjj)#3WcD<Gzi%4-#y~o?0XxUEC3xilCqR8%AN}|+B'
         '(nu`#Ls5KOG(RYQRLo>!w$FQ5f8@Qi&DUF@?8nN9Tf!4g5-CR|{nk>DMvhpHi)_+f6;Z4LzmOx@#G7XPabb;GBOewY6xm*zCpgwl'
         '6A>3b1o|Bqt9KRI*aam#cY~pZ?ec`%32`ZRm6LKTdpPB*4)<G$>WS7;-*;pb`0733E@L82crPsEgq*54k^4Yh9yG_Ncj6<AR8J*p'

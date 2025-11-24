@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/primitive/String1K.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:16.811055 UTC
+# Generated at:  2025-11-24 13:46:56.664854 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.primitive.String1K
@@ -151,7 +151,7 @@ class String1K_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8K+wZz0{?YX|4S4>6hFz+OEb@`j0%*XxFFXoihitwAU5^V6e?nv-Fe<j?#?W;vvwy0`9qN~kl^(H_Gb6|mfrrdyYt?B=JP)9'
+        'ABzY8&|xHL0{?YX|4S4>6hFz+OEb@`j0%*XxFFXoihitwAU5^V6e?nv-Fe<j?#?W;vvwy0`9qN~kl^(H_Gb6|mfrrdyYt?B=JP)9'
         'edfpT-`#qxeC%x2V>wF#l7kjB5xX=>ARw_yGnESi&Q7cwUBsr)@S&H1J9H2C+;`Wqbs}ks@msq^M7u$zMJkNgfdKP`>@0@PHpmX>'
         'Tqx;y&5myNzYkqF6xM#ZJ!i)WHJBY026Fes4PtYg<ZS(ofP|f}7$b}tN{pvw?+n<kHSIY&vq^CkSKfi_82-wyo-JvDKmsX9)5jY?'
         '=eSg7r#ECSIuh7hX`lo8EZ#VYgds_JoC_OBHm12Dsbb*xZF{qQ1mw2`OBh@BArz?g)2%sso#ci}Mm0MP^t*`cWkkwoEKJWW*M{x2'

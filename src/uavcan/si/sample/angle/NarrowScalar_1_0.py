@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/uavcan/si/sample/angle/NarrowScalar.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:14.185054 UTC
+# Generated at:  2025-11-24 13:46:54.079342 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     uavcan.si.sample.angle.NarrowScalar
@@ -151,7 +151,7 @@ class NarrowScalar_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KG4Hx0{?YaTW{UQ5k8W2mu$<CZ?O|+ouszZ`Y?$SIcnN87X_};wT_KgNsSf_u_RY#w<fvl?(#?{K!N6=fdvpK0kc4ULViMi'
+        'ABzY8&S4~J0{?YaTW{UQ5k8W2mu$<CZ?O|+ouszZ`Y?$SIcnN87X_};wT_KgNsSf_u_RY#w<fvl?(#?{K!N6=fdvpK0kc4ULViMi'
         'LV!LOb>7lG1^oqiYiG#ik>tn{q;Jk%W@cw*zuEJbiNF8*WT*ZqUdV=#iDJ(;TuT<q&sY$1&kt3SDI+bfij()O&O@7PzCFx%^{86;'
         'y!vysTuk~YOJM$`oDD*jdPaJNB^m5yX&?UgnAU3dUdUpmt766<aBZYYE72*YKXLM-ijL9F7uDxgG4C^LwG490P4x%R{}j(gtEyu1'
         'mgI4C;L)5PG0S|5Zi?|{P)rtAor6{;+`BhSL!nhFKjYCh3>XVOS7KVsww{Ouur3ze_NAx!k!hJoD+l1m(#NTh{gg)^rk3})J{qTa'

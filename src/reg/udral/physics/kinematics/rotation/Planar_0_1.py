@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/public_regulated_data_types/reg/udral/physics/kinematics/rotation/Planar.0.1.dsdl
 #
-# Generated at:  2025-09-12 07:48:15.189835 UTC
+# Generated at:  2025-11-24 13:46:54.831039 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     reg.udral.physics.kinematics.rotation.Planar
@@ -187,7 +187,7 @@ class Planar_0_1:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8KhVQy0{_KUTW=dh6n5IgY0^RyrBI1hV0Z}T(rv><;#LSP3P`4@m9z*{%4BwT>N8|LvznPTHc}CN05xb3NSX4;6aRom#Q#9z'
+        'ABzY8&S4~J0{_KUTW=dh6n5IgY0^RyrBI1hV0Z}T(rv><;#LSP3P`4@m9z*{%4BwT>N8|LvznPTHc}CN05xb3NSX4;6aRom#Q#9z'
         '$AmMxcI?L9G&~?2MIN6sbLPzVedo-4JN@95`AYt=&!oLr$4NjmQ=BIJYZ@jjAdzgRQgg$ceQeXHEHas5H+m^^yY7X1?yjrb86s#K'
         '{Vyxl3bI(yBuJsBd8C7FE?AoyKUC7-K#HK5P(hWmCrF1WjTQ$LJNrq0yz3g3#?<%jp0g(jHAe9;GfcbNxKT-p`?H*#S>r5;hpEkz'
         'm>Noq&liprMwqeZGTMo#2s95e!A(F#3j=LNG{MAR7UmjLjf&3!PTh8}&|kMymO!d_n;YK21m@NfNzKFfoFpMPBw?auz%^=^R7ABQ'

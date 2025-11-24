@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/primitive/real32/Vector4VarTs.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:16.987098 UTC
+# Generated at:  2025-11-24 13:46:56.754329 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.primitive.real32.Vector4VarTs
@@ -202,7 +202,7 @@ class Vector4VarTs_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8K+wZz0{^90-ES1h5#KfbT)r{ia9nd-z)sjXV=(wgF5%-sxHK39hM+{bQO`_!dzRUmNq5iMi*(Z6Lrypv=|*BAo$?plpTM7R'
+        'ABzY8&|xHL0{^90-ES1h5#KfbT)r{ia9nd-z)sjXV=(wgF5%-sxHK39hM+{bQO`_!dzRUmNq5iMi*(Z6Lrypv=|*BAo$?plpTM7R'
         'QXcXYg*@gV5;`eTq(~8YB2_az>ovA{NQ`EGHT_XlT~%FG!{@`l|I^-D@t3|E_dMkVmaVw-S>QimPQWeOjXH6pe9iN8=Y1^`S0|D$'
         '_F|qt%csA{Kg*}m5j$iZm_PL-aoCC#OTXi5zsoJjS#W;VddOWJ$qNseTvT~FZg;s<eiY`SmX19%^s}7SY3<AWi#*+KGp(iXB$})I'
         '*T8=Z&HAhIbmWH518+^EhV3!UY>jG)p>j}+q$d;Bby;X>zr(Hjz0egh3jHVCTZ93nStriLn3$+E5j#M-*kiU&Zly>6ym>nLAXI)U'

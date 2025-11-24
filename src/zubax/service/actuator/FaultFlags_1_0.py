@@ -3,7 +3,7 @@
 # Source file:
 # /home/runner/work/packaged-dsdl-py/packaged-dsdl-py/submodules/zubax_dsdl/zubax/service/actuator/FaultFlags.1.0.dsdl
 #
-# Generated at:  2025-09-12 07:48:17.271969 UTC
+# Generated at:  2025-11-24 13:46:56.793804 UTC
 # Is deprecated: no
 # Fixed port ID: None
 # Full name:     zubax.service.actuator.FaultFlags
@@ -302,7 +302,7 @@ class FaultFlags_1_0:
     # Eventually we should replace this with ad-hoc constants such that no blob is needed and the generated code
     # is not dependent on PyDSDL.
     _MODEL_: _pydsdl_.StructureType = _restore_constant_(
-        'ABzY8LD0i!0{`t+TW=gS6i#R^o9!j3Qi|vUbp$GjL}pu+B0-T*+ERqlq@f8F4<O^2@vco~$5Y$0$yP$54<JQYP^nWSejYyo32_lG'
+        'ABzY8&|xHL0{`t+TW=gS6i#R^o9!j3Qi|vUbp$GjL}pu+B0-T*+ERqlq@f8F4<O^2@vco~$5Y$0$yP$54<JQYP^nWSejYyo32_lG'
         'e4gFxZg#gQ1&JpTMHwHT@0{av`RuQzp8j-tqWp0evvzFaB%p?C$rAaHg$WO6q?(yB((=Nc-nKfAY_9oEJLAQZV&zfsWwGq0Y08?|'
         'UwW8_Y(D_LB_kd%s4}Z`aGT|cy`8XzDO`oNxHeLyg_v-&_q*RuiuK9$iEoNWg*!=^wOWR`<)-)y)}IkqPpfd#w<S;FemqqgGs~#;'
         'K|TwfY1x!kwxDtHhEfS<>Cr=-q@lDl;c3GPL<gf0GnO`0%nNbOo!>e%;9<c{>}~ihoMhtb;$Gp-QDa#eGaU~aI><vY?J5dMNEC|;'
